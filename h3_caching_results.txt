@@ -1,0 +1,2043 @@
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> abmcare.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45929
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;abmcare.com.			IN	A
+
+;; ANSWER SECTION:
+abmcare.com.		300	IN	A	104.18.11.144
+abmcare.com.		300	IN	A	104.18.10.144
+
+;; Query time: 468 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:53 IST 2025
+;; MSG SIZE  rcvd: 61
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> anvilnetworksolutions.net
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34508
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;anvilnetworksolutions.net.	IN	A
+
+;; ANSWER SECTION:
+anvilnetworksolutions.net. 3600	IN	A	217.160.0.13
+
+;; Query time: 1004 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:54 IST 2025
+;; MSG SIZE  rcvd: 59
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> archiportale.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31642
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;archiportale.com.		IN	A
+
+;; ANSWER SECTION:
+archiportale.com.	300	IN	A	104.18.13.154
+archiportale.com.	300	IN	A	104.18.12.154
+
+;; Query time: 428 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:54 IST 2025
+;; MSG SIZE  rcvd: 66
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> arcoat.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65194
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;arcoat.com.			IN	A
+
+;; ANSWER SECTION:
+arcoat.com.		3600	IN	A	66.39.19.55
+
+;; Query time: 628 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:55 IST 2025
+;; MSG SIZE  rcvd: 44
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> asseenontvlaunchpad.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 46692
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;asseenontvlaunchpad.com.	IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672574 1800 900 604800 900
+
+;; Query time: 336 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:55 IST 2025
+;; MSG SIZE  rcvd: 114
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> autopareri.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52247
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;autopareri.com.			IN	A
+
+;; ANSWER SECTION:
+autopareri.com.		14400	IN	A	147.93.94.216
+
+;; Query time: 424 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:56 IST 2025
+;; MSG SIZE  rcvd: 48
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> bbqinjector.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 58559
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;bbqinjector.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672574 1800 900 604800 900
+
+;; Query time: 420 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:56 IST 2025
+;; MSG SIZE  rcvd: 106
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> begleyhutton.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26472
+;; flags: qr aa rd; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;begleyhutton.com.		IN	A
+
+;; ANSWER SECTION:
+begleyhutton.com.	86400	IN	A	198.185.159.145
+begleyhutton.com.	86400	IN	A	198.49.23.145
+begleyhutton.com.	86400	IN	A	198.185.159.144
+begleyhutton.com.	86400	IN	A	198.49.23.144
+
+;; Query time: 1392 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:58 IST 2025
+;; MSG SIZE  rcvd: 98
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> bigliettieventi.info
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 33783
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;bigliettieventi.info.		IN	A
+
+;; AUTHORITY SECTION:
+info.			3600	IN	SOA	a0.info.afilias-nst.info. hostmaster.donuts.email. 1761672082 7200 900 1209600 3600
+
+;; Query time: 256 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:58 IST 2025
+;; MSG SIZE  rcvd: 117
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> bmw-parts.ru
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37930
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;bmw-parts.ru.			IN	A
+
+;; ANSWER SECTION:
+bmw-parts.ru.		3600	IN	A	91.236.136.97
+
+;; Query time: 644 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:59 IST 2025
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> bookingnest.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1013
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;bookingnest.com.		IN	A
+
+;; ANSWER SECTION:
+bookingnest.com.	3600	IN	A	76.223.54.146
+bookingnest.com.	3600	IN	A	13.248.169.48
+
+;; Query time: 528 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:59 IST 2025
+;; MSG SIZE  rcvd: 65
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> callcomm.info
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1663
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;callcomm.info.			IN	A
+
+;; AUTHORITY SECTION:
+info.			3600	IN	SOA	a0.info.afilias-nst.info. hostmaster.donuts.email. 1761672082 7200 900 1209600 3600
+
+;; Query time: 236 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:00:59 IST 2025
+;; MSG SIZE  rcvd: 110
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> cdmail.fr
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57022
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;cdmail.fr.			IN	A
+
+;; ANSWER SECTION:
+cdmail.fr.		3600	IN	A	5.196.212.149
+
+;; Query time: 1112 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:00 IST 2025
+;; MSG SIZE  rcvd: 43
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> ceskykutil.cz
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11152
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 3, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;ceskykutil.cz.			IN	A
+
+;; ANSWER SECTION:
+ceskykutil.cz.		300	IN	A	80.211.205.242
+
+;; AUTHORITY SECTION:
+ceskykutil.cz.		86400	IN	NS	gama.ns.active24.sk.
+ceskykutil.cz.		86400	IN	NS	beta.ns.active24.cz.
+ceskykutil.cz.		86400	IN	NS	alfa.ns.active24.cz.
+
+;; Query time: 648 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:01 IST 2025
+;; MSG SIZE  rcvd: 130
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> charityjob.co.uk
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63404
+;; flags: qr aa rd; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;charityjob.co.uk.		IN	A
+
+;; ANSWER SECTION:
+charityjob.co.uk.	300	IN	A	104.24.144.14
+charityjob.co.uk.	300	IN	A	104.24.145.14
+charityjob.co.uk.	300	IN	A	172.67.64.72
+
+;; Query time: 796 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:02 IST 2025
+;; MSG SIZE  rcvd: 82
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> chekiang.info
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53482
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;chekiang.info.			IN	A
+
+;; AUTHORITY SECTION:
+info.			3600	IN	SOA	a0.info.afilias-nst.info. hostmaster.donuts.email. 1761672082 7200 900 1209600 3600
+
+;; Query time: 260 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:02 IST 2025
+;; MSG SIZE  rcvd: 110
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> chenghuavideo.asia
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 52800
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 8192
+;; QUESTION SECTION:
+;chenghuavideo.asia.		IN	A
+
+;; Query time: 760 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:03 IST 2025
+;; MSG SIZE  rcvd: 47
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> cia.it
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56846
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;cia.it.				IN	A
+
+;; ANSWER SECTION:
+cia.it.			24	IN	A	3.248.13.228
+cia.it.			24	IN	A	54.228.218.49
+
+;; Query time: 560 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:04 IST 2025
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> ciber.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13973
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;ciber.com.			IN	A
+
+;; ANSWER SECTION:
+ciber.com.		3600	IN	A	103.247.209.15
+
+;; Query time: 420 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:04 IST 2025
+;; MSG SIZE  rcvd: 43
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> clickdownloadfiles.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 62013
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;clickdownloadfiles.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672589 1800 900 604800 900
+
+;; Query time: 356 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:04 IST 2025
+;; MSG SIZE  rcvd: 113
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> consumerreviews24.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 47455
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;consumerreviews24.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672589 1800 900 604800 900
+
+;; Query time: 348 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:05 IST 2025
+;; MSG SIZE  rcvd: 112
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> cosmeticaestheticsurgery.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34120
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;cosmeticaestheticsurgery.com.	IN	A
+
+;; ANSWER SECTION:
+cosmeticaestheticsurgery.com. 600 IN	A	3.33.130.190
+cosmeticaestheticsurgery.com. 600 IN	A	15.197.148.33
+
+;; AUTHORITY SECTION:
+cosmeticaestheticsurgery.com. 3600 IN	NS	ns12.domaincontrol.com.
+cosmeticaestheticsurgery.com. 3600 IN	NS	ns11.domaincontrol.com.
+
+;; Query time: 560 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:05 IST 2025
+;; MSG SIZE  rcvd: 130
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> crsgfk.de
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 55764
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;crsgfk.de.			IN	A
+
+;; AUTHORITY SECTION:
+de.			7200	IN	SOA	f.nic.de. dns-operations.denic.de. 1761672513 7200 7200 3600000 7200
+
+;; Query time: 384 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:06 IST 2025
+;; MSG SIZE  rcvd: 90
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> currencyrates.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31195
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;currencyrates.org.		IN	A
+
+;; ANSWER SECTION:
+currencyrates.org.	300	IN	A	172.67.209.125
+currencyrates.org.	300	IN	A	104.21.23.70
+
+;; Query time: 896 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:07 IST 2025
+;; MSG SIZE  rcvd: 67
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> cushinglawoffices.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 38290
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;cushinglawoffices.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672589 1800 900 604800 900
+
+;; Query time: 360 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:07 IST 2025
+;; MSG SIZE  rcvd: 112
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> cuteteenschoolgirlz.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 26574
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;cuteteenschoolgirlz.com.	IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672589 1800 900 604800 900
+
+;; Query time: 332 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:07 IST 2025
+;; MSG SIZE  rcvd: 114
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> de.vu
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55314
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;de.vu.				IN	A
+
+;; ANSWER SECTION:
+de.vu.			3600	IN	A	81.28.232.69
+
+;; Query time: 1188 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:09 IST 2025
+;; MSG SIZE  rcvd: 39
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> dilw.ie
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62402
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;dilw.ie.			IN	A
+
+;; ANSWER SECTION:
+dilw.ie.		86400	IN	A	35.214.43.230
+
+;; Query time: 772 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:09 IST 2025
+;; MSG SIZE  rcvd: 41
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> dock2office.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 230
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;dock2office.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672589 1800 900 604800 900
+
+;; Query time: 348 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:10 IST 2025
+;; MSG SIZE  rcvd: 106
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> drglendza.co.rs
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 22601
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;drglendza.co.rs.		IN	A
+
+;; AUTHORITY SECTION:
+co.rs.			3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2025102838 1800 900 2419200 3600
+
+;; Query time: 416 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:10 IST 2025
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> dricom-hosting.nl
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13548
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;dricom-hosting.nl.		IN	A
+
+;; ANSWER SECTION:
+dricom-hosting.nl.	300	IN	A	46.249.36.223
+
+;; Query time: 444 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:11 IST 2025
+;; MSG SIZE  rcvd: 51
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> ecolems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47086
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;ecolems.com.			IN	A
+
+;; ANSWER SECTION:
+ecolems.com.		300	IN	A	51.103.54.68
+
+;; Query time: 928 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:12 IST 2025
+;; MSG SIZE  rcvd: 45
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> e-daily.gr
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16917
+;; flags: qr aa rd; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;e-daily.gr.			IN	A
+
+;; ANSWER SECTION:
+e-daily.gr.		300	IN	A	172.67.70.26
+e-daily.gr.		300	IN	A	104.26.13.52
+e-daily.gr.		300	IN	A	104.26.12.52
+
+;; Query time: 812 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:12 IST 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> eggcityradio.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 53047
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 8192
+;; QUESTION SECTION:
+;eggcityradio.com.		IN	A
+
+;; Query time: 4588 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:17 IST 2025
+;; MSG SIZE  rcvd: 45
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> egov.sy
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35526
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;egov.sy.			IN	A
+
+;; ANSWER SECTION:
+egov.sy.		3600	IN	A	185.216.134.58
+
+;; Query time: 472 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:18 IST 2025
+;; MSG SIZE  rcvd: 41
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> e-hps.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60681
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 10, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;e-hps.com.			IN	A
+
+;; ANSWER SECTION:
+e-hps.com.		864000	IN	A	208.44.185.221
+
+;; AUTHORITY SECTION:
+e-hps.com.		86400	IN	NS	pdns1.ultradns.net.
+e-hps.com.		86400	IN	NS	pdns3.ultradns.org.
+e-hps.com.		86400	IN	NS	pdns5.ultradns.info.
+e-hps.com.		86400	IN	NS	pdns2.ultradns.net.
+e-hps.com.		86400	IN	NS	udns1.ultradns.net.
+e-hps.com.		86400	IN	NS	pdns4.ultradns.org.
+e-hps.com.		86400	IN	NS	ns130.ultradns2.com.
+e-hps.com.		86400	IN	NS	pdns6.ultradns.co.uk.
+e-hps.com.		86400	IN	NS	udns2.ultradns.net.
+e-hps.com.		86400	IN	NS	ns130.ultradns2.org.
+
+;; Query time: 456 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:18 IST 2025
+;; MSG SIZE  rcvd: 314
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> fmnara.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58436
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;fmnara.com.			IN	A
+
+;; ANSWER SECTION:
+fmnara.com.		60	IN	A	49.247.215.98
+
+;; AUTHORITY SECTION:
+fmnara.com.		60	IN	NS	ns02.nbx.co.kr.
+fmnara.com.		60	IN	NS	ns01.nbx.co.kr.
+
+;; ADDITIONAL SECTION:
+ns01.nbx.co.kr.		60	IN	A	49.247.211.146
+ns02.nbx.co.kr.		60	IN	A	211.37.148.174
+
+;; Query time: 1188 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:19 IST 2025
+;; MSG SIZE  rcvd: 123
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> freeditorial.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62160
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;freeditorial.com.		IN	A
+
+;; ANSWER SECTION:
+freeditorial.com.	300	IN	A	51.178.246.100
+
+;; Query time: 420 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:20 IST 2025
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> ftf.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5872
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 4, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;ftf.com.			IN	A
+
+;; ANSWER SECTION:
+ftf.com.		300	IN	A	23.227.38.65
+
+;; AUTHORITY SECTION:
+ftf.com.		86400	IN	NS	ns3.p201.dns.oraclecloud.net.
+ftf.com.		86400	IN	NS	ns4.p201.dns.oraclecloud.net.
+ftf.com.		86400	IN	NS	ns1.p201.dns.oraclecloud.net.
+ftf.com.		86400	IN	NS	ns2.p201.dns.oraclecloud.net.
+
+;; Query time: 808 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:21 IST 2025
+;; MSG SIZE  rcvd: 137
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> gadanguides.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37021
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;gadanguides.com.		IN	A
+
+;; ANSWER SECTION:
+gadanguides.com.	3600	IN	A	93.188.2.51
+
+;; Query time: 560 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:21 IST 2025
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> gadgetgearpro.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 63658
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;gadgetgearpro.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672604 1800 900 604800 900
+
+;; Query time: 332 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:21 IST 2025
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> gardenofwords.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38363
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;gardenofwords.com.		IN	A
+
+;; ANSWER SECTION:
+gardenofwords.com.	300	IN	A	192.0.78.25
+gardenofwords.com.	300	IN	A	192.0.78.24
+
+;; Query time: 404 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:22 IST 2025
+;; MSG SIZE  rcvd: 67
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> get-webby.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 4570
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;get-webby.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672619 1800 900 604800 900
+
+;; Query time: 340 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:22 IST 2025
+;; MSG SIZE  rcvd: 104
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> ghimpele.ro
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21793
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;ghimpele.ro.			IN	A
+
+;; ANSWER SECTION:
+ghimpele.ro.		300	IN	A	89.35.160.167
+
+;; Query time: 976 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:23 IST 2025
+;; MSG SIZE  rcvd: 45
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> giuseppelivraghi.it
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13817
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;giuseppelivraghi.it.		IN	A
+
+;; ANSWER SECTION:
+giuseppelivraghi.it.	3600	IN	A	89.46.108.54
+
+;; Query time: 1188 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:24 IST 2025
+;; MSG SIZE  rcvd: 53
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> gregginn.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65492
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;gregginn.com.			IN	A
+
+;; ANSWER SECTION:
+gregginn.com.		600	IN	A	3.33.130.190
+gregginn.com.		600	IN	A	15.197.148.33
+
+;; AUTHORITY SECTION:
+gregginn.com.		3600	IN	NS	ns05.domaincontrol.com.
+gregginn.com.		3600	IN	NS	ns06.domaincontrol.com.
+
+;; Query time: 556 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:25 IST 2025
+;; MSG SIZE  rcvd: 114
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> gxjbsj.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24255
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;gxjbsj.com.			IN	A
+
+;; ANSWER SECTION:
+gxjbsj.com.		600	IN	A	172.247.103.2
+
+;; AUTHORITY SECTION:
+gxjbsj.com.		86400	IN	NS	ns1.xmodxvquvodns.com.
+gxjbsj.com.		86400	IN	NS	ns2.xmodxvquvodns.com.
+
+;; Query time: 640 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:26 IST 2025
+;; MSG SIZE  rcvd: 94
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> hayalforum.net
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 26003
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;hayalforum.net.			IN	A
+
+;; AUTHORITY SECTION:
+net.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672619 1800 900 604800 900
+
+;; Query time: 332 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:26 IST 2025
+;; MSG SIZE  rcvd: 105
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> hdcric.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58908
+;; flags: qr aa rd; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;hdcric.com.			IN	A
+
+;; ANSWER SECTION:
+hdcric.com.		3600	IN	A	159.69.83.207
+hdcric.com.		3600	IN	A	159.69.42.212
+hdcric.com.		3600	IN	A	95.216.161.60
+hdcric.com.		3600	IN	A	159.69.186.9
+
+;; Query time: 508 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:27 IST 2025
+;; MSG SIZE  rcvd: 92
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> hralda.info
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 59796
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;hralda.info.			IN	A
+
+;; AUTHORITY SECTION:
+info.			3600	IN	SOA	a0.info.afilias-nst.info. hostmaster.donuts.email. 1761672082 7200 900 1209600 3600
+
+;; Query time: 228 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:27 IST 2025
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> hutago.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25375
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;hutago.com.			IN	A
+
+;; ANSWER SECTION:
+hutago.com.		600	IN	A	118.27.125.209
+
+;; Query time: 1024 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:28 IST 2025
+;; MSG SIZE  rcvd: 44
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> iael.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39033
+;; flags: qr aa rd; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;iael.com.			IN	A
+
+;; ANSWER SECTION:
+iael.com.		600	IN	A	139.162.174.209
+iael.com.		600	IN	A	172.104.149.86
+iael.com.		600	IN	A	172.104.251.198
+iael.com.		600	IN	A	139.162.181.76
+
+;; Query time: 492 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:28 IST 2025
+;; MSG SIZE  rcvd: 90
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> ishidatic.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60759
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;ishidatic.com.			IN	A
+
+;; ANSWER SECTION:
+ishidatic.com.		1800	IN	A	15.197.172.60
+
+;; Query time: 680 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:29 IST 2025
+;; MSG SIZE  rcvd: 47
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> laigang001.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 402
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;laigang001.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672619 1800 900 604800 900
+
+;; Query time: 348 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:29 IST 2025
+;; MSG SIZE  rcvd: 105
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> marilynlingerie.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 21203
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;marilynlingerie.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672619 1800 900 604800 900
+
+;; Query time: 356 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:30 IST 2025
+;; MSG SIZE  rcvd: 110
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> mechachal.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 20422
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;mechachal.org.			IN	A
+
+;; AUTHORITY SECTION:
+org.			3600	IN	SOA	a0.org.afilias-nst.info. hostmaster.donuts.email. 1761672179 7200 900 1209600 3600
+
+;; Query time: 328 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:30 IST 2025
+;; MSG SIZE  rcvd: 113
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> medipacademy.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16131
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;medipacademy.com.		IN	A
+
+;; ANSWER SECTION:
+medipacademy.com.	300	IN	A	104.21.4.41
+medipacademy.com.	300	IN	A	172.67.131.163
+
+;; Query time: 424 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:31 IST 2025
+;; MSG SIZE  rcvd: 66
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> metar.gr
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41227
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;metar.gr.			IN	A
+
+;; ANSWER SECTION:
+metar.gr.		60	IN	A	75.119.133.58
+
+;; Query time: 1352 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:32 IST 2025
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> michaelbyers.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29474
+;; flags: qr aa rd; QUERY: 1, ANSWER: 4, AUTHORITY: 2, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;michaelbyers.org.		IN	A
+
+;; ANSWER SECTION:
+michaelbyers.org.	600	IN	A	198.185.159.144
+michaelbyers.org.	600	IN	A	198.49.23.145
+michaelbyers.org.	600	IN	A	198.49.23.144
+michaelbyers.org.	600	IN	A	198.185.159.145
+
+;; AUTHORITY SECTION:
+michaelbyers.org.	3600	IN	NS	ns39.domaincontrol.com.
+michaelbyers.org.	3600	IN	NS	ns40.domaincontrol.com.
+
+;; Query time: 1012 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:33 IST 2025
+;; MSG SIZE  rcvd: 153
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> minecraftserverdeals.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53866
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;minecraftserverdeals.com.	IN	A
+
+;; ANSWER SECTION:
+minecraftserverdeals.com. 300	IN	A	104.21.1.113
+minecraftserverdeals.com. 300	IN	A	172.67.129.48
+
+;; Query time: 420 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:33 IST 2025
+;; MSG SIZE  rcvd: 74
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> monitis.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6190
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;monitis.com.			IN	A
+
+;; ANSWER SECTION:
+monitis.com.		86400	IN	A	188.172.236.218
+
+;; Query time: 548 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:34 IST 2025
+;; MSG SIZE  rcvd: 45
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> morban.co.uk
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22714
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;morban.co.uk.			IN	A
+
+;; ANSWER SECTION:
+morban.co.uk.		3600	IN	A	217.160.0.111
+
+;; Query time: 968 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:35 IST 2025
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> nasaspaceflight.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32872
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;nasaspaceflight.com.		IN	A
+
+;; ANSWER SECTION:
+nasaspaceflight.com.	300	IN	A	172.66.43.73
+nasaspaceflight.com.	300	IN	A	172.66.40.183
+
+;; Query time: 412 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:35 IST 2025
+;; MSG SIZE  rcvd: 69
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> ncees.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59225
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;ncees.org.			IN	A
+
+;; ANSWER SECTION:
+ncees.org.		300	IN	A	172.66.158.97
+ncees.org.		300	IN	A	104.20.28.40
+
+;; Query time: 780 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:36 IST 2025
+;; MSG SIZE  rcvd: 59
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> noblewomanhood.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28808
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;noblewomanhood.com.		IN	A
+
+;; ANSWER SECTION:
+noblewomanhood.com.	3600	IN	A	74.208.236.114
+
+;; Query time: 528 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:37 IST 2025
+;; MSG SIZE  rcvd: 52
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> note-so-easy.co.za
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14767
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;note-so-easy.co.za.		IN	A
+
+;; ANSWER SECTION:
+note-so-easy.co.za.	14400	IN	A	102.211.204.40
+
+;; AUTHORITY SECTION:
+note-so-easy.co.za.	86400	IN	NS	ns3.theforce.co.za.
+note-so-easy.co.za.	86400	IN	NS	ns4.theforce.co.za.
+
+;; Query time: 3092 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:40 IST 2025
+;; MSG SIZE  rcvd: 97
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> oaister.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65404
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;oaister.org.			IN	A
+
+;; ANSWER SECTION:
+oaister.org.		60	IN	A	132.174.1.212
+
+;; Query time: 744 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:41 IST 2025
+;; MSG SIZE  rcvd: 45
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> pahibu.net
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 26474
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;pahibu.net.			IN	A
+
+;; AUTHORITY SECTION:
+net.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672634 1800 900 604800 900
+
+;; Query time: 352 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:41 IST 2025
+;; MSG SIZE  rcvd: 101
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> pet-connect.ru
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31997
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;pet-connect.ru.			IN	A
+
+;; ANSWER SECTION:
+pet-connect.ru.		86400	IN	A	194.58.112.174
+
+;; Query time: 640 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:42 IST 2025
+;; MSG SIZE  rcvd: 48
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> polymth.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30607
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;polymth.com.			IN	A
+
+;; ANSWER SECTION:
+polymth.com.		300	IN	A	104.21.57.169
+polymth.com.		300	IN	A	172.67.147.218
+
+;; Query time: 424 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:42 IST 2025
+;; MSG SIZE  rcvd: 61
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> romney.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15877
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;romney.com.			IN	A
+
+;; ANSWER SECTION:
+romney.com.		7200	IN	A	208.91.197.27
+
+;; Query time: 444 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:43 IST 2025
+;; MSG SIZE  rcvd: 44
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> rterc.in
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1523
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;rterc.in.			IN	A
+
+;; ANSWER SECTION:
+rterc.in.		60	IN	A	147.79.69.205
+rterc.in.		60	IN	A	93.127.173.78
+
+;; Query time: 716 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:43 IST 2025
+;; MSG SIZE  rcvd: 58
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> sailor.pl
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9360
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;sailor.pl.			IN	A
+
+;; ANSWER SECTION:
+sailor.pl.		300	IN	A	88.99.19.146
+
+;; AUTHORITY SECTION:
+sailor.pl.		300	IN	NS	ns1.empresoft.pl.
+sailor.pl.		300	IN	NS	ns2.empresoft.pl.
+
+;; ADDITIONAL SECTION:
+ns1.empresoft.pl.	300	IN	A	88.99.19.146
+ns2.empresoft.pl.	300	IN	A	185.38.249.111
+
+;; Query time: 428 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:44 IST 2025
+;; MSG SIZE  rcvd: 121
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> sarahpartridge.net
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 28140
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;sarahpartridge.net.		IN	A
+
+;; AUTHORITY SECTION:
+net.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672619 1800 900 604800 900
+
+;; Query time: 356 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:44 IST 2025
+;; MSG SIZE  rcvd: 109
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> sendrakhizonline.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53457
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;sendrakhizonline.com.		IN	A
+
+;; ANSWER SECTION:
+sendrakhizonline.com.	600	IN	A	20.244.2.144
+
+;; AUTHORITY SECTION:
+sendrakhizonline.com.	3600	IN	NS	ns03.domaincontrol.com.
+sendrakhizonline.com.	3600	IN	NS	ns04.domaincontrol.com.
+
+;; Query time: 548 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:45 IST 2025
+;; MSG SIZE  rcvd: 106
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> shishioh.info
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11642
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;shishioh.info.			IN	A
+
+;; ANSWER SECTION:
+shishioh.info.		3600	IN	A	219.94.162.166
+
+;; AUTHORITY SECTION:
+shishioh.info.		3600	IN	NS	ns2.dns.ne.jp.
+shishioh.info.		3600	IN	NS	ns1.dns.ne.jp.
+
+;; Query time: 976 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:46 IST 2025
+;; MSG SIZE  rcvd: 92
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> silveropt.ru
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53064
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;silveropt.ru.			IN	A
+
+;; AUTHORITY SECTION:
+ru.			3600	IN	SOA	a.dns.ripn.net. hostmaster.ripn.net. 4066502 86400 14400 2592000 3600
+
+;; Query time: 428 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:46 IST 2025
+;; MSG SIZE  rcvd: 91
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> skyhightmatter.info
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 36983
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;skyhightmatter.info.		IN	A
+
+;; AUTHORITY SECTION:
+info.			3600	IN	SOA	a0.info.afilias-nst.info. hostmaster.donuts.email. 1761672082 7200 900 1209600 3600
+
+;; Query time: 236 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:46 IST 2025
+;; MSG SIZE  rcvd: 116
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> sonoma-marinfair.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47988
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;sonoma-marinfair.org.		IN	A
+
+;; ANSWER SECTION:
+sonoma-marinfair.org.	300	IN	A	172.67.163.188
+sonoma-marinfair.org.	300	IN	A	104.21.34.187
+
+;; Query time: 884 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:47 IST 2025
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> stkpro.ru
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38646
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;stkpro.ru.			IN	A
+
+;; ANSWER SECTION:
+stkpro.ru.		14400	IN	A	205.251.138.125
+
+;; Query time: 748 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:48 IST 2025
+;; MSG SIZE  rcvd: 43
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> synchchaos.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32904
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;synchchaos.com.			IN	A
+
+;; ANSWER SECTION:
+synchchaos.com.		600	IN	A	203.161.61.102
+
+;; Query time: 700 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:49 IST 2025
+;; MSG SIZE  rcvd: 48
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> synrc.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61395
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;synrc.com.			IN	A
+
+;; ANSWER SECTION:
+synrc.com.		300	IN	A	104.21.40.117
+synrc.com.		300	IN	A	172.67.185.234
+
+;; Query time: 424 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:49 IST 2025
+;; MSG SIZE  rcvd: 59
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> tangkas888.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54164
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;tangkas888.com.			IN	A
+
+;; ANSWER SECTION:
+tangkas888.com.		300	IN	A	104.21.7.113
+tangkas888.com.		300	IN	A	172.67.130.50
+
+;; Query time: 412 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:50 IST 2025
+;; MSG SIZE  rcvd: 64
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> tawali.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59247
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;tawali.com.			IN	A
+
+;; ANSWER SECTION:
+tawali.com.		600	IN	A	173.249.147.46
+
+;; AUTHORITY SECTION:
+tawali.com.		3600	IN	NS	ns70.domaincontrol.com.
+tawali.com.		3600	IN	NS	ns69.domaincontrol.com.
+
+;; Query time: 532 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:50 IST 2025
+;; MSG SIZE  rcvd: 96
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> teachmyass.info
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42897
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;teachmyass.info.		IN	A
+
+;; ANSWER SECTION:
+teachmyass.info.	3600	IN	A	103.224.182.212
+
+;; Query time: 1268 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:51 IST 2025
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> teleskill.it
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44680
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 4, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;teleskill.it.			IN	A
+
+;; ANSWER SECTION:
+teleskill.it.		300	IN	A	185.81.4.109
+
+;; AUTHORITY SECTION:
+teleskill.it.		172800	IN	NS	ns-799.awsdns-35.net.
+teleskill.it.		172800	IN	NS	ns-1233.awsdns-26.org.
+teleskill.it.		172800	IN	NS	ns-1934.awsdns-49.co.uk.
+teleskill.it.		172800	IN	NS	ns-89.awsdns-11.com.
+
+;; Query time: 780 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:52 IST 2025
+;; MSG SIZE  rcvd: 185
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> tenant-internet.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 36699
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;tenant-internet.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672634 1800 900 604800 900
+
+;; Query time: 364 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:53 IST 2025
+;; MSG SIZE  rcvd: 110
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> texasbeyondhistory.net
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53679
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;texasbeyondhistory.net.		IN	A
+
+;; ANSWER SECTION:
+texasbeyondhistory.net.	600	IN	A	146.6.162.220
+
+;; Query time: 3396 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:56 IST 2025
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> topbarbee.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30950
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;topbarbee.com.			IN	A
+
+;; ANSWER SECTION:
+topbarbee.com.		60	IN	A	159.203.135.249
+
+;; Query time: 664 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:57 IST 2025
+;; MSG SIZE  rcvd: 47
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> trackcheatingspouse.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 32279
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;trackcheatingspouse.com.	IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672634 1800 900 604800 900
+
+;; Query time: 348 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:01:57 IST 2025
+;; MSG SIZE  rcvd: 114
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> uca.edu
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47884
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;uca.edu.			IN	A
+
+;; ANSWER SECTION:
+uca.edu.		3600	IN	A	161.31.3.35
+
+;; AUTHORITY SECTION:
+uca.edu.		3600	IN	NS	ns2.uca.edu.
+uca.edu.		3600	IN	NS	ns1.uca.edu.
+
+;; ADDITIONAL SECTION:
+ns1.uca.edu.		3600	IN	A	161.31.3.12
+ns2.uca.edu.		3600	IN	A	161.31.3.13
+
+;; Query time: 2796 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:02:00 IST 2025
+;; MSG SIZE  rcvd: 109
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> urbannetwork.co.uk
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11362
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;urbannetwork.co.uk.		IN	A
+
+;; ANSWER SECTION:
+urbannetwork.co.uk.	600	IN	A	85.92.70.198
+
+;; AUTHORITY SECTION:
+urbannetwork.co.uk.	86400	IN	NS	ns02.domaincontrol.com.
+urbannetwork.co.uk.	86400	IN	NS	ns01.domaincontrol.com.
+
+;; Query time: 1120 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:02:01 IST 2025
+;; MSG SIZE  rcvd: 107
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> verlockeshop.de
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21881
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;verlockeshop.de.		IN	A
+
+;; ANSWER SECTION:
+verlockeshop.de.	600	IN	A	185.64.112.230
+
+;; Query time: 980 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:02:02 IST 2025
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> video-peche-poisson.fr
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 54400
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;video-peche-poisson.fr.		IN	A
+
+;; AUTHORITY SECTION:
+fr.			600	IN	SOA	a.nic.fr. dnsmaster.afnic.fr. 2243060933 3600 1800 1209600 600
+
+;; Query time: 368 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:02:02 IST 2025
+;; MSG SIZE  rcvd: 98
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> vietcapitaltour.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 12759
+;; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;vietcapitaltour.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761672649 1800 900 604800 900
+
+;; Query time: 392 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:02:03 IST 2025
+;; MSG SIZE  rcvd: 110
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> virtualjerusalem.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9331
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;virtualjerusalem.com.		IN	A
+
+;; ANSWER SECTION:
+virtualjerusalem.com.	14400	IN	A	69.48.168.47
+
+;; Query time: 696 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:02:04 IST 2025
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> vlielandoutdoorcenter.nl
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31832
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;vlielandoutdoorcenter.nl.	IN	A
+
+;; ANSWER SECTION:
+vlielandoutdoorcenter.nl. 14400	IN	A	185.232.249.41
+
+;; AUTHORITY SECTION:
+vlielandoutdoorcenter.nl. 14400	IN	NS	ns2.norisk-web01.nl.
+vlielandoutdoorcenter.nl. 14400	IN	NS	ns1.norisk-web01.nl.
+
+;; ADDITIONAL SECTION:
+ns1.norisk-web01.nl.	14400	IN	A	185.232.249.41
+ns2.norisk-web01.nl.	14400	IN	A	185.232.249.42
+
+;; Query time: 436 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:02:04 IST 2025
+;; MSG SIZE  rcvd: 139
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> vpndefender.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45991
+;; flags: qr aa rd; QUERY: 1, ANSWER: 2, AUTHORITY: 4, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;vpndefender.com.		IN	A
+
+;; ANSWER SECTION:
+vpndefender.com.	60	IN	A	34.234.125.61
+vpndefender.com.	60	IN	A	54.224.56.57
+
+;; AUTHORITY SECTION:
+vpndefender.com.	172800	IN	NS	ns-124.awsdns-15.com.
+vpndefender.com.	172800	IN	NS	ns-1590.awsdns-06.co.uk.
+vpndefender.com.	172800	IN	NS	ns-1410.awsdns-48.org.
+vpndefender.com.	172800	IN	NS	ns-611.awsdns-12.net.
+
+;; Query time: 400 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:02:04 IST 2025
+;; MSG SIZE  rcvd: 202
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> ximangquantrieu.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17061
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;ximangquantrieu.com.		IN	A
+
+;; ANSWER SECTION:
+ximangquantrieu.com.	3600	IN	A	123.31.17.119
+
+;; Query time: 512 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:02:05 IST 2025
+;; MSG SIZE  rcvd: 53
+
+
+; <<>> DiG 9.18.30-0ubuntu0.20.04.2-Ubuntu <<>> zpav.pl
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31759
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;zpav.pl.			IN	A
+
+;; ANSWER SECTION:
+zpav.pl.		86400	IN	A	83.238.107.112
+
+;; AUTHORITY SECTION:
+zpav.pl.		86400	IN	NS	dns2.onyx.pl.
+zpav.pl.		86400	IN	NS	dns1.onyx.pl.
+
+;; ADDITIONAL SECTION:
+dns1.onyx.pl.		86400	IN	A	83.238.107.254
+dns2.onyx.pl.		86400	IN	A	185.45.218.146
+
+;; Query time: 436 msec
+;; SERVER: 10.0.0.5#53(10.0.0.5) (UDP)
+;; WHEN: Tue Oct 28 23:02:05 IST 2025
+;; MSG SIZE  rcvd: 116
+

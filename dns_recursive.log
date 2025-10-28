@@ -1,0 +1,3073 @@
+[2025-10-28 20:41:42.544293] RECURSIVE DNS resolver (Task E) listening on 10.0.0.5:53...
+[2025-10-28 20:42:39.830157] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:39.830407] Timestamp: 2025-10-28 20:42:39.830390
+[2025-10-28 20:42:39.830449] Domain Name: 2brightsparks.co.uk.
+[2025-10-28 20:42:39.830519] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:39.885208] Received response from 8.8.8.8
+[2025-10-28 20:42:39.885344] RTT to forwarder: 54.61 ms
+[2025-10-28 20:42:39.885380] Total Time (Recursive): 54.80 ms
+[2025-10-28 20:42:39.885406] --- Query End (Recursive) ---
+[2025-10-28 20:42:39.936287] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:39.936450] Timestamp: 2025-10-28 20:42:39.936438
+[2025-10-28 20:42:39.936482] Domain Name: 41latitude.com.
+[2025-10-28 20:42:39.936507] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.002058] Received response from 8.8.8.8
+[2025-10-28 20:42:40.002237] RTT to forwarder: 65.43 ms
+[2025-10-28 20:42:40.002283] Total Time (Recursive): 65.67 ms
+[2025-10-28 20:42:40.002316] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.038756] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.038848] Timestamp: 2025-10-28 20:42:40.038839
+[2025-10-28 20:42:40.038892] Domain Name: 7dfps.com.
+[2025-10-28 20:42:40.038913] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.079946] Received response from 8.8.8.8
+[2025-10-28 20:42:40.080170] RTT to forwarder: 41.01 ms
+[2025-10-28 20:42:40.080213] Total Time (Recursive): 41.28 ms
+[2025-10-28 20:42:40.080232] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.128537] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.128714] Timestamp: 2025-10-28 20:42:40.128701
+[2025-10-28 20:42:40.128751] Domain Name: advertos.ru.
+[2025-10-28 20:42:40.128776] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.168409] Received response from 8.8.8.8
+[2025-10-28 20:42:40.168560] RTT to forwarder: 39.60 ms
+[2025-10-28 20:42:40.168589] Total Time (Recursive): 39.79 ms
+[2025-10-28 20:42:40.168609] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.212444] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.212634] Timestamp: 2025-10-28 20:42:40.212622
+[2025-10-28 20:42:40.212667] Domain Name: afairjudgement.com.
+[2025-10-28 20:42:40.212686] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.250448] Received response from 8.8.8.8
+[2025-10-28 20:42:40.250613] RTT to forwarder: 37.74 ms
+[2025-10-28 20:42:40.250640] Total Time (Recursive): 37.94 ms
+[2025-10-28 20:42:40.250664] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.294043] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.294224] Timestamp: 2025-10-28 20:42:40.294213
+[2025-10-28 20:42:40.294256] Domain Name: afresnohomeinspector.com.
+[2025-10-28 20:42:40.294274] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.331053] Received response from 8.8.8.8
+[2025-10-28 20:42:40.331160] RTT to forwarder: 36.76 ms
+[2025-10-28 20:42:40.331182] Total Time (Recursive): 36.89 ms
+[2025-10-28 20:42:40.331192] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.380684] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.380825] Timestamp: 2025-10-28 20:42:40.380817
+[2025-10-28 20:42:40.380902] Domain Name: alchemedialtd.com.
+[2025-10-28 20:42:40.380917] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.416892] Received response from 8.8.8.8
+[2025-10-28 20:42:40.416980] RTT to forwarder: 35.96 ms
+[2025-10-28 20:42:40.417007] Total Time (Recursive): 36.08 ms
+[2025-10-28 20:42:40.417017] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.462277] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.462414] Timestamp: 2025-10-28 20:42:40.462406
+[2025-10-28 20:42:40.462433] Domain Name: alenpuaca.com.
+[2025-10-28 20:42:40.462444] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.504959] Received response from 8.8.8.8
+[2025-10-28 20:42:40.505088] RTT to forwarder: 42.50 ms
+[2025-10-28 20:42:40.505107] Total Time (Recursive): 42.65 ms
+[2025-10-28 20:42:40.505130] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.549138] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.549493] Timestamp: 2025-10-28 20:42:40.549481
+[2025-10-28 20:42:40.549526] Domain Name: amorefieldlife.com.
+[2025-10-28 20:42:40.549545] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.590326] Received response from 8.8.8.8
+[2025-10-28 20:42:40.590487] RTT to forwarder: 40.58 ms
+[2025-10-28 20:42:40.590509] Total Time (Recursive): 40.77 ms
+[2025-10-28 20:42:40.590519] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.631951] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.632118] Timestamp: 2025-10-28 20:42:40.632109
+[2025-10-28 20:42:40.632146] Domain Name: aqvr.com.
+[2025-10-28 20:42:40.632161] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.666370] Received response from 8.8.8.8
+[2025-10-28 20:42:40.666524] RTT to forwarder: 34.19 ms
+[2025-10-28 20:42:40.666552] Total Time (Recursive): 34.38 ms
+[2025-10-28 20:42:40.666563] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.705203] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.705309] Timestamp: 2025-10-28 20:42:40.705303
+[2025-10-28 20:42:40.705321] Domain Name: asadventure.com.
+[2025-10-28 20:42:40.705332] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.742687] Received response from 8.8.8.8
+[2025-10-28 20:42:40.742770] RTT to forwarder: 37.34 ms
+[2025-10-28 20:42:40.742791] Total Time (Recursive): 37.45 ms
+[2025-10-28 20:42:40.742800] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.784258] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.784474] Timestamp: 2025-10-28 20:42:40.784461
+[2025-10-28 20:42:40.784513] Domain Name: astrumonline.ru.
+[2025-10-28 20:42:40.784534] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.821788] Received response from 8.8.8.8
+[2025-10-28 20:42:40.821930] RTT to forwarder: 37.23 ms
+[2025-10-28 20:42:40.821962] Total Time (Recursive): 37.41 ms
+[2025-10-28 20:42:40.821973] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.862320] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.862441] Timestamp: 2025-10-28 20:42:40.862435
+[2025-10-28 20:42:40.862455] Domain Name: auqzzx.com.
+[2025-10-28 20:42:40.862467] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:40.906500] Received response from 8.8.8.8
+[2025-10-28 20:42:40.906736] RTT to forwarder: 44.01 ms
+[2025-10-28 20:42:40.906777] Total Time (Recursive): 44.30 ms
+[2025-10-28 20:42:40.906793] --- Query End (Recursive) ---
+[2025-10-28 20:42:40.959382] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:40.959531] Timestamp: 2025-10-28 20:42:40.959523
+[2025-10-28 20:42:40.959552] Domain Name: australiatradenow.com.
+[2025-10-28 20:42:40.959564] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:41.237467] Received response from 8.8.8.8
+[2025-10-28 20:42:41.238135] RTT to forwarder: 277.88 ms
+[2025-10-28 20:42:41.238217] Total Time (Recursive): 278.64 ms
+[2025-10-28 20:42:41.238333] --- Query End (Recursive) ---
+[2025-10-28 20:42:41.292545] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:41.292771] Timestamp: 2025-10-28 20:42:41.292760
+[2025-10-28 20:42:41.292805] Domain Name: autofirenze.biz.
+[2025-10-28 20:42:41.292909] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:41.337509] Received response from 8.8.8.8
+[2025-10-28 20:42:41.337885] RTT to forwarder: 44.52 ms
+[2025-10-28 20:42:41.337977] Total Time (Recursive): 45.00 ms
+[2025-10-28 20:42:41.337998] --- Query End (Recursive) ---
+[2025-10-28 20:42:41.378646] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:41.378829] Timestamp: 2025-10-28 20:42:41.378818
+[2025-10-28 20:42:41.378860] Domain Name: bikesandtransit.com.
+[2025-10-28 20:42:41.378878] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:41.475684] Received response from 8.8.8.8
+[2025-10-28 20:42:41.475998] RTT to forwarder: 96.78 ms
+[2025-10-28 20:42:41.476069] Total Time (Recursive): 97.17 ms
+[2025-10-28 20:42:41.476173] --- Query End (Recursive) ---
+[2025-10-28 20:42:41.526321] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:41.526593] Timestamp: 2025-10-28 20:42:41.526577
+[2025-10-28 20:42:41.526647] Domain Name: blueridgelife.com.
+[2025-10-28 20:42:41.526679] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:41.575254] Received response from 8.8.8.8
+[2025-10-28 20:42:41.575459] RTT to forwarder: 48.54 ms
+[2025-10-28 20:42:41.575493] Total Time (Recursive): 48.78 ms
+[2025-10-28 20:42:41.575507] --- Query End (Recursive) ---
+[2025-10-28 20:42:41.620813] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:41.620978] Timestamp: 2025-10-28 20:42:41.620964
+[2025-10-28 20:42:41.621007] Domain Name: b-matrix.com.
+[2025-10-28 20:42:41.621029] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:41.719795] Received response from 8.8.8.8
+[2025-10-28 20:42:41.720014] RTT to forwarder: 98.75 ms
+[2025-10-28 20:42:41.720063] Total Time (Recursive): 99.02 ms
+[2025-10-28 20:42:41.720086] --- Query End (Recursive) ---
+[2025-10-28 20:42:41.760051] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:41.760232] Timestamp: 2025-10-28 20:42:41.760223
+[2025-10-28 20:42:41.760257] Domain Name: buynowfromusa.com.
+[2025-10-28 20:42:41.760273] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:41.801538] Received response from 8.8.8.8
+[2025-10-28 20:42:41.801713] RTT to forwarder: 41.24 ms
+[2025-10-28 20:42:41.801743] Total Time (Recursive): 41.46 ms
+[2025-10-28 20:42:41.801755] --- Query End (Recursive) ---
+[2025-10-28 20:42:41.846365] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:41.846681] Timestamp: 2025-10-28 20:42:41.846657
+[2025-10-28 20:42:41.846816] Domain Name: camcard.com.
+[2025-10-28 20:42:41.846851] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:41.918173] Received response from 8.8.8.8
+[2025-10-28 20:42:41.918465] RTT to forwarder: 71.29 ms
+[2025-10-28 20:42:41.918532] Total Time (Recursive): 71.66 ms
+[2025-10-28 20:42:41.918562] --- Query End (Recursive) ---
+[2025-10-28 20:42:41.967812] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:41.968093] Timestamp: 2025-10-28 20:42:41.968080
+[2025-10-28 20:42:41.968255] Domain Name: caricsports.com.
+[2025-10-28 20:42:41.968295] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:42.007481] Received response from 8.8.8.8
+[2025-10-28 20:42:42.007659] RTT to forwarder: 39.15 ms
+[2025-10-28 20:42:42.007685] Total Time (Recursive): 39.36 ms
+[2025-10-28 20:42:42.007695] --- Query End (Recursive) ---
+[2025-10-28 20:42:42.055153] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:42.055521] Timestamp: 2025-10-28 20:42:42.055502
+[2025-10-28 20:42:42.055593] Domain Name: cetsi.fr.
+[2025-10-28 20:42:42.055628] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:42.441824] Received response from 8.8.8.8
+[2025-10-28 20:42:42.442157] RTT to forwarder: 386.15 ms
+[2025-10-28 20:42:42.442214] Total Time (Recursive): 386.55 ms
+[2025-10-28 20:42:42.442242] --- Query End (Recursive) ---
+[2025-10-28 20:42:42.497893] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:42.498253] Timestamp: 2025-10-28 20:42:42.498236
+[2025-10-28 20:42:42.498310] Domain Name: chonvn.com.
+[2025-10-28 20:42:42.498342] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:42.552502] Received response from 8.8.8.8
+[2025-10-28 20:42:42.552813] RTT to forwarder: 54.12 ms
+[2025-10-28 20:42:42.552867] Total Time (Recursive): 54.50 ms
+[2025-10-28 20:42:42.552890] --- Query End (Recursive) ---
+[2025-10-28 20:42:42.614893] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:42.615154] Timestamp: 2025-10-28 20:42:42.615139
+[2025-10-28 20:42:42.615264] Domain Name: chuamatsua.com.
+[2025-10-28 20:42:42.615305] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:42.802664] Received response from 8.8.8.8
+[2025-10-28 20:42:42.802949] RTT to forwarder: 187.32 ms
+[2025-10-28 20:42:42.802998] Total Time (Recursive): 187.67 ms
+[2025-10-28 20:42:42.803024] --- Query End (Recursive) ---
+[2025-10-28 20:42:42.850960] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:42.851210] Timestamp: 2025-10-28 20:42:42.851198
+[2025-10-28 20:42:42.851252] Domain Name: coutureauchocolat.com.
+[2025-10-28 20:42:42.851271] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:42.949238] Received response from 8.8.8.8
+[2025-10-28 20:42:42.949371] RTT to forwarder: 97.94 ms
+[2025-10-28 20:42:42.949394] Total Time (Recursive): 98.11 ms
+[2025-10-28 20:42:42.949404] --- Query End (Recursive) ---
+[2025-10-28 20:42:42.991521] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:42.991923] Timestamp: 2025-10-28 20:42:42.991910
+[2025-10-28 20:42:42.991957] Domain Name: daehepharma.com.
+[2025-10-28 20:42:42.991976] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:43.185433] Received response from 8.8.8.8
+[2025-10-28 20:42:43.186271] RTT to forwarder: 193.43 ms
+[2025-10-28 20:42:43.186686] Total Time (Recursive): 194.67 ms
+[2025-10-28 20:42:43.186838] --- Query End (Recursive) ---
+[2025-10-28 20:42:43.239268] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:43.239549] Timestamp: 2025-10-28 20:42:43.239531
+[2025-10-28 20:42:43.239612] Domain Name: datepanchang.com.
+[2025-10-28 20:42:43.239647] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:43.279370] Received response from 8.8.8.8
+[2025-10-28 20:42:43.279610] RTT to forwarder: 39.68 ms
+[2025-10-28 20:42:43.279655] Total Time (Recursive): 39.98 ms
+[2025-10-28 20:42:43.279678] --- Query End (Recursive) ---
+[2025-10-28 20:42:43.323299] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:43.323519] Timestamp: 2025-10-28 20:42:43.323508
+[2025-10-28 20:42:43.323555] Domain Name: diamondknot.com.
+[2025-10-28 20:42:43.323573] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:43.430266] Received response from 8.8.8.8
+[2025-10-28 20:42:43.430547] RTT to forwarder: 106.62 ms
+[2025-10-28 20:42:43.430607] Total Time (Recursive): 106.97 ms
+[2025-10-28 20:42:43.430638] --- Query End (Recursive) ---
+[2025-10-28 20:42:43.482009] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:43.482286] Timestamp: 2025-10-28 20:42:43.482272
+[2025-10-28 20:42:43.482334] Domain Name: ditrblog.com.
+[2025-10-28 20:42:43.482429] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:43.520631] Received response from 8.8.8.8
+[2025-10-28 20:42:43.520920] RTT to forwarder: 38.15 ms
+[2025-10-28 20:42:43.520973] Total Time (Recursive): 38.50 ms
+[2025-10-28 20:42:43.520998] --- Query End (Recursive) ---
+[2025-10-28 20:42:43.595424] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:43.595581] Timestamp: 2025-10-28 20:42:43.595572
+[2025-10-28 20:42:43.595604] Domain Name: dj-producer-j-mbargo.com.
+[2025-10-28 20:42:43.595617] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:43.640513] Received response from 8.8.8.8
+[2025-10-28 20:42:43.640773] RTT to forwarder: 44.87 ms
+[2025-10-28 20:42:43.640830] Total Time (Recursive): 45.20 ms
+[2025-10-28 20:42:43.640859] --- Query End (Recursive) ---
+[2025-10-28 20:42:43.694503] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:43.695149] Timestamp: 2025-10-28 20:42:43.695132
+[2025-10-28 20:42:43.695200] Domain Name: door2games.com.
+[2025-10-28 20:42:43.695227] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:43.726943] Received response from 8.8.8.8
+[2025-10-28 20:42:43.727134] RTT to forwarder: 31.68 ms
+[2025-10-28 20:42:43.727167] Total Time (Recursive): 31.92 ms
+[2025-10-28 20:42:43.727181] --- Query End (Recursive) ---
+[2025-10-28 20:42:43.778211] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:43.778509] Timestamp: 2025-10-28 20:42:43.778492
+[2025-10-28 20:42:43.778565] Domain Name: effexdjs.com.
+[2025-10-28 20:42:43.778597] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:43.824215] Received response from 8.8.8.8
+[2025-10-28 20:42:43.824637] RTT to forwarder: 45.58 ms
+[2025-10-28 20:42:43.824731] Total Time (Recursive): 46.10 ms
+[2025-10-28 20:42:43.824817] --- Query End (Recursive) ---
+[2025-10-28 20:42:43.882516] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:43.882753] Timestamp: 2025-10-28 20:42:43.882740
+[2025-10-28 20:42:43.882793] Domain Name: energybulbs.co.uk.
+[2025-10-28 20:42:43.882818] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:44.294890] Received response from 8.8.8.8
+[2025-10-28 20:42:44.295195] RTT to forwarder: 412.04 ms
+[2025-10-28 20:42:44.295255] Total Time (Recursive): 412.41 ms
+[2025-10-28 20:42:44.295284] --- Query End (Recursive) ---
+[2025-10-28 20:42:44.345979] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:44.346219] Timestamp: 2025-10-28 20:42:44.346205
+[2025-10-28 20:42:44.346268] Domain Name: eugenbotnar.com.
+[2025-10-28 20:42:44.346295] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:44.442068] Received response from 8.8.8.8
+[2025-10-28 20:42:44.442315] RTT to forwarder: 95.74 ms
+[2025-10-28 20:42:44.442372] Total Time (Recursive): 96.05 ms
+[2025-10-28 20:42:44.442401] --- Query End (Recursive) ---
+[2025-10-28 20:42:44.488071] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:44.488420] Timestamp: 2025-10-28 20:42:44.488403
+[2025-10-28 20:42:44.488492] Domain Name: ex-jw.org.
+[2025-10-28 20:42:44.488530] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:44.530761] Received response from 8.8.8.8
+[2025-10-28 20:42:44.531136] RTT to forwarder: 42.18 ms
+[2025-10-28 20:42:44.531209] Total Time (Recursive): 42.64 ms
+[2025-10-28 20:42:44.531243] --- Query End (Recursive) ---
+[2025-10-28 20:42:44.571154] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:44.571298] Timestamp: 2025-10-28 20:42:44.571290
+[2025-10-28 20:42:44.571319] Domain Name: fini.net.
+[2025-10-28 20:42:44.571329] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:44.638145] Received response from 8.8.8.8
+[2025-10-28 20:42:44.638566] RTT to forwarder: 66.79 ms
+[2025-10-28 20:42:44.638644] Total Time (Recursive): 67.30 ms
+[2025-10-28 20:42:44.638676] --- Query End (Recursive) ---
+[2025-10-28 20:42:44.693588] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:44.694008] Timestamp: 2025-10-28 20:42:44.693994
+[2025-10-28 20:42:44.694044] Domain Name: forpsi.net.
+[2025-10-28 20:42:44.694059] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:44.726678] Received response from 8.8.8.8
+[2025-10-28 20:42:44.726882] RTT to forwarder: 32.44 ms
+[2025-10-28 20:42:44.726919] Total Time (Recursive): 32.69 ms
+[2025-10-28 20:42:44.726934] --- Query End (Recursive) ---
+[2025-10-28 20:42:44.771251] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:44.771543] Timestamp: 2025-10-28 20:42:44.771526
+[2025-10-28 20:42:44.771596] Domain Name: gamemob.com.
+[2025-10-28 20:42:44.771625] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:44.864808] Received response from 8.8.8.8
+[2025-10-28 20:42:44.865129] RTT to forwarder: 93.15 ms
+[2025-10-28 20:42:44.865201] Total Time (Recursive): 93.55 ms
+[2025-10-28 20:42:44.865232] --- Query End (Recursive) ---
+[2025-10-28 20:42:44.922822] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:44.923115] Timestamp: 2025-10-28 20:42:44.923098
+[2025-10-28 20:42:44.923175] Domain Name: gensee.com.
+[2025-10-28 20:42:44.923207] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:45.196786] Received response from 8.8.8.8
+[2025-10-28 20:42:45.197317] RTT to forwarder: 273.54 ms
+[2025-10-28 20:42:45.201525] Total Time (Recursive): 278.28 ms
+[2025-10-28 20:42:45.201577] --- Query End (Recursive) ---
+[2025-10-28 20:42:45.239864] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:45.239962] Timestamp: 2025-10-28 20:42:45.239954
+[2025-10-28 20:42:45.239984] Domain Name: globalpoliticalspectrum.com.
+[2025-10-28 20:42:45.239999] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:45.278791] Received response from 8.8.8.8
+[2025-10-28 20:42:45.278928] RTT to forwarder: 38.77 ms
+[2025-10-28 20:42:45.278955] Total Time (Recursive): 38.94 ms
+[2025-10-28 20:42:45.278967] --- Query End (Recursive) ---
+[2025-10-28 20:42:45.337668] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:45.337790] Timestamp: 2025-10-28 20:42:45.337781
+[2025-10-28 20:42:45.337810] Domain Name: group14eng.com.
+[2025-10-28 20:42:45.337820] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:45.371184] Received response from 8.8.8.8
+[2025-10-28 20:42:45.371580] RTT to forwarder: 33.35 ms
+[2025-10-28 20:42:45.372485] Total Time (Recursive): 34.64 ms
+[2025-10-28 20:42:45.372544] --- Query End (Recursive) ---
+[2025-10-28 20:42:45.411817] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:45.411981] Timestamp: 2025-10-28 20:42:45.411972
+[2025-10-28 20:42:45.412008] Domain Name: gusbi.com.
+[2025-10-28 20:42:45.412023] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:45.461244] Received response from 8.8.8.8
+[2025-10-28 20:42:45.461493] RTT to forwarder: 49.20 ms
+[2025-10-28 20:42:45.461509] Total Time (Recursive): 49.47 ms
+[2025-10-28 20:42:45.461520] --- Query End (Recursive) ---
+[2025-10-28 20:42:45.493969] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:45.494109] Timestamp: 2025-10-28 20:42:45.494102
+[2025-10-28 20:42:45.494124] Domain Name: healthnews4you.com.
+[2025-10-28 20:42:45.494136] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:45.590221] Received response from 8.8.8.8
+[2025-10-28 20:42:45.590393] RTT to forwarder: 96.07 ms
+[2025-10-28 20:42:45.590420] Total Time (Recursive): 96.27 ms
+[2025-10-28 20:42:45.590430] --- Query End (Recursive) ---
+[2025-10-28 20:42:45.631743] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:45.631920] Timestamp: 2025-10-28 20:42:45.631908
+[2025-10-28 20:42:45.631955] Domain Name: hemcolubricants.com.
+[2025-10-28 20:42:45.631973] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:45.670272] Received response from 8.8.8.8
+[2025-10-28 20:42:45.670468] RTT to forwarder: 38.27 ms
+[2025-10-28 20:42:45.670504] Total Time (Recursive): 38.51 ms
+[2025-10-28 20:42:45.670520] --- Query End (Recursive) ---
+[2025-10-28 20:42:45.701536] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:45.701701] Timestamp: 2025-10-28 20:42:45.701693
+[2025-10-28 20:42:45.701721] Domain Name: hornil.com.
+[2025-10-28 20:42:45.701732] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:45.909980] Received response from 8.8.8.8
+[2025-10-28 20:42:45.910168] RTT to forwarder: 208.23 ms
+[2025-10-28 20:42:45.910282] Total Time (Recursive): 208.50 ms
+[2025-10-28 20:42:45.910395] --- Query End (Recursive) ---
+[2025-10-28 20:42:45.964172] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:45.964310] Timestamp: 2025-10-28 20:42:45.964304
+[2025-10-28 20:42:45.964330] Domain Name: house-sg.com.
+[2025-10-28 20:42:45.964341] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:46.005750] Received response from 8.8.8.8
+[2025-10-28 20:42:46.005862] RTT to forwarder: 41.39 ms
+[2025-10-28 20:42:46.005876] Total Time (Recursive): 41.52 ms
+[2025-10-28 20:42:46.005885] --- Query End (Recursive) ---
+[2025-10-28 20:42:46.057525] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:46.058493] Timestamp: 2025-10-28 20:42:46.058467
+[2025-10-28 20:42:46.058586] Domain Name: iag-inc.com.
+[2025-10-28 20:42:46.058629] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:46.099252] Received response from 8.8.8.8
+[2025-10-28 20:42:46.099655] RTT to forwarder: 40.58 ms
+[2025-10-28 20:42:46.099726] Total Time (Recursive): 41.06 ms
+[2025-10-28 20:42:46.099761] --- Query End (Recursive) ---
+[2025-10-28 20:42:46.146016] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:46.146388] Timestamp: 2025-10-28 20:42:46.146370
+[2025-10-28 20:42:46.146448] Domain Name: i-butterfly.ru.
+[2025-10-28 20:42:46.146482] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:46.185510] Received response from 8.8.8.8
+[2025-10-28 20:42:46.185670] RTT to forwarder: 38.99 ms
+[2025-10-28 20:42:46.185720] Total Time (Recursive): 39.20 ms
+[2025-10-28 20:42:46.185798] --- Query End (Recursive) ---
+[2025-10-28 20:42:46.223930] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:46.224298] Timestamp: 2025-10-28 20:42:46.224280
+[2025-10-28 20:42:46.224387] Domain Name: informarexresistere.fr.
+[2025-10-28 20:42:46.224427] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:46.261004] Received response from 8.8.8.8
+[2025-10-28 20:42:46.261177] RTT to forwarder: 36.53 ms
+[2025-10-28 20:42:46.261204] Total Time (Recursive): 36.73 ms
+[2025-10-28 20:42:46.261214] --- Query End (Recursive) ---
+[2025-10-28 20:42:46.306194] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:46.306510] Timestamp: 2025-10-28 20:42:46.306492
+[2025-10-28 20:42:46.306613] Domain Name: interfloracentral.co.uk.
+[2025-10-28 20:42:46.307423] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:47.043571] Received response from 8.8.8.8
+[2025-10-28 20:42:47.044195] RTT to forwarder: 736.03 ms
+[2025-10-28 20:42:47.044331] Total Time (Recursive): 736.80 ms
+[2025-10-28 20:42:47.044346] --- Query End (Recursive) ---
+[2025-10-28 20:42:47.097694] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:47.098100] Timestamp: 2025-10-28 20:42:47.098080
+[2025-10-28 20:42:47.098527] Domain Name: jantv.in.
+[2025-10-28 20:42:47.098592] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:47.139451] Received response from 8.8.8.8
+[2025-10-28 20:42:47.139838] RTT to forwarder: 40.81 ms
+[2025-10-28 20:42:47.139918] Total Time (Recursive): 41.28 ms
+[2025-10-28 20:42:47.139954] --- Query End (Recursive) ---
+[2025-10-28 20:42:47.194205] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:47.194497] Timestamp: 2025-10-28 20:42:47.194479
+[2025-10-28 20:42:47.194559] Domain Name: junio.com.
+[2025-10-28 20:42:47.194594] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:47.874001] Received response from 8.8.8.8
+[2025-10-28 20:42:47.874277] RTT to forwarder: 679.37 ms
+[2025-10-28 20:42:47.874397] Total Time (Recursive): 679.77 ms
+[2025-10-28 20:42:47.874432] --- Query End (Recursive) ---
+[2025-10-28 20:42:47.927819] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:47.927974] Timestamp: 2025-10-28 20:42:47.927965
+[2025-10-28 20:42:47.928001] Domain Name: kathihill.com.
+[2025-10-28 20:42:47.928014] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:47.968938] Received response from 8.8.8.8
+[2025-10-28 20:42:47.969255] RTT to forwarder: 40.90 ms
+[2025-10-28 20:42:47.969329] Total Time (Recursive): 41.30 ms
+[2025-10-28 20:42:47.969366] --- Query End (Recursive) ---
+[2025-10-28 20:42:48.025462] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:48.026391] Timestamp: 2025-10-28 20:42:48.026356
+[2025-10-28 20:42:48.026468] Domain Name: kennethehartman.com.
+[2025-10-28 20:42:48.026509] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:48.361991] Received response from 8.8.8.8
+[2025-10-28 20:42:48.362288] RTT to forwarder: 335.44 ms
+[2025-10-28 20:42:48.362337] Total Time (Recursive): 335.79 ms
+[2025-10-28 20:42:48.362358] --- Query End (Recursive) ---
+[2025-10-28 20:42:48.430482] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:48.430919] Timestamp: 2025-10-28 20:42:48.430899
+[2025-10-28 20:42:48.430992] Domain Name: khsm.ru.
+[2025-10-28 20:42:48.431041] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:48.478875] Received response from 8.8.8.8
+[2025-10-28 20:42:48.479276] RTT to forwarder: 47.78 ms
+[2025-10-28 20:42:48.479361] Total Time (Recursive): 48.28 ms
+[2025-10-28 20:42:48.479402] --- Query End (Recursive) ---
+[2025-10-28 20:42:48.529918] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:48.530331] Timestamp: 2025-10-28 20:42:48.530311
+[2025-10-28 20:42:48.530405] Domain Name: kh.ua.
+[2025-10-28 20:42:48.530443] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:48.572583] Received response from 8.8.8.8
+[2025-10-28 20:42:48.573095] RTT to forwarder: 42.09 ms
+[2025-10-28 20:42:48.573180] Total Time (Recursive): 42.70 ms
+[2025-10-28 20:42:48.573219] --- Query End (Recursive) ---
+[2025-10-28 20:42:48.635609] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:48.636254] Timestamp: 2025-10-28 20:42:48.636233
+[2025-10-28 20:42:48.636433] Domain Name: linksplash.info.
+[2025-10-28 20:42:48.636497] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:48.683423] Received response from 8.8.8.8
+[2025-10-28 20:42:48.683724] RTT to forwarder: 46.87 ms
+[2025-10-28 20:42:48.683794] Total Time (Recursive): 47.26 ms
+[2025-10-28 20:42:48.683831] --- Query End (Recursive) ---
+[2025-10-28 20:42:48.739485] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:48.740372] Timestamp: 2025-10-28 20:42:48.740353
+[2025-10-28 20:42:48.740626] Domain Name: livelinks.com.
+[2025-10-28 20:42:48.741169] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:48.798227] Received response from 8.8.8.8
+[2025-10-28 20:42:48.799063] RTT to forwarder: 56.98 ms
+[2025-10-28 20:42:48.799164] Total Time (Recursive): 57.93 ms
+[2025-10-28 20:42:48.799581] --- Query End (Recursive) ---
+[2025-10-28 20:42:48.854689] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:48.855040] Timestamp: 2025-10-28 20:42:48.855019
+[2025-10-28 20:42:48.855109] Domain Name: localhost.re.
+[2025-10-28 20:42:48.855146] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:48.909389] Received response from 8.8.8.8
+[2025-10-28 20:42:48.910000] RTT to forwarder: 54.20 ms
+[2025-10-28 20:42:48.910090] Total Time (Recursive): 54.91 ms
+[2025-10-28 20:42:48.910231] --- Query End (Recursive) ---
+[2025-10-28 20:42:48.966653] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:48.967283] Timestamp: 2025-10-28 20:42:48.967261
+[2025-10-28 20:42:48.967357] Domain Name: lozo.com.
+[2025-10-28 20:42:48.967397] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:49.014344] Received response from 8.8.8.8
+[2025-10-28 20:42:49.014775] RTT to forwarder: 46.90 ms
+[2025-10-28 20:42:49.014860] Total Time (Recursive): 47.42 ms
+[2025-10-28 20:42:49.014898] --- Query End (Recursive) ---
+[2025-10-28 20:42:49.110357] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:49.111354] Timestamp: 2025-10-28 20:42:49.111329
+[2025-10-28 20:42:49.111443] Domain Name: luckypuppygames.com.
+[2025-10-28 20:42:49.111485] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:49.159698] Received response from 8.8.8.8
+[2025-10-28 20:42:49.160021] RTT to forwarder: 48.16 ms
+[2025-10-28 20:42:49.160097] Total Time (Recursive): 48.57 ms
+[2025-10-28 20:42:49.160134] --- Query End (Recursive) ---
+[2025-10-28 20:42:49.216372] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:49.216746] Timestamp: 2025-10-28 20:42:49.216727
+[2025-10-28 20:42:49.217056] Domain Name: memeblender.com.
+[2025-10-28 20:42:49.217458] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:49.270502] Received response from 8.8.8.8
+[2025-10-28 20:42:49.270844] RTT to forwarder: 52.97 ms
+[2025-10-28 20:42:49.271026] Total Time (Recursive): 53.50 ms
+[2025-10-28 20:42:49.271235] --- Query End (Recursive) ---
+[2025-10-28 20:42:49.324123] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:49.324328] Timestamp: 2025-10-28 20:42:49.324315
+[2025-10-28 20:42:49.324373] Domain Name: mesites.co.za.
+[2025-10-28 20:42:49.324408] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:49.362677] Received response from 8.8.8.8
+[2025-10-28 20:42:49.362880] RTT to forwarder: 38.23 ms
+[2025-10-28 20:42:49.362926] Total Time (Recursive): 38.48 ms
+[2025-10-28 20:42:49.362960] --- Query End (Recursive) ---
+[2025-10-28 20:42:49.416885] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:49.417088] Timestamp: 2025-10-28 20:42:49.417075
+[2025-10-28 20:42:49.417134] Domain Name: michiganbulb.com.
+[2025-10-28 20:42:49.417171] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:49.469706] Received response from 8.8.8.8
+[2025-10-28 20:42:49.470358] RTT to forwarder: 52.49 ms
+[2025-10-28 20:42:49.470544] Total Time (Recursive): 53.33 ms
+[2025-10-28 20:42:49.471119] --- Query End (Recursive) ---
+[2025-10-28 20:42:49.516821] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:49.517180] Timestamp: 2025-10-28 20:42:49.517159
+[2025-10-28 20:42:49.517265] Domain Name: monsterhomesecuritystore.com.
+[2025-10-28 20:42:49.517304] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:49.566333] Received response from 8.8.8.8
+[2025-10-28 20:42:49.566533] RTT to forwarder: 48.98 ms
+[2025-10-28 20:42:49.566588] Total Time (Recursive): 49.25 ms
+[2025-10-28 20:42:49.566953] --- Query End (Recursive) ---
+[2025-10-28 20:42:49.608576] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:49.608775] Timestamp: 2025-10-28 20:42:49.608762
+[2025-10-28 20:42:49.608820] Domain Name: mwzip.com.
+[2025-10-28 20:42:49.608854] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:49.651562] Received response from 8.8.8.8
+[2025-10-28 20:42:49.652051] RTT to forwarder: 42.66 ms
+[2025-10-28 20:42:49.652137] Total Time (Recursive): 43.25 ms
+[2025-10-28 20:42:49.652280] --- Query End (Recursive) ---
+[2025-10-28 20:42:49.707248] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:49.707672] Timestamp: 2025-10-28 20:42:49.707653
+[2025-10-28 20:42:49.707740] Domain Name: mysearch-online.com.
+[2025-10-28 20:42:49.707779] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:49.766888] Received response from 8.8.8.8
+[2025-10-28 20:42:49.767204] RTT to forwarder: 59.06 ms
+[2025-10-28 20:42:49.767284] Total Time (Recursive): 59.47 ms
+[2025-10-28 20:42:49.767322] --- Query End (Recursive) ---
+[2025-10-28 20:42:49.827361] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:49.827566] Timestamp: 2025-10-28 20:42:49.827554
+[2025-10-28 20:42:49.827613] Domain Name: newstetic.com.
+[2025-10-28 20:42:49.827645] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:49.871103] Received response from 8.8.8.8
+[2025-10-28 20:42:49.871401] RTT to forwarder: 43.41 ms
+[2025-10-28 20:42:49.871493] Total Time (Recursive): 43.81 ms
+[2025-10-28 20:42:49.871534] --- Query End (Recursive) ---
+[2025-10-28 20:42:49.930602] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:49.930937] Timestamp: 2025-10-28 20:42:49.930917
+[2025-10-28 20:42:49.931005] Domain Name: niceinternetmoney.ru.
+[2025-10-28 20:42:49.931047] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:51.699537] Received response from 8.8.8.8
+[2025-10-28 20:42:51.699901] RTT to forwarder: 1768.44 ms
+[2025-10-28 20:42:51.700018] Total Time (Recursive): 1768.93 ms
+[2025-10-28 20:42:51.700111] --- Query End (Recursive) ---
+[2025-10-28 20:42:51.795512] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:51.796197] Timestamp: 2025-10-28 20:42:51.796164
+[2025-10-28 20:42:51.796338] Domain Name: ondemandappliancerepair.com.
+[2025-10-28 20:42:51.796431] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:52.096960] Received response from 8.8.8.8
+[2025-10-28 20:42:52.097762] RTT to forwarder: 300.43 ms
+[2025-10-28 20:42:52.097842] Total Time (Recursive): 301.32 ms
+[2025-10-28 20:42:52.097879] --- Query End (Recursive) ---
+[2025-10-28 20:42:52.159005] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:52.159335] Timestamp: 2025-10-28 20:42:52.159316
+[2025-10-28 20:42:52.159401] Domain Name: o-ov.com.
+[2025-10-28 20:42:52.159438] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:52.325077] Received response from 8.8.8.8
+[2025-10-28 20:42:52.325770] RTT to forwarder: 165.59 ms
+[2025-10-28 20:42:52.325863] Total Time (Recursive): 166.39 ms
+[2025-10-28 20:42:52.325907] --- Query End (Recursive) ---
+[2025-10-28 20:42:52.379831] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:52.380324] Timestamp: 2025-10-28 20:42:52.380294
+[2025-10-28 20:42:52.380433] Domain Name: owlcreek.com.
+[2025-10-28 20:42:52.380473] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:52.425176] Received response from 8.8.8.8
+[2025-10-28 20:42:52.425581] RTT to forwarder: 44.65 ms
+[2025-10-28 20:42:52.425662] Total Time (Recursive): 45.15 ms
+[2025-10-28 20:42:52.425701] --- Query End (Recursive) ---
+[2025-10-28 20:42:52.493729] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:52.493980] Timestamp: 2025-10-28 20:42:52.493965
+[2025-10-28 20:42:52.494236] Domain Name: pbprofile.com.
+[2025-10-28 20:42:52.494279] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:52.768904] Received response from 8.8.8.8
+[2025-10-28 20:42:52.769307] RTT to forwarder: 274.58 ms
+[2025-10-28 20:42:52.769388] Total Time (Recursive): 275.07 ms
+[2025-10-28 20:42:52.769426] --- Query End (Recursive) ---
+[2025-10-28 20:42:52.852299] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:52.852548] Timestamp: 2025-10-28 20:42:52.852533
+[2025-10-28 20:42:52.852593] Domain Name: phi-pe.com.
+[2025-10-28 20:42:52.852626] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:52.904688] Received response from 8.8.8.8
+[2025-10-28 20:42:52.905061] RTT to forwarder: 52.02 ms
+[2025-10-28 20:42:52.905144] Total Time (Recursive): 52.48 ms
+[2025-10-28 20:42:52.905180] --- Query End (Recursive) ---
+[2025-10-28 20:42:52.955127] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:52.955609] Timestamp: 2025-10-28 20:42:52.955588
+[2025-10-28 20:42:52.955684] Domain Name: pictures-thailand.com.
+[2025-10-28 20:42:52.955721] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:53.000471] Received response from 8.8.8.8
+[2025-10-28 20:42:53.000920] RTT to forwarder: 44.61 ms
+[2025-10-28 20:42:53.001834] Total Time (Recursive): 45.95 ms
+[2025-10-28 20:42:53.002169] --- Query End (Recursive) ---
+[2025-10-28 20:42:53.062596] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:53.063019] Timestamp: 2025-10-28 20:42:53.062999
+[2025-10-28 20:42:53.063098] Domain Name: pieceinch.com.
+[2025-10-28 20:42:53.063233] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:53.121922] Received response from 8.8.8.8
+[2025-10-28 20:42:53.122302] RTT to forwarder: 58.53 ms
+[2025-10-28 20:42:53.122387] Total Time (Recursive): 59.00 ms
+[2025-10-28 20:42:53.122428] --- Query End (Recursive) ---
+[2025-10-28 20:42:53.179123] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:53.179462] Timestamp: 2025-10-28 20:42:53.179442
+[2025-10-28 20:42:53.179559] Domain Name: portclydegeneralstore.com.
+[2025-10-28 20:42:53.179612] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:53.278257] Received response from 8.8.8.8
+[2025-10-28 20:42:53.278575] RTT to forwarder: 98.50 ms
+[2025-10-28 20:42:53.278653] Total Time (Recursive): 98.90 ms
+[2025-10-28 20:42:53.278693] --- Query End (Recursive) ---
+[2025-10-28 20:42:53.342642] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:53.343253] Timestamp: 2025-10-28 20:42:53.343220
+[2025-10-28 20:42:53.343397] Domain Name: ppsuika.ac.id.
+[2025-10-28 20:42:53.343491] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:53.387303] Received response from 8.8.8.8
+[2025-10-28 20:42:53.387795] RTT to forwarder: 43.70 ms
+[2025-10-28 20:42:53.387872] Total Time (Recursive): 44.29 ms
+[2025-10-28 20:42:53.387909] --- Query End (Recursive) ---
+[2025-10-28 20:42:53.461805] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:53.462101] Timestamp: 2025-10-28 20:42:53.462083
+[2025-10-28 20:42:53.462169] Domain Name: probigbets.com.
+[2025-10-28 20:42:53.462208] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:53.535916] Received response from 8.8.8.8
+[2025-10-28 20:42:53.536341] RTT to forwarder: 73.65 ms
+[2025-10-28 20:42:53.536419] Total Time (Recursive): 74.17 ms
+[2025-10-28 20:42:53.536457] --- Query End (Recursive) ---
+[2025-10-28 20:42:53.590461] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:53.590804] Timestamp: 2025-10-28 20:42:53.590785
+[2025-10-28 20:42:53.590871] Domain Name: progettogiovani.pd.it.
+[2025-10-28 20:42:53.590908] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:53.641725] Received response from 8.8.8.8
+[2025-10-28 20:42:53.642066] RTT to forwarder: 50.77 ms
+[2025-10-28 20:42:53.643283] Total Time (Recursive): 52.33 ms
+[2025-10-28 20:42:53.643331] --- Query End (Recursive) ---
+[2025-10-28 20:42:53.699352] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:53.699560] Timestamp: 2025-10-28 20:42:53.699548
+[2025-10-28 20:42:53.699607] Domain Name: radioterminal.ru.
+[2025-10-28 20:42:53.699642] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:54.146075] Received response from 8.8.8.8
+[2025-10-28 20:42:54.146502] RTT to forwarder: 446.29 ms
+[2025-10-28 20:42:54.146579] Total Time (Recursive): 446.80 ms
+[2025-10-28 20:42:54.146619] --- Query End (Recursive) ---
+[2025-10-28 20:42:54.206893] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:54.207208] Timestamp: 2025-10-28 20:42:54.207189
+[2025-10-28 20:42:54.207342] Domain Name: reprosystems.ru.
+[2025-10-28 20:42:54.207561] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:54.249179] Received response from 8.8.8.8
+[2025-10-28 20:42:54.250249] RTT to forwarder: 41.35 ms
+[2025-10-28 20:42:54.250452] Total Time (Recursive): 42.64 ms
+[2025-10-28 20:42:54.250513] --- Query End (Recursive) ---
+[2025-10-28 20:42:54.312839] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:54.313213] Timestamp: 2025-10-28 20:42:54.313194
+[2025-10-28 20:42:54.313275] Domain Name: retiragroup.com.
+[2025-10-28 20:42:54.313311] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:54.394726] Received response from 8.8.8.8
+[2025-10-28 20:42:54.395173] RTT to forwarder: 81.37 ms
+[2025-10-28 20:42:54.395362] Total Time (Recursive): 82.01 ms
+[2025-10-28 20:42:54.395479] --- Query End (Recursive) ---
+[2025-10-28 20:42:54.462090] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:54.462431] Timestamp: 2025-10-28 20:42:54.462411
+[2025-10-28 20:42:54.462498] Domain Name: rtsab.com.
+[2025-10-28 20:42:54.462535] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:54.508705] Received response from 8.8.8.8
+[2025-10-28 20:42:54.509094] RTT to forwarder: 46.13 ms
+[2025-10-28 20:42:54.509181] Total Time (Recursive): 46.61 ms
+[2025-10-28 20:42:54.509217] --- Query End (Recursive) ---
+[2025-10-28 20:42:54.573966] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:54.574404] Timestamp: 2025-10-28 20:42:54.574384
+[2025-10-28 20:42:54.574465] Domain Name: running-sigi.de.
+[2025-10-28 20:42:54.574499] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:54.676123] Received response from 8.8.8.8
+[2025-10-28 20:42:54.676528] RTT to forwarder: 101.58 ms
+[2025-10-28 20:42:54.676606] Total Time (Recursive): 102.07 ms
+[2025-10-28 20:42:54.676643] --- Query End (Recursive) ---
+[2025-10-28 20:42:54.742868] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:54.743237] Timestamp: 2025-10-28 20:42:54.743217
+[2025-10-28 20:42:54.743301] Domain Name: sdccdonline.net.
+[2025-10-28 20:42:54.743337] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:54.844784] Received response from 8.8.8.8
+[2025-10-28 20:42:54.845585] RTT to forwarder: 101.40 ms
+[2025-10-28 20:42:54.845753] Total Time (Recursive): 102.38 ms
+[2025-10-28 20:42:54.845790] --- Query End (Recursive) ---
+[2025-10-28 20:42:54.955134] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:54.955358] Timestamp: 2025-10-28 20:42:54.955344
+[2025-10-28 20:42:54.955403] Domain Name: sheltercoveinn.com.
+[2025-10-28 20:42:54.955436] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:55.257230] Received response from 8.8.8.8
+[2025-10-28 20:42:55.257802] RTT to forwarder: 301.75 ms
+[2025-10-28 20:42:55.257893] Total Time (Recursive): 302.42 ms
+[2025-10-28 20:42:55.257931] --- Query End (Recursive) ---
+[2025-10-28 20:42:55.315775] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:55.316175] Timestamp: 2025-10-28 20:42:55.316151
+[2025-10-28 20:42:55.316242] Domain Name: shivalikprints.com.
+[2025-10-28 20:42:55.316487] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:55.375883] Received response from 8.8.8.8
+[2025-10-28 20:42:55.376119] RTT to forwarder: 59.14 ms
+[2025-10-28 20:42:55.376174] Total Time (Recursive): 59.44 ms
+[2025-10-28 20:42:55.376209] --- Query End (Recursive) ---
+[2025-10-28 20:42:55.460094] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:55.460444] Timestamp: 2025-10-28 20:42:55.460423
+[2025-10-28 20:42:55.460536] Domain Name: shqqaa.com.
+[2025-10-28 20:42:55.460573] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:55.554003] Received response from 8.8.8.8
+[2025-10-28 20:42:55.554326] RTT to forwarder: 93.09 ms
+[2025-10-28 20:42:55.554405] Total Time (Recursive): 93.50 ms
+[2025-10-28 20:42:55.554442] --- Query End (Recursive) ---
+[2025-10-28 20:42:55.608748] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:55.609051] Timestamp: 2025-10-28 20:42:55.609034
+[2025-10-28 20:42:55.609112] Domain Name: simternet.com.
+[2025-10-28 20:42:55.609147] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:55.649575] Received response from 8.8.8.8
+[2025-10-28 20:42:55.649777] RTT to forwarder: 40.39 ms
+[2025-10-28 20:42:55.649830] Total Time (Recursive): 40.65 ms
+[2025-10-28 20:42:55.649867] --- Query End (Recursive) ---
+[2025-10-28 20:42:55.703212] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:55.703607] Timestamp: 2025-10-28 20:42:55.703588
+[2025-10-28 20:42:55.703679] Domain Name: somode.com.
+[2025-10-28 20:42:55.703718] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:55.750849] Received response from 8.8.8.8
+[2025-10-28 20:42:55.751374] RTT to forwarder: 47.08 ms
+[2025-10-28 20:42:55.751557] Total Time (Recursive): 47.80 ms
+[2025-10-28 20:42:55.751619] --- Query End (Recursive) ---
+[2025-10-28 20:42:55.808615] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:55.808948] Timestamp: 2025-10-28 20:42:55.808930
+[2025-10-28 20:42:55.809016] Domain Name: stunninggirls.net.
+[2025-10-28 20:42:55.809298] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:55.847165] Received response from 8.8.8.8
+[2025-10-28 20:42:55.847958] RTT to forwarder: 37.81 ms
+[2025-10-28 20:42:55.848160] Total Time (Recursive): 38.81 ms
+[2025-10-28 20:42:55.848220] --- Query End (Recursive) ---
+[2025-10-28 20:42:55.895207] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:55.895543] Timestamp: 2025-10-28 20:42:55.895525
+[2025-10-28 20:42:55.895619] Domain Name: toaskfuture.com.
+[2025-10-28 20:42:55.895657] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:56.031108] Received response from 8.8.8.8
+[2025-10-28 20:42:56.031455] RTT to forwarder: 135.34 ms
+[2025-10-28 20:42:56.031529] Total Time (Recursive): 135.84 ms
+[2025-10-28 20:42:56.031567] --- Query End (Recursive) ---
+[2025-10-28 20:42:56.107656] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:56.107862] Timestamp: 2025-10-28 20:42:56.107847
+[2025-10-28 20:42:56.108155] Domain Name: tottenhamhk.com.
+[2025-10-28 20:42:56.108205] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:56.151434] Received response from 8.8.8.8
+[2025-10-28 20:42:56.151634] RTT to forwarder: 43.18 ms
+[2025-10-28 20:42:56.151690] Total Time (Recursive): 43.45 ms
+[2025-10-28 20:42:56.151726] --- Query End (Recursive) ---
+[2025-10-28 20:42:56.218585] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:56.218891] Timestamp: 2025-10-28 20:42:56.218873
+[2025-10-28 20:42:56.218960] Domain Name: triggerfish.se.
+[2025-10-28 20:42:56.218997] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:56.617970] Received response from 8.8.8.8
+[2025-10-28 20:42:56.618994] RTT to forwarder: 398.93 ms
+[2025-10-28 20:42:56.619079] Total Time (Recursive): 400.05 ms
+[2025-10-28 20:42:56.619116] --- Query End (Recursive) ---
+[2025-10-28 20:42:56.677335] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:56.677796] Timestamp: 2025-10-28 20:42:56.677776
+[2025-10-28 20:42:56.677867] Domain Name: tuhafhaberler.com.
+[2025-10-28 20:42:56.678670] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:56.725892] Received response from 8.8.8.8
+[2025-10-28 20:42:56.726356] RTT to forwarder: 47.15 ms
+[2025-10-28 20:42:56.726480] Total Time (Recursive): 47.74 ms
+[2025-10-28 20:42:56.726524] --- Query End (Recursive) ---
+[2025-10-28 20:42:56.818000] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:56.818751] Timestamp: 2025-10-28 20:42:56.818724
+[2025-10-28 20:42:56.819060] Domain Name: uahoy.net.
+[2025-10-28 20:42:56.819131] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:56.875270] Received response from 8.8.8.8
+[2025-10-28 20:42:56.875687] RTT to forwarder: 56.09 ms
+[2025-10-28 20:42:56.875765] Total Time (Recursive): 56.59 ms
+[2025-10-28 20:42:56.875801] --- Query End (Recursive) ---
+[2025-10-28 20:42:56.930053] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:56.930392] Timestamp: 2025-10-28 20:42:56.930372
+[2025-10-28 20:42:56.930464] Domain Name: us.tf.
+[2025-10-28 20:42:56.930501] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:58.973595] Received response from 8.8.8.8
+[2025-10-28 20:42:58.975612] RTT to forwarder: 2043.05 ms
+[2025-10-28 20:42:58.975770] Total Time (Recursive): 2045.23 ms
+[2025-10-28 20:42:58.975815] --- Query End (Recursive) ---
+[2025-10-28 20:42:59.068143] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:59.068490] Timestamp: 2025-10-28 20:42:59.068467
+[2025-10-28 20:42:59.068565] Domain Name: wrestlingfanssuck.com.
+[2025-10-28 20:42:59.068605] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:59.125384] Received response from 8.8.8.8
+[2025-10-28 20:42:59.125891] RTT to forwarder: 56.63 ms
+[2025-10-28 20:42:59.126174] Total Time (Recursive): 57.42 ms
+[2025-10-28 20:42:59.126252] --- Query End (Recursive) ---
+[2025-10-28 20:42:59.182306] --- New Query (Recursive Request) ---
+[2025-10-28 20:42:59.182543] Timestamp: 2025-10-28 20:42:59.182528
+[2025-10-28 20:42:59.182592] Domain Name: zzxu.cn.
+[2025-10-28 20:42:59.182628] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:42:59.629263] Received response from 8.8.8.8
+[2025-10-28 20:42:59.629494] RTT to forwarder: 446.59 ms
+[2025-10-28 20:42:59.629543] Total Time (Recursive): 446.88 ms
+[2025-10-28 20:42:59.629576] --- Query End (Recursive) ---
+[2025-10-28 20:44:48.533696] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:48.534929] Timestamp: 2025-10-28 20:44:48.534907
+[2025-10-28 20:44:48.535005] Domain Name: 51cdngo.com.
+[2025-10-28 20:44:48.535032] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:49.426239] Received response from 8.8.8.8
+[2025-10-28 20:44:49.426350] RTT to forwarder: 891.17 ms
+[2025-10-28 20:44:49.426372] Total Time (Recursive): 891.32 ms
+[2025-10-28 20:44:49.426386] --- Query End (Recursive) ---
+[2025-10-28 20:44:49.455847] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:49.455927] Timestamp: 2025-10-28 20:44:49.455921
+[2025-10-28 20:44:49.455939] Domain Name: 7sports.jp.
+[2025-10-28 20:44:49.455949] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:49.492214] Received response from 8.8.8.8
+[2025-10-28 20:44:49.492350] RTT to forwarder: 36.25 ms
+[2025-10-28 20:44:49.492365] Total Time (Recursive): 36.41 ms
+[2025-10-28 20:44:49.492375] --- Query End (Recursive) ---
+[2025-10-28 20:44:49.522439] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:49.522546] Timestamp: 2025-10-28 20:44:49.522540
+[2025-10-28 20:44:49.522562] Domain Name: alkoholiker-clan.de.
+[2025-10-28 20:44:49.522574] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:49.552791] Received response from 8.8.8.8
+[2025-10-28 20:44:49.552909] RTT to forwarder: 30.20 ms
+[2025-10-28 20:44:49.552927] Total Time (Recursive): 30.34 ms
+[2025-10-28 20:44:49.552937] --- Query End (Recursive) ---
+[2025-10-28 20:44:49.589243] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:49.589671] Timestamp: 2025-10-28 20:44:49.589658
+[2025-10-28 20:44:49.589713] Domain Name: alltransport.ru.
+[2025-10-28 20:44:49.589726] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:49.624321] Received response from 8.8.8.8
+[2025-10-28 20:44:49.624510] RTT to forwarder: 34.58 ms
+[2025-10-28 20:44:49.624550] Total Time (Recursive): 34.81 ms
+[2025-10-28 20:44:49.624567] --- Query End (Recursive) ---
+[2025-10-28 20:44:49.657564] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:49.657794] Timestamp: 2025-10-28 20:44:49.657781
+[2025-10-28 20:44:49.657848] Domain Name: a-loud.com.
+[2025-10-28 20:44:49.657872] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:49.850898] Received response from 8.8.8.8
+[2025-10-28 20:44:49.851182] RTT to forwarder: 192.99 ms
+[2025-10-28 20:44:49.851242] Total Time (Recursive): 193.35 ms
+[2025-10-28 20:44:49.851268] --- Query End (Recursive) ---
+[2025-10-28 20:44:49.886985] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:49.887358] Timestamp: 2025-10-28 20:44:49.887342
+[2025-10-28 20:44:49.887416] Domain Name: ambassadorsspfhf.org.
+[2025-10-28 20:44:49.887442] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:49.928266] Received response from 8.8.8.8
+[2025-10-28 20:44:49.928541] RTT to forwarder: 40.79 ms
+[2025-10-28 20:44:49.928582] Total Time (Recursive): 41.11 ms
+[2025-10-28 20:44:49.928601] --- Query End (Recursive) ---
+[2025-10-28 20:44:49.961415] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:49.961587] Timestamp: 2025-10-28 20:44:49.961580
+[2025-10-28 20:44:49.961613] Domain Name: amedeos.net.
+[2025-10-28 20:44:49.961633] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:49.995852] Received response from 8.8.8.8
+[2025-10-28 20:44:49.996085] RTT to forwarder: 34.20 ms
+[2025-10-28 20:44:49.996123] Total Time (Recursive): 34.48 ms
+[2025-10-28 20:44:49.996139] --- Query End (Recursive) ---
+[2025-10-28 20:44:50.013370] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:50.013517] Timestamp: 2025-10-28 20:44:50.013508
+[2025-10-28 20:44:50.013543] Domain Name: androgyn.org.
+[2025-10-28 20:44:50.013557] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:50.047410] Received response from 8.8.8.8
+[2025-10-28 20:44:50.047715] RTT to forwarder: 33.83 ms
+[2025-10-28 20:44:50.047812] Total Time (Recursive): 34.24 ms
+[2025-10-28 20:44:50.047841] --- Query End (Recursive) ---
+[2025-10-28 20:44:50.085679] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:50.085993] Timestamp: 2025-10-28 20:44:50.085976
+[2025-10-28 20:44:50.086052] Domain Name: asip.es.
+[2025-10-28 20:44:50.086124] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:50.130250] Received response from 8.8.8.8
+[2025-10-28 20:44:50.130428] RTT to forwarder: 44.09 ms
+[2025-10-28 20:44:50.130476] Total Time (Recursive): 44.32 ms
+[2025-10-28 20:44:50.130493] --- Query End (Recursive) ---
+[2025-10-28 20:44:50.158393] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:50.158532] Timestamp: 2025-10-28 20:44:50.158524
+[2025-10-28 20:44:50.158556] Domain Name: aspiringwriter.ca.
+[2025-10-28 20:44:50.158569] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:50.190696] Received response from 8.8.8.8
+[2025-10-28 20:44:50.190931] RTT to forwarder: 32.11 ms
+[2025-10-28 20:44:50.190980] Total Time (Recursive): 32.40 ms
+[2025-10-28 20:44:50.191003] --- Query End (Recursive) ---
+[2025-10-28 20:44:50.221102] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:50.221672] Timestamp: 2025-10-28 20:44:50.221660
+[2025-10-28 20:44:50.221693] Domain Name: atomicbase.com.
+[2025-10-28 20:44:50.221705] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:50.263880] Received response from 8.8.8.8
+[2025-10-28 20:44:50.264043] RTT to forwarder: 42.16 ms
+[2025-10-28 20:44:50.264064] Total Time (Recursive): 42.35 ms
+[2025-10-28 20:44:50.264077] --- Query End (Recursive) ---
+[2025-10-28 20:44:50.291828] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:50.291938] Timestamp: 2025-10-28 20:44:50.291931
+[2025-10-28 20:44:50.291955] Domain Name: bek.ir.
+[2025-10-28 20:44:50.291967] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:50.682016] Received response from 8.8.8.8
+[2025-10-28 20:44:50.682326] RTT to forwarder: 390.03 ms
+[2025-10-28 20:44:50.682371] Total Time (Recursive): 390.39 ms
+[2025-10-28 20:44:50.682465] --- Query End (Recursive) ---
+[2025-10-28 20:44:50.712877] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:50.713037] Timestamp: 2025-10-28 20:44:50.713028
+[2025-10-28 20:44:50.713063] Domain Name: bigjournalism.com.
+[2025-10-28 20:44:50.713091] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:50.813562] Received response from 8.8.8.8
+[2025-10-28 20:44:50.813747] RTT to forwarder: 100.45 ms
+[2025-10-28 20:44:50.813916] Total Time (Recursive): 100.81 ms
+[2025-10-28 20:44:50.813943] --- Query End (Recursive) ---
+[2025-10-28 20:44:50.847824] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:50.848074] Timestamp: 2025-10-28 20:44:50.848058
+[2025-10-28 20:44:50.848127] Domain Name: brfone.com.
+[2025-10-28 20:44:50.848159] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:50.886889] Received response from 8.8.8.8
+[2025-10-28 20:44:50.887080] RTT to forwarder: 38.70 ms
+[2025-10-28 20:44:50.887117] Total Time (Recursive): 38.93 ms
+[2025-10-28 20:44:50.887136] --- Query End (Recursive) ---
+[2025-10-28 20:44:50.920082] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:50.920279] Timestamp: 2025-10-28 20:44:50.920268
+[2025-10-28 20:44:50.920317] Domain Name: brown.edu.
+[2025-10-28 20:44:50.920334] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:50.953606] Received response from 8.8.8.8
+[2025-10-28 20:44:50.953741] RTT to forwarder: 33.25 ms
+[2025-10-28 20:44:50.953770] Total Time (Recursive): 33.42 ms
+[2025-10-28 20:44:50.953781] --- Query End (Recursive) ---
+[2025-10-28 20:44:50.982867] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:50.983069] Timestamp: 2025-10-28 20:44:50.983057
+[2025-10-28 20:44:50.983106] Domain Name: c3budiman.tk.
+[2025-10-28 20:44:50.983127] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:51.153834] Received response from 8.8.8.8
+[2025-10-28 20:44:51.154129] RTT to forwarder: 170.68 ms
+[2025-10-28 20:44:51.154192] Total Time (Recursive): 171.05 ms
+[2025-10-28 20:44:51.154220] --- Query End (Recursive) ---
+[2025-10-28 20:44:51.194155] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:51.194387] Timestamp: 2025-10-28 20:44:51.194373
+[2025-10-28 20:44:51.194438] Domain Name: capella.edu.
+[2025-10-28 20:44:51.194464] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:51.226685] Received response from 8.8.8.8
+[2025-10-28 20:44:51.226946] RTT to forwarder: 32.19 ms
+[2025-10-28 20:44:51.227005] Total Time (Recursive): 32.52 ms
+[2025-10-28 20:44:51.227032] --- Query End (Recursive) ---
+[2025-10-28 20:44:51.256861] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:51.256991] Timestamp: 2025-10-28 20:44:51.256983
+[2025-10-28 20:44:51.257013] Domain Name: casco.com.
+[2025-10-28 20:44:51.257029] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:51.298874] Received response from 8.8.8.8
+[2025-10-28 20:44:51.299009] RTT to forwarder: 41.82 ms
+[2025-10-28 20:44:51.299026] Total Time (Recursive): 41.98 ms
+[2025-10-28 20:44:51.299037] --- Query End (Recursive) ---
+[2025-10-28 20:44:51.328986] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:51.329102] Timestamp: 2025-10-28 20:44:51.329094
+[2025-10-28 20:44:51.329132] Domain Name: cellularfactory.com.
+[2025-10-28 20:44:51.329153] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:51.363987] Received response from 8.8.8.8
+[2025-10-28 20:44:51.365699] RTT to forwarder: 34.81 ms
+[2025-10-28 20:44:51.365915] Total Time (Recursive): 36.74 ms
+[2025-10-28 20:44:51.365950] --- Query End (Recursive) ---
+[2025-10-28 20:44:51.412083] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:51.412259] Timestamp: 2025-10-28 20:44:51.412250
+[2025-10-28 20:44:51.412284] Domain Name: cncdesign.co.kr.
+[2025-10-28 20:44:51.412296] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:51.444741] Received response from 8.8.8.8
+[2025-10-28 20:44:51.444995] RTT to forwarder: 32.41 ms
+[2025-10-28 20:44:51.445050] Total Time (Recursive): 32.73 ms
+[2025-10-28 20:44:51.445076] --- Query End (Recursive) ---
+[2025-10-28 20:44:51.482320] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:51.482580] Timestamp: 2025-10-28 20:44:51.482564
+[2025-10-28 20:44:51.482835] Domain Name: congsoxanh.com.
+[2025-10-28 20:44:51.482910] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:51.527122] Received response from 8.8.8.8
+[2025-10-28 20:44:51.527310] RTT to forwarder: 44.18 ms
+[2025-10-28 20:44:51.527342] Total Time (Recursive): 44.41 ms
+[2025-10-28 20:44:51.527363] --- Query End (Recursive) ---
+[2025-10-28 20:44:51.560387] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:51.560614] Timestamp: 2025-10-28 20:44:51.560604
+[2025-10-28 20:44:51.560655] Domain Name: consejodentistas.org.
+[2025-10-28 20:44:51.560670] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:51.829902] Received response from 8.8.8.8
+[2025-10-28 20:44:51.830072] RTT to forwarder: 269.21 ms
+[2025-10-28 20:44:51.830108] Total Time (Recursive): 269.42 ms
+[2025-10-28 20:44:51.830133] --- Query End (Recursive) ---
+[2025-10-28 20:44:51.864707] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:51.864929] Timestamp: 2025-10-28 20:44:51.864915
+[2025-10-28 20:44:51.864980] Domain Name: cornesoft.com.
+[2025-10-28 20:44:51.865007] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:51.909035] Received response from 8.8.8.8
+[2025-10-28 20:44:51.909462] RTT to forwarder: 44.00 ms
+[2025-10-28 20:44:51.909585] Total Time (Recursive): 44.55 ms
+[2025-10-28 20:44:51.909621] --- Query End (Recursive) ---
+[2025-10-28 20:44:51.951438] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:51.951627] Timestamp: 2025-10-28 20:44:51.951616
+[2025-10-28 20:44:51.951660] Domain Name: datadikdki.net.
+[2025-10-28 20:44:51.951679] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:51.989117] Received response from 8.8.8.8
+[2025-10-28 20:44:51.989337] RTT to forwarder: 37.41 ms
+[2025-10-28 20:44:51.989367] Total Time (Recursive): 37.67 ms
+[2025-10-28 20:44:51.989379] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.021861] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.022066] Timestamp: 2025-10-28 20:44:52.022053
+[2025-10-28 20:44:52.022104] Domain Name: doommovie.com.
+[2025-10-28 20:44:52.022126] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.060595] Received response from 8.8.8.8
+[2025-10-28 20:44:52.060804] RTT to forwarder: 38.44 ms
+[2025-10-28 20:44:52.060835] Total Time (Recursive): 38.69 ms
+[2025-10-28 20:44:52.060850] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.091090] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.091224] Timestamp: 2025-10-28 20:44:52.091215
+[2025-10-28 20:44:52.091258] Domain Name: elettronix.com.
+[2025-10-28 20:44:52.091271] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.122907] Received response from 8.8.8.8
+[2025-10-28 20:44:52.123089] RTT to forwarder: 31.62 ms
+[2025-10-28 20:44:52.123126] Total Time (Recursive): 31.84 ms
+[2025-10-28 20:44:52.123143] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.153009] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.153176] Timestamp: 2025-10-28 20:44:52.153166
+[2025-10-28 20:44:52.153299] Domain Name: fanzi.pl.
+[2025-10-28 20:44:52.153316] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.185294] Received response from 8.8.8.8
+[2025-10-28 20:44:52.185523] RTT to forwarder: 31.87 ms
+[2025-10-28 20:44:52.185553] Total Time (Recursive): 32.13 ms
+[2025-10-28 20:44:52.185570] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.231075] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.231259] Timestamp: 2025-10-28 20:44:52.231251
+[2025-10-28 20:44:52.231281] Domain Name: fauzanalfi.com.
+[2025-10-28 20:44:52.231293] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.266660] Received response from 8.8.8.8
+[2025-10-28 20:44:52.266892] RTT to forwarder: 35.34 ms
+[2025-10-28 20:44:52.266940] Total Time (Recursive): 35.63 ms
+[2025-10-28 20:44:52.267003] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.304394] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.304652] Timestamp: 2025-10-28 20:44:52.304636
+[2025-10-28 20:44:52.304705] Domain Name: gamepsvita.com.
+[2025-10-28 20:44:52.304733] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.339009] Received response from 8.8.8.8
+[2025-10-28 20:44:52.339293] RTT to forwarder: 34.23 ms
+[2025-10-28 20:44:52.339354] Total Time (Recursive): 34.58 ms
+[2025-10-28 20:44:52.339385] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.375528] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.375685] Timestamp: 2025-10-28 20:44:52.375676
+[2025-10-28 20:44:52.375709] Domain Name: gaybodyblog.com.
+[2025-10-28 20:44:52.375723] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.424878] Received response from 8.8.8.8
+[2025-10-28 20:44:52.425149] RTT to forwarder: 49.13 ms
+[2025-10-28 20:44:52.425204] Total Time (Recursive): 49.47 ms
+[2025-10-28 20:44:52.425233] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.468235] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.468540] Timestamp: 2025-10-28 20:44:52.468520
+[2025-10-28 20:44:52.468660] Domain Name: gba4iosapp.com.
+[2025-10-28 20:44:52.468939] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.508987] Received response from 8.8.8.8
+[2025-10-28 20:44:52.509165] RTT to forwarder: 39.98 ms
+[2025-10-28 20:44:52.509195] Total Time (Recursive): 40.20 ms
+[2025-10-28 20:44:52.509209] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.540538] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.540714] Timestamp: 2025-10-28 20:44:52.540703
+[2025-10-28 20:44:52.540748] Domain Name: gucenmez.com.
+[2025-10-28 20:44:52.540767] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.577893] Received response from 8.8.8.8
+[2025-10-28 20:44:52.578150] RTT to forwarder: 37.10 ms
+[2025-10-28 20:44:52.578203] Total Time (Recursive): 37.42 ms
+[2025-10-28 20:44:52.578230] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.608945] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.609130] Timestamp: 2025-10-28 20:44:52.609119
+[2025-10-28 20:44:52.609164] Domain Name: gvowebcast.com.
+[2025-10-28 20:44:52.609182] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.646304] Received response from 8.8.8.8
+[2025-10-28 20:44:52.646454] RTT to forwarder: 37.10 ms
+[2025-10-28 20:44:52.646489] Total Time (Recursive): 37.29 ms
+[2025-10-28 20:44:52.646500] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.677027] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.677487] Timestamp: 2025-10-28 20:44:52.677477
+[2025-10-28 20:44:52.677519] Domain Name: heygal.net.
+[2025-10-28 20:44:52.677535] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.712751] Received response from 8.8.8.8
+[2025-10-28 20:44:52.713041] RTT to forwarder: 35.19 ms
+[2025-10-28 20:44:52.713237] Total Time (Recursive): 35.69 ms
+[2025-10-28 20:44:52.713276] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.754883] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.755173] Timestamp: 2025-10-28 20:44:52.755157
+[2025-10-28 20:44:52.755227] Domain Name: hivelocitymedia.com.
+[2025-10-28 20:44:52.755263] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.789759] Received response from 8.8.8.8
+[2025-10-28 20:44:52.789970] RTT to forwarder: 34.46 ms
+[2025-10-28 20:44:52.789999] Total Time (Recursive): 34.71 ms
+[2025-10-28 20:44:52.790013] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.812139] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.812292] Timestamp: 2025-10-28 20:44:52.812281
+[2025-10-28 20:44:52.812320] Domain Name: horn-elektronik.com.
+[2025-10-28 20:44:52.812333] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.844646] Received response from 8.8.8.8
+[2025-10-28 20:44:52.844953] RTT to forwarder: 32.29 ms
+[2025-10-28 20:44:52.845009] Total Time (Recursive): 32.66 ms
+[2025-10-28 20:44:52.845037] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.880881] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.881092] Timestamp: 2025-10-28 20:44:52.881079
+[2025-10-28 20:44:52.881130] Domain Name: hotel.ch.
+[2025-10-28 20:44:52.881157] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.929964] Received response from 8.8.8.8
+[2025-10-28 20:44:52.930117] RTT to forwarder: 48.76 ms
+[2025-10-28 20:44:52.930194] Total Time (Recursive): 49.00 ms
+[2025-10-28 20:44:52.930215] --- Query End (Recursive) ---
+[2025-10-28 20:44:52.962171] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:52.962356] Timestamp: 2025-10-28 20:44:52.962346
+[2025-10-28 20:44:52.962384] Domain Name: huhgmbh.com.
+[2025-10-28 20:44:52.962400] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:52.996627] Received response from 8.8.8.8
+[2025-10-28 20:44:52.996929] RTT to forwarder: 34.20 ms
+[2025-10-28 20:44:52.997158] Total Time (Recursive): 34.74 ms
+[2025-10-28 20:44:52.997209] --- Query End (Recursive) ---
+[2025-10-28 20:44:53.035731] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:53.036043] Timestamp: 2025-10-28 20:44:53.036026
+[2025-10-28 20:44:53.036091] Domain Name: hznzcn.com.
+[2025-10-28 20:44:53.036116] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:53.509712] Received response from 8.8.8.8
+[2025-10-28 20:44:53.510116] RTT to forwarder: 473.49 ms
+[2025-10-28 20:44:53.510292] Total Time (Recursive): 474.08 ms
+[2025-10-28 20:44:53.510378] --- Query End (Recursive) ---
+[2025-10-28 20:44:53.539600] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:53.539755] Timestamp: 2025-10-28 20:44:53.539745
+[2025-10-28 20:44:53.539780] Domain Name: i12.de.
+[2025-10-28 20:44:53.539794] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:53.572179] Received response from 8.8.8.8
+[2025-10-28 20:44:53.572389] RTT to forwarder: 32.37 ms
+[2025-10-28 20:44:53.572425] Total Time (Recursive): 32.62 ms
+[2025-10-28 20:44:53.572438] --- Query End (Recursive) ---
+[2025-10-28 20:44:53.603510] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:53.603650] Timestamp: 2025-10-28 20:44:53.603642
+[2025-10-28 20:44:53.603671] Domain Name: itattoos.org.
+[2025-10-28 20:44:53.603686] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:53.637299] Received response from 8.8.8.8
+[2025-10-28 20:44:53.637424] RTT to forwarder: 33.60 ms
+[2025-10-28 20:44:53.637585] Total Time (Recursive): 33.89 ms
+[2025-10-28 20:44:53.637652] --- Query End (Recursive) ---
+[2025-10-28 20:44:53.665090] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:53.665457] Timestamp: 2025-10-28 20:44:53.665449
+[2025-10-28 20:44:53.665490] Domain Name: jabeye.org.
+[2025-10-28 20:44:53.665503] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:53.696429] Received response from 8.8.8.8
+[2025-10-28 20:44:53.696676] RTT to forwarder: 30.90 ms
+[2025-10-28 20:44:53.696724] Total Time (Recursive): 31.20 ms
+[2025-10-28 20:44:53.696748] --- Query End (Recursive) ---
+[2025-10-28 20:44:53.728818] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:53.728973] Timestamp: 2025-10-28 20:44:53.728963
+[2025-10-28 20:44:53.729005] Domain Name: jcwcn.com.
+[2025-10-28 20:44:53.729021] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:53.764124] Received response from 8.8.8.8
+[2025-10-28 20:44:53.764259] RTT to forwarder: 35.08 ms
+[2025-10-28 20:44:53.764286] Total Time (Recursive): 35.25 ms
+[2025-10-28 20:44:53.764304] --- Query End (Recursive) ---
+[2025-10-28 20:44:53.792569] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:53.792703] Timestamp: 2025-10-28 20:44:53.792695
+[2025-10-28 20:44:53.792724] Domain Name: k-dsl.de.
+[2025-10-28 20:44:53.792737] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:53.891117] Received response from 8.8.8.8
+[2025-10-28 20:44:53.891476] RTT to forwarder: 98.36 ms
+[2025-10-28 20:44:53.891596] Total Time (Recursive): 98.84 ms
+[2025-10-28 20:44:53.891635] --- Query End (Recursive) ---
+[2025-10-28 20:44:53.925815] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:53.926031] Timestamp: 2025-10-28 20:44:53.926016
+[2025-10-28 20:44:53.926081] Domain Name: ku.edu.
+[2025-10-28 20:44:53.926109] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:54.230077] Received response from 8.8.8.8
+[2025-10-28 20:44:54.230271] RTT to forwarder: 303.86 ms
+[2025-10-28 20:44:54.230308] Total Time (Recursive): 304.10 ms
+[2025-10-28 20:44:54.230332] --- Query End (Recursive) ---
+[2025-10-28 20:44:54.267849] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:54.267975] Timestamp: 2025-10-28 20:44:54.267966
+[2025-10-28 20:44:54.267998] Domain Name: lacuentaperdida.org.
+[2025-10-28 20:44:54.268010] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:54.421782] Received response from 8.8.8.8
+[2025-10-28 20:44:54.422592] RTT to forwarder: 153.75 ms
+[2025-10-28 20:44:54.422680] Total Time (Recursive): 154.65 ms
+[2025-10-28 20:44:54.422713] --- Query End (Recursive) ---
+[2025-10-28 20:44:54.466339] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:54.466588] Timestamp: 2025-10-28 20:44:54.466574
+[2025-10-28 20:44:54.466673] Domain Name: lgmonitorreview.nl.
+[2025-10-28 20:44:54.466713] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:54.514652] Received response from 8.8.8.8
+[2025-10-28 20:44:54.514897] RTT to forwarder: 47.90 ms
+[2025-10-28 20:44:54.514945] Total Time (Recursive): 48.20 ms
+[2025-10-28 20:44:54.514967] --- Query End (Recursive) ---
+[2025-10-28 20:44:54.544581] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:54.544688] Timestamp: 2025-10-28 20:44:54.544680
+[2025-10-28 20:44:54.544819] Domain Name: lighthouse.cc.
+[2025-10-28 20:44:54.544846] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:54.576062] Received response from 8.8.8.8
+[2025-10-28 20:44:54.576243] RTT to forwarder: 31.20 ms
+[2025-10-28 20:44:54.576277] Total Time (Recursive): 31.42 ms
+[2025-10-28 20:44:54.576292] --- Query End (Recursive) ---
+[2025-10-28 20:44:54.599501] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:54.599675] Timestamp: 2025-10-28 20:44:54.599665
+[2025-10-28 20:44:54.599707] Domain Name: likeminded.ca.
+[2025-10-28 20:44:54.599726] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:54.632227] Received response from 8.8.8.8
+[2025-10-28 20:44:54.632519] RTT to forwarder: 32.47 ms
+[2025-10-28 20:44:54.632574] Total Time (Recursive): 32.83 ms
+[2025-10-28 20:44:54.632599] --- Query End (Recursive) ---
+[2025-10-28 20:44:54.661736] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:54.661960] Timestamp: 2025-10-28 20:44:54.661946
+[2025-10-28 20:44:54.662009] Domain Name: ljyelectronic.com.
+[2025-10-28 20:44:54.662035] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:54.714198] Received response from 8.8.8.8
+[2025-10-28 20:44:54.714349] RTT to forwarder: 52.13 ms
+[2025-10-28 20:44:54.714376] Total Time (Recursive): 52.32 ms
+[2025-10-28 20:44:54.714388] --- Query End (Recursive) ---
+[2025-10-28 20:44:54.731553] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:54.731725] Timestamp: 2025-10-28 20:44:54.731716
+[2025-10-28 20:44:54.731750] Domain Name: lookpage.org.
+[2025-10-28 20:44:54.731766] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:54.768178] Received response from 8.8.8.8
+[2025-10-28 20:44:54.768425] RTT to forwarder: 36.39 ms
+[2025-10-28 20:44:54.768480] Total Time (Recursive): 36.70 ms
+[2025-10-28 20:44:54.768502] --- Query End (Recursive) ---
+[2025-10-28 20:44:54.823231] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:54.823446] Timestamp: 2025-10-28 20:44:54.823436
+[2025-10-28 20:44:54.823479] Domain Name: mattselznick.com.
+[2025-10-28 20:44:54.823502] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:55.126187] Received response from 8.8.8.8
+[2025-10-28 20:44:55.126463] RTT to forwarder: 302.66 ms
+[2025-10-28 20:44:55.126521] Total Time (Recursive): 303.00 ms
+[2025-10-28 20:44:55.126545] --- Query End (Recursive) ---
+[2025-10-28 20:44:55.190038] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:55.190249] Timestamp: 2025-10-28 20:44:55.190235
+[2025-10-28 20:44:55.190280] Domain Name: meintrendyhandy.de.
+[2025-10-28 20:44:55.190298] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:55.605622] Received response from 8.8.8.8
+[2025-10-28 20:44:55.606305] RTT to forwarder: 415.30 ms
+[2025-10-28 20:44:55.606385] Total Time (Recursive): 416.07 ms
+[2025-10-28 20:44:55.606525] --- Query End (Recursive) ---
+[2025-10-28 20:44:55.646396] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:55.646680] Timestamp: 2025-10-28 20:44:55.646663
+[2025-10-28 20:44:55.646735] Domain Name: metabans.com.
+[2025-10-28 20:44:55.646765] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:55.690316] Received response from 8.8.8.8
+[2025-10-28 20:44:55.690591] RTT to forwarder: 43.51 ms
+[2025-10-28 20:44:55.690630] Total Time (Recursive): 43.84 ms
+[2025-10-28 20:44:55.690646] --- Query End (Recursive) ---
+[2025-10-28 20:44:55.743642] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:55.743821] Timestamp: 2025-10-28 20:44:55.743811
+[2025-10-28 20:44:55.743850] Domain Name: motiie.com.
+[2025-10-28 20:44:55.743865] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:56.020317] Received response from 8.8.8.8
+[2025-10-28 20:44:56.020479] RTT to forwarder: 276.43 ms
+[2025-10-28 20:44:56.020515] Total Time (Recursive): 276.63 ms
+[2025-10-28 20:44:56.020538] --- Query End (Recursive) ---
+[2025-10-28 20:44:56.064481] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:56.064727] Timestamp: 2025-10-28 20:44:56.064711
+[2025-10-28 20:44:56.064777] Domain Name: mplus.hk.
+[2025-10-28 20:44:56.064805] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:56.547452] Received response from 8.8.8.8
+[2025-10-28 20:44:56.547762] RTT to forwarder: 482.61 ms
+[2025-10-28 20:44:56.547832] Total Time (Recursive): 483.00 ms
+[2025-10-28 20:44:56.547865] --- Query End (Recursive) ---
+[2025-10-28 20:44:56.584870] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:56.585017] Timestamp: 2025-10-28 20:44:56.585006
+[2025-10-28 20:44:56.585049] Domain Name: mpskota.com.
+[2025-10-28 20:44:56.585073] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:56.630816] Received response from 8.8.8.8
+[2025-10-28 20:44:56.630986] RTT to forwarder: 45.71 ms
+[2025-10-28 20:44:56.631016] Total Time (Recursive): 45.92 ms
+[2025-10-28 20:44:56.631036] --- Query End (Recursive) ---
+[2025-10-28 20:44:56.672886] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:56.673050] Timestamp: 2025-10-28 20:44:56.673037
+[2025-10-28 20:44:56.673074] Domain Name: mumphi.de.
+[2025-10-28 20:44:56.673088] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:56.709026] Received response from 8.8.8.8
+[2025-10-28 20:44:56.709283] RTT to forwarder: 35.92 ms
+[2025-10-28 20:44:56.709321] Total Time (Recursive): 36.22 ms
+[2025-10-28 20:44:56.709336] --- Query End (Recursive) ---
+[2025-10-28 20:44:56.740263] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:56.740482] Timestamp: 2025-10-28 20:44:56.740469
+[2025-10-28 20:44:56.740523] Domain Name: newpages2u.com.
+[2025-10-28 20:44:56.740547] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:56.777699] Received response from 8.8.8.8
+[2025-10-28 20:44:56.777916] RTT to forwarder: 37.12 ms
+[2025-10-28 20:44:56.777955] Total Time (Recursive): 37.39 ms
+[2025-10-28 20:44:56.777971] --- Query End (Recursive) ---
+[2025-10-28 20:44:56.804880] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:56.805211] Timestamp: 2025-10-28 20:44:56.805202
+[2025-10-28 20:44:56.805239] Domain Name: nipslab.org.
+[2025-10-28 20:44:56.805252] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:56.841388] Received response from 8.8.8.8
+[2025-10-28 20:44:56.841912] RTT to forwarder: 35.96 ms
+[2025-10-28 20:44:56.841977] Total Time (Recursive): 36.71 ms
+[2025-10-28 20:44:56.842004] --- Query End (Recursive) ---
+[2025-10-28 20:44:56.871840] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:56.872077] Timestamp: 2025-10-28 20:44:56.872066
+[2025-10-28 20:44:56.872110] Domain Name: nucre.com.
+[2025-10-28 20:44:56.872128] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:56.905060] Received response from 8.8.8.8
+[2025-10-28 20:44:56.905270] RTT to forwarder: 32.91 ms
+[2025-10-28 20:44:56.905323] Total Time (Recursive): 33.18 ms
+[2025-10-28 20:44:56.905339] --- Query End (Recursive) ---
+[2025-10-28 20:44:56.935637] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:56.935751] Timestamp: 2025-10-28 20:44:56.935744
+[2025-10-28 20:44:56.935763] Domain Name: oberoncompany.com.
+[2025-10-28 20:44:56.935773] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:56.983655] Received response from 8.8.8.8
+[2025-10-28 20:44:56.983750] RTT to forwarder: 47.85 ms
+[2025-10-28 20:44:56.983764] Total Time (Recursive): 47.97 ms
+[2025-10-28 20:44:56.983773] --- Query End (Recursive) ---
+[2025-10-28 20:44:57.021093] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:57.021266] Timestamp: 2025-10-28 20:44:57.021253
+[2025-10-28 20:44:57.021301] Domain Name: obtscan.com.
+[2025-10-28 20:44:57.021327] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:57.061131] Received response from 8.8.8.8
+[2025-10-28 20:44:57.061271] RTT to forwarder: 39.77 ms
+[2025-10-28 20:44:57.061295] Total Time (Recursive): 39.94 ms
+[2025-10-28 20:44:57.061312] --- Query End (Recursive) ---
+[2025-10-28 20:44:57.094972] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:57.095117] Timestamp: 2025-10-28 20:44:57.095108
+[2025-10-28 20:44:57.095141] Domain Name: ohdev.co.uk.
+[2025-10-28 20:44:57.095153] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:57.141990] Received response from 8.8.8.8
+[2025-10-28 20:44:57.142266] RTT to forwarder: 46.82 ms
+[2025-10-28 20:44:57.142326] Total Time (Recursive): 47.16 ms
+[2025-10-28 20:44:57.142357] --- Query End (Recursive) ---
+[2025-10-28 20:44:57.179162] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:57.179417] Timestamp: 2025-10-28 20:44:57.179401
+[2025-10-28 20:44:57.179465] Domain Name: ovtoc.com.
+[2025-10-28 20:44:57.179490] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:57.212700] Received response from 8.8.8.8
+[2025-10-28 20:44:57.212875] RTT to forwarder: 33.18 ms
+[2025-10-28 20:44:57.212912] Total Time (Recursive): 33.40 ms
+[2025-10-28 20:44:57.212924] --- Query End (Recursive) ---
+[2025-10-28 20:44:57.239974] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:57.240125] Timestamp: 2025-10-28 20:44:57.240111
+[2025-10-28 20:44:57.240152] Domain Name: panaceadream.com.
+[2025-10-28 20:44:57.240166] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:57.277150] Received response from 8.8.8.8
+[2025-10-28 20:44:57.277320] RTT to forwarder: 36.96 ms
+[2025-10-28 20:44:57.277354] Total Time (Recursive): 37.17 ms
+[2025-10-28 20:44:57.277369] --- Query End (Recursive) ---
+[2025-10-28 20:44:57.307255] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:57.307786] Timestamp: 2025-10-28 20:44:57.307771
+[2025-10-28 20:44:57.307987] Domain Name: phoenix-music.ru.
+[2025-10-28 20:44:57.308017] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:58.057803] Received response from 8.8.8.8
+[2025-10-28 20:44:58.058102] RTT to forwarder: 749.76 ms
+[2025-10-28 20:44:58.058162] Total Time (Recursive): 750.12 ms
+[2025-10-28 20:44:58.058188] --- Query End (Recursive) ---
+[2025-10-28 20:44:58.087943] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:58.088061] Timestamp: 2025-10-28 20:44:58.088051
+[2025-10-28 20:44:58.088091] Domain Name: qdushu.com.
+[2025-10-28 20:44:58.088113] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:58.125214] Received response from 8.8.8.8
+[2025-10-28 20:44:58.125450] RTT to forwarder: 37.08 ms
+[2025-10-28 20:44:58.125489] Total Time (Recursive): 37.35 ms
+[2025-10-28 20:44:58.125503] --- Query End (Recursive) ---
+[2025-10-28 20:44:58.157664] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:58.157964] Timestamp: 2025-10-28 20:44:58.157946
+[2025-10-28 20:44:58.158259] Domain Name: qingjiaopidaiji.com.
+[2025-10-28 20:44:58.158304] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:58.240529] Received response from 8.8.8.8
+[2025-10-28 20:44:58.240762] RTT to forwarder: 82.18 ms
+[2025-10-28 20:44:58.240831] Total Time (Recursive): 82.50 ms
+[2025-10-28 20:44:58.240864] --- Query End (Recursive) ---
+[2025-10-28 20:44:58.276466] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:58.276702] Timestamp: 2025-10-28 20:44:58.276688
+[2025-10-28 20:44:58.276753] Domain Name: raqualia.com.
+[2025-10-28 20:44:58.276782] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:58.309725] Received response from 8.8.8.8
+[2025-10-28 20:44:58.309933] RTT to forwarder: 32.91 ms
+[2025-10-28 20:44:58.309991] Total Time (Recursive): 33.18 ms
+[2025-10-28 20:44:58.310007] --- Query End (Recursive) ---
+[2025-10-28 20:44:58.341975] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:58.342184] Timestamp: 2025-10-28 20:44:58.342173
+[2025-10-28 20:44:58.342221] Domain Name: redcrosseth.org.
+[2025-10-28 20:44:58.342242] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:58.374124] Received response from 8.8.8.8
+[2025-10-28 20:44:58.374310] RTT to forwarder: 31.85 ms
+[2025-10-28 20:44:58.374341] Total Time (Recursive): 32.07 ms
+[2025-10-28 20:44:58.374355] --- Query End (Recursive) ---
+[2025-10-28 20:44:58.406083] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:58.406307] Timestamp: 2025-10-28 20:44:58.406295
+[2025-10-28 20:44:58.406348] Domain Name: rousing.dk.
+[2025-10-28 20:44:58.406372] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:58.448617] Received response from 8.8.8.8
+[2025-10-28 20:44:58.448932] RTT to forwarder: 42.21 ms
+[2025-10-28 20:44:58.448981] Total Time (Recursive): 42.58 ms
+[2025-10-28 20:44:58.449004] --- Query End (Recursive) ---
+[2025-10-28 20:44:58.483118] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:58.483337] Timestamp: 2025-10-28 20:44:58.483324
+[2025-10-28 20:44:58.483383] Domain Name: sandieskorner.com.
+[2025-10-28 20:44:58.483408] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:58.525809] Received response from 8.8.8.8
+[2025-10-28 20:44:58.525949] RTT to forwarder: 42.37 ms
+[2025-10-28 20:44:58.525985] Total Time (Recursive): 42.55 ms
+[2025-10-28 20:44:58.526004] --- Query End (Recursive) ---
+[2025-10-28 20:44:58.560434] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:58.560654] Timestamp: 2025-10-28 20:44:58.560641
+[2025-10-28 20:44:58.560696] Domain Name: seedy.dk.
+[2025-10-28 20:44:58.560719] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:59.338098] Received response from 8.8.8.8
+[2025-10-28 20:44:59.338324] RTT to forwarder: 777.35 ms
+[2025-10-28 20:44:59.338375] Total Time (Recursive): 777.63 ms
+[2025-10-28 20:44:59.338401] --- Query End (Recursive) ---
+[2025-10-28 20:44:59.379700] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:59.379862] Timestamp: 2025-10-28 20:44:59.379855
+[2025-10-28 20:44:59.379898] Domain Name: simple-health-reports.com.
+[2025-10-28 20:44:59.379911] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:59.476212] Received response from 8.8.8.8
+[2025-10-28 20:44:59.476448] RTT to forwarder: 96.27 ms
+[2025-10-28 20:44:59.476487] Total Time (Recursive): 96.55 ms
+[2025-10-28 20:44:59.476506] --- Query End (Recursive) ---
+[2025-10-28 20:44:59.511936] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:59.512201] Timestamp: 2025-10-28 20:44:59.512187
+[2025-10-28 20:44:59.512248] Domain Name: sinemagrafik.com.
+[2025-10-28 20:44:59.512339] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:59.548859] Received response from 8.8.8.8
+[2025-10-28 20:44:59.549084] RTT to forwarder: 36.47 ms
+[2025-10-28 20:44:59.549123] Total Time (Recursive): 36.74 ms
+[2025-10-28 20:44:59.549140] --- Query End (Recursive) ---
+[2025-10-28 20:44:59.581491] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:59.581909] Timestamp: 2025-10-28 20:44:59.581894
+[2025-10-28 20:44:59.581956] Domain Name: sscw.ee.
+[2025-10-28 20:44:59.581979] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:59.621722] Received response from 8.8.8.8
+[2025-10-28 20:44:59.621923] RTT to forwarder: 39.71 ms
+[2025-10-28 20:44:59.621953] Total Time (Recursive): 39.95 ms
+[2025-10-28 20:44:59.621980] --- Query End (Recursive) ---
+[2025-10-28 20:44:59.650043] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:59.650264] Timestamp: 2025-10-28 20:44:59.650256
+[2025-10-28 20:44:59.650385] Domain Name: stopallthathating.com.
+[2025-10-28 20:44:59.650405] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:59.685806] Received response from 8.8.8.8
+[2025-10-28 20:44:59.685968] RTT to forwarder: 35.38 ms
+[2025-10-28 20:44:59.685986] Total Time (Recursive): 35.57 ms
+[2025-10-28 20:44:59.686000] --- Query End (Recursive) ---
+[2025-10-28 20:44:59.713984] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:59.714140] Timestamp: 2025-10-28 20:44:59.714130
+[2025-10-28 20:44:59.714168] Domain Name: supreetsethi.net.
+[2025-10-28 20:44:59.714183] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:59.751330] Received response from 8.8.8.8
+[2025-10-28 20:44:59.751495] RTT to forwarder: 37.09 ms
+[2025-10-28 20:44:59.751523] Total Time (Recursive): 37.29 ms
+[2025-10-28 20:44:59.751538] --- Query End (Recursive) ---
+[2025-10-28 20:44:59.780700] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:59.780903] Timestamp: 2025-10-28 20:44:59.780892
+[2025-10-28 20:44:59.780936] Domain Name: thankfullyyours.com.
+[2025-10-28 20:44:59.780954] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:59.885940] Received response from 8.8.8.8
+[2025-10-28 20:44:59.886169] RTT to forwarder: 104.96 ms
+[2025-10-28 20:44:59.886214] Total Time (Recursive): 105.24 ms
+[2025-10-28 20:44:59.886237] --- Query End (Recursive) ---
+[2025-10-28 20:44:59.916678] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:59.916941] Timestamp: 2025-10-28 20:44:59.916928
+[2025-10-28 20:44:59.916985] Domain Name: thereeftank.com.
+[2025-10-28 20:44:59.917008] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:44:59.960061] Received response from 8.8.8.8
+[2025-10-28 20:44:59.960294] RTT to forwarder: 42.72 ms
+[2025-10-28 20:44:59.960324] Total Time (Recursive): 42.99 ms
+[2025-10-28 20:44:59.960340] --- Query End (Recursive) ---
+[2025-10-28 20:44:59.992532] --- New Query (Recursive Request) ---
+[2025-10-28 20:44:59.992812] Timestamp: 2025-10-28 20:44:59.992797
+[2025-10-28 20:44:59.992887] Domain Name: thunderex.com.
+[2025-10-28 20:44:59.992915] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:00.096462] Received response from 8.8.8.8
+[2025-10-28 20:45:00.096815] RTT to forwarder: 103.51 ms
+[2025-10-28 20:45:00.096888] Total Time (Recursive): 103.95 ms
+[2025-10-28 20:45:00.096921] --- Query End (Recursive) ---
+[2025-10-28 20:45:00.134953] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:00.135210] Timestamp: 2025-10-28 20:45:00.135193
+[2025-10-28 20:45:00.135261] Domain Name: ticketbis.com.
+[2025-10-28 20:45:00.135288] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:00.180610] Received response from 8.8.8.8
+[2025-10-28 20:45:00.180871] RTT to forwarder: 45.29 ms
+[2025-10-28 20:45:00.180924] Total Time (Recursive): 45.61 ms
+[2025-10-28 20:45:00.180950] --- Query End (Recursive) ---
+[2025-10-28 20:45:00.212493] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:00.212625] Timestamp: 2025-10-28 20:45:00.212615
+[2025-10-28 20:45:00.212647] Domain Name: tomorrowsreflection.com.
+[2025-10-28 20:45:00.212659] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:00.244363] Received response from 8.8.8.8
+[2025-10-28 20:45:00.244505] RTT to forwarder: 31.69 ms
+[2025-10-28 20:45:00.244530] Total Time (Recursive): 31.86 ms
+[2025-10-28 20:45:00.244546] --- Query End (Recursive) ---
+[2025-10-28 20:45:00.278381] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:00.278580] Timestamp: 2025-10-28 20:45:00.278567
+[2025-10-28 20:45:00.278616] Domain Name: tonaci.com.
+[2025-10-28 20:45:00.278634] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:00.324327] Received response from 8.8.8.8
+[2025-10-28 20:45:00.324573] RTT to forwarder: 45.67 ms
+[2025-10-28 20:45:00.324616] Total Time (Recursive): 45.96 ms
+[2025-10-28 20:45:00.324649] --- Query End (Recursive) ---
+[2025-10-28 20:45:00.376302] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:00.376409] Timestamp: 2025-10-28 20:45:00.376401
+[2025-10-28 20:45:00.376427] Domain Name: topilehtipuu.com.
+[2025-10-28 20:45:00.376440] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:00.410877] Received response from 8.8.8.8
+[2025-10-28 20:45:00.411002] RTT to forwarder: 34.42 ms
+[2025-10-28 20:45:00.411020] Total Time (Recursive): 34.57 ms
+[2025-10-28 20:45:00.411033] --- Query End (Recursive) ---
+[2025-10-28 20:45:00.441776] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:00.441913] Timestamp: 2025-10-28 20:45:00.441903
+[2025-10-28 20:45:00.441937] Domain Name: tretsomshop.nl.
+[2025-10-28 20:45:00.441956] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:00.752506] Received response from 8.8.8.8
+[2025-10-28 20:45:00.752658] RTT to forwarder: 310.53 ms
+[2025-10-28 20:45:00.752686] Total Time (Recursive): 310.71 ms
+[2025-10-28 20:45:00.752704] --- Query End (Recursive) ---
+[2025-10-28 20:45:00.784125] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:00.784287] Timestamp: 2025-10-28 20:45:00.784275
+[2025-10-28 20:45:00.784321] Domain Name: tsksv.ru.
+[2025-10-28 20:45:00.784347] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:00.823393] Received response from 8.8.8.8
+[2025-10-28 20:45:00.823610] RTT to forwarder: 39.01 ms
+[2025-10-28 20:45:00.823648] Total Time (Recursive): 39.27 ms
+[2025-10-28 20:45:00.823666] --- Query End (Recursive) ---
+[2025-10-28 20:45:00.854860] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:00.855068] Timestamp: 2025-10-28 20:45:00.855055
+[2025-10-28 20:45:00.855107] Domain Name: uanet.net.
+[2025-10-28 20:45:00.855129] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:01.150098] Received response from 8.8.8.8
+[2025-10-28 20:45:01.150417] RTT to forwarder: 294.94 ms
+[2025-10-28 20:45:01.150468] Total Time (Recursive): 295.32 ms
+[2025-10-28 20:45:01.150497] --- Query End (Recursive) ---
+[2025-10-28 20:45:01.185842] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:01.185991] Timestamp: 2025-10-28 20:45:01.185980
+[2025-10-28 20:45:01.186022] Domain Name: udoo24.com.
+[2025-10-28 20:45:01.186048] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:01.229071] Received response from 8.8.8.8
+[2025-10-28 20:45:01.229213] RTT to forwarder: 42.99 ms
+[2025-10-28 20:45:01.229233] Total Time (Recursive): 43.16 ms
+[2025-10-28 20:45:01.229246] --- Query End (Recursive) ---
+[2025-10-28 20:45:01.273706] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:01.273885] Timestamp: 2025-10-28 20:45:01.273874
+[2025-10-28 20:45:01.273913] Domain Name: vaco.ru.
+[2025-10-28 20:45:01.273926] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:01.312736] Received response from 8.8.8.8
+[2025-10-28 20:45:01.312926] RTT to forwarder: 38.76 ms
+[2025-10-28 20:45:01.312958] Total Time (Recursive): 38.98 ms
+[2025-10-28 20:45:01.312969] --- Query End (Recursive) ---
+[2025-10-28 20:45:01.344771] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:01.344996] Timestamp: 2025-10-28 20:45:01.344981
+[2025-10-28 20:45:01.345041] Domain Name: valerievandenbroek.nl.
+[2025-10-28 20:45:01.345066] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:01.380332] Received response from 8.8.8.8
+[2025-10-28 20:45:01.380494] RTT to forwarder: 35.23 ms
+[2025-10-28 20:45:01.380525] Total Time (Recursive): 35.44 ms
+[2025-10-28 20:45:01.380548] --- Query End (Recursive) ---
+[2025-10-28 20:45:01.416746] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:01.416905] Timestamp: 2025-10-28 20:45:01.416894
+[2025-10-28 20:45:01.416932] Domain Name: visualtap.com.
+[2025-10-28 20:45:01.416946] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:01.451030] Received response from 8.8.8.8
+[2025-10-28 20:45:01.451213] RTT to forwarder: 34.03 ms
+[2025-10-28 20:45:01.451243] Total Time (Recursive): 34.25 ms
+[2025-10-28 20:45:01.451270] --- Query End (Recursive) ---
+[2025-10-28 20:45:01.483468] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:01.483688] Timestamp: 2025-10-28 20:45:01.483675
+[2025-10-28 20:45:01.483725] Domain Name: volksschule-neufahrn.de.
+[2025-10-28 20:45:01.483745] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:01.580428] Received response from 8.8.8.8
+[2025-10-28 20:45:01.580738] RTT to forwarder: 96.65 ms
+[2025-10-28 20:45:01.580803] Total Time (Recursive): 97.04 ms
+[2025-10-28 20:45:01.580835] --- Query End (Recursive) ---
+[2025-10-28 20:45:01.617730] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:01.617891] Timestamp: 2025-10-28 20:45:01.617880
+[2025-10-28 20:45:01.617927] Domain Name: webxtrap.com.
+[2025-10-28 20:45:01.617952] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:01.655907] Received response from 8.8.8.8
+[2025-10-28 20:45:01.656156] RTT to forwarder: 37.91 ms
+[2025-10-28 20:45:01.656204] Total Time (Recursive): 38.21 ms
+[2025-10-28 20:45:01.656225] --- Query End (Recursive) ---
+[2025-10-28 20:45:01.683788] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:01.684045] Timestamp: 2025-10-28 20:45:01.684031
+[2025-10-28 20:45:01.684143] Domain Name: womenology.com.
+[2025-10-28 20:45:01.684235] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:01.781035] Received response from 8.8.8.8
+[2025-10-28 20:45:01.781450] RTT to forwarder: 96.76 ms
+[2025-10-28 20:45:01.781521] Total Time (Recursive): 97.25 ms
+[2025-10-28 20:45:01.781556] --- Query End (Recursive) ---
+[2025-10-28 20:45:01.847567] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:01.847754] Timestamp: 2025-10-28 20:45:01.847744
+[2025-10-28 20:45:01.847782] Domain Name: xqgcab.com.
+[2025-10-28 20:45:01.847797] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:01.892636] Received response from 8.8.8.8
+[2025-10-28 20:45:01.892899] RTT to forwarder: 44.82 ms
+[2025-10-28 20:45:01.892945] Total Time (Recursive): 45.13 ms
+[2025-10-28 20:45:01.892968] --- Query End (Recursive) ---
+[2025-10-28 20:45:01.928007] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:01.928275] Timestamp: 2025-10-28 20:45:01.928257
+[2025-10-28 20:45:01.928328] Domain Name: youngsnetwork.it.
+[2025-10-28 20:45:01.928356] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:01.966944] Received response from 8.8.8.8
+[2025-10-28 20:45:01.967198] RTT to forwarder: 38.56 ms
+[2025-10-28 20:45:01.967237] Total Time (Recursive): 38.86 ms
+[2025-10-28 20:45:01.967254] --- Query End (Recursive) ---
+[2025-10-28 20:45:01.994339] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:01.994558] Timestamp: 2025-10-28 20:45:01.994548
+[2025-10-28 20:45:01.994583] Domain Name: zamlelova.ru.
+[2025-10-28 20:45:01.994596] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:02.027813] Received response from 8.8.8.8
+[2025-10-28 20:45:02.028109] RTT to forwarder: 33.20 ms
+[2025-10-28 20:45:02.028234] Total Time (Recursive): 33.62 ms
+[2025-10-28 20:45:02.028273] --- Query End (Recursive) ---
+[2025-10-28 20:45:02.063860] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:02.063988] Timestamp: 2025-10-28 20:45:02.063979
+[2025-10-28 20:45:02.064011] Domain Name: zilch.org.
+[2025-10-28 20:45:02.064027] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:02.105873] Received response from 8.8.8.8
+[2025-10-28 20:45:02.106009] RTT to forwarder: 41.82 ms
+[2025-10-28 20:45:02.106031] Total Time (Recursive): 41.99 ms
+[2025-10-28 20:45:02.106046] --- Query End (Recursive) ---
+[2025-10-28 20:45:52.689789] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:52.690761] Timestamp: 2025-10-28 20:45:52.690740
+[2025-10-28 20:45:52.690830] Domain Name: abmcare.com.
+[2025-10-28 20:45:52.690859] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:52.726147] Received response from 8.8.8.8
+[2025-10-28 20:45:52.726314] RTT to forwarder: 35.26 ms
+[2025-10-28 20:45:52.726352] Total Time (Recursive): 35.47 ms
+[2025-10-28 20:45:52.726380] --- Query End (Recursive) ---
+[2025-10-28 20:45:52.782133] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:52.782451] Timestamp: 2025-10-28 20:45:52.782438
+[2025-10-28 20:45:52.782492] Domain Name: anvilnetworksolutions.net.
+[2025-10-28 20:45:52.782513] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:53.102437] Received response from 8.8.8.8
+[2025-10-28 20:45:53.102717] RTT to forwarder: 319.90 ms
+[2025-10-28 20:45:53.102773] Total Time (Recursive): 320.24 ms
+[2025-10-28 20:45:53.102798] --- Query End (Recursive) ---
+[2025-10-28 20:45:53.160728] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:53.160976] Timestamp: 2025-10-28 20:45:53.160961
+[2025-10-28 20:45:53.161027] Domain Name: archiportale.com.
+[2025-10-28 20:45:53.161056] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:53.222036] Received response from 8.8.8.8
+[2025-10-28 20:45:53.222169] RTT to forwarder: 60.94 ms
+[2025-10-28 20:45:53.222195] Total Time (Recursive): 61.11 ms
+[2025-10-28 20:45:53.222212] --- Query End (Recursive) ---
+[2025-10-28 20:45:53.271987] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:53.272145] Timestamp: 2025-10-28 20:45:53.272136
+[2025-10-28 20:45:53.272167] Domain Name: arcoat.com.
+[2025-10-28 20:45:53.272180] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:53.305372] Received response from 8.8.8.8
+[2025-10-28 20:45:53.305519] RTT to forwarder: 33.17 ms
+[2025-10-28 20:45:53.305544] Total Time (Recursive): 33.35 ms
+[2025-10-28 20:45:53.305556] --- Query End (Recursive) ---
+[2025-10-28 20:45:53.357597] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:53.357799] Timestamp: 2025-10-28 20:45:53.357790
+[2025-10-28 20:45:53.357831] Domain Name: asseenontvlaunchpad.com.
+[2025-10-28 20:45:53.357847] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:53.401168] Received response from 8.8.8.8
+[2025-10-28 20:45:53.401495] RTT to forwarder: 43.29 ms
+[2025-10-28 20:45:53.401617] Total Time (Recursive): 43.75 ms
+[2025-10-28 20:45:53.401639] --- Query End (Recursive) ---
+[2025-10-28 20:45:53.449673] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:53.449874] Timestamp: 2025-10-28 20:45:53.449863
+[2025-10-28 20:45:53.449905] Domain Name: autopareri.com.
+[2025-10-28 20:45:53.449924] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:53.495820] Received response from 8.8.8.8
+[2025-10-28 20:45:53.495999] RTT to forwarder: 45.87 ms
+[2025-10-28 20:45:53.496041] Total Time (Recursive): 46.10 ms
+[2025-10-28 20:45:53.496060] --- Query End (Recursive) ---
+[2025-10-28 20:45:53.542565] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:53.542694] Timestamp: 2025-10-28 20:45:53.542686
+[2025-10-28 20:45:53.542718] Domain Name: bbqinjector.com.
+[2025-10-28 20:45:53.542735] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:53.580732] Received response from 8.8.8.8
+[2025-10-28 20:45:53.580965] RTT to forwarder: 37.97 ms
+[2025-10-28 20:45:53.581007] Total Time (Recursive): 38.25 ms
+[2025-10-28 20:45:53.581025] --- Query End (Recursive) ---
+[2025-10-28 20:45:53.630973] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:53.631141] Timestamp: 2025-10-28 20:45:53.631126
+[2025-10-28 20:45:53.631170] Domain Name: begleyhutton.com.
+[2025-10-28 20:45:53.631190] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:53.664191] Received response from 8.8.8.8
+[2025-10-28 20:45:53.664505] RTT to forwarder: 32.97 ms
+[2025-10-28 20:45:53.664552] Total Time (Recursive): 33.34 ms
+[2025-10-28 20:45:53.664572] --- Query End (Recursive) ---
+[2025-10-28 20:45:53.710176] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:53.710408] Timestamp: 2025-10-28 20:45:53.710399
+[2025-10-28 20:45:53.710437] Domain Name: bigliettieventi.info.
+[2025-10-28 20:45:53.710453] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:53.747179] Received response from 8.8.8.8
+[2025-10-28 20:45:53.747447] RTT to forwarder: 36.70 ms
+[2025-10-28 20:45:53.747494] Total Time (Recursive): 37.02 ms
+[2025-10-28 20:45:53.747507] --- Query End (Recursive) ---
+[2025-10-28 20:45:53.795624] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:53.795879] Timestamp: 2025-10-28 20:45:53.795867
+[2025-10-28 20:45:53.795913] Domain Name: bmw-parts.ru.
+[2025-10-28 20:45:53.795932] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:53.835513] Received response from 8.8.8.8
+[2025-10-28 20:45:53.835683] RTT to forwarder: 39.56 ms
+[2025-10-28 20:45:53.835723] Total Time (Recursive): 39.77 ms
+[2025-10-28 20:45:53.835737] --- Query End (Recursive) ---
+[2025-10-28 20:45:53.882462] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:53.882721] Timestamp: 2025-10-28 20:45:53.882708
+[2025-10-28 20:45:53.882764] Domain Name: bookingnest.com.
+[2025-10-28 20:45:53.882788] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:53.982808] Received response from 8.8.8.8
+[2025-10-28 20:45:53.982948] RTT to forwarder: 99.99 ms
+[2025-10-28 20:45:53.982978] Total Time (Recursive): 100.16 ms
+[2025-10-28 20:45:53.982997] --- Query End (Recursive) ---
+[2025-10-28 20:45:54.041051] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:54.041312] Timestamp: 2025-10-28 20:45:54.041296
+[2025-10-28 20:45:54.041360] Domain Name: callcomm.info.
+[2025-10-28 20:45:54.041391] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:54.096347] Received response from 8.8.8.8
+[2025-10-28 20:45:54.096517] RTT to forwarder: 54.92 ms
+[2025-10-28 20:45:54.096564] Total Time (Recursive): 55.15 ms
+[2025-10-28 20:45:54.096577] --- Query End (Recursive) ---
+[2025-10-28 20:45:54.149886] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:54.152178] Timestamp: 2025-10-28 20:45:54.152151
+[2025-10-28 20:45:54.152273] Domain Name: cdmail.fr.
+[2025-10-28 20:45:54.152297] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:54.195154] Received response from 8.8.8.8
+[2025-10-28 20:45:54.195499] RTT to forwarder: 42.83 ms
+[2025-10-28 20:45:54.195565] Total Time (Recursive): 43.25 ms
+[2025-10-28 20:45:54.195675] --- Query End (Recursive) ---
+[2025-10-28 20:45:54.250181] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:54.250420] Timestamp: 2025-10-28 20:45:54.250408
+[2025-10-28 20:45:54.250458] Domain Name: ceskykutil.cz.
+[2025-10-28 20:45:54.250481] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:54.655342] Received response from 8.8.8.8
+[2025-10-28 20:45:54.655846] RTT to forwarder: 404.78 ms
+[2025-10-28 20:45:54.656018] Total Time (Recursive): 405.46 ms
+[2025-10-28 20:45:54.656053] --- Query End (Recursive) ---
+[2025-10-28 20:45:54.727770] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:54.728083] Timestamp: 2025-10-28 20:45:54.728065
+[2025-10-28 20:45:54.728139] Domain Name: charityjob.co.uk.
+[2025-10-28 20:45:54.728170] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:54.778612] Received response from 8.8.8.8
+[2025-10-28 20:45:54.778786] RTT to forwarder: 50.40 ms
+[2025-10-28 20:45:54.778814] Total Time (Recursive): 50.62 ms
+[2025-10-28 20:45:54.778827] --- Query End (Recursive) ---
+[2025-10-28 20:45:54.835515] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:54.835771] Timestamp: 2025-10-28 20:45:54.835756
+[2025-10-28 20:45:54.835817] Domain Name: chekiang.info.
+[2025-10-28 20:45:54.835842] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:55.061329] Received response from 8.8.8.8
+[2025-10-28 20:45:55.061518] RTT to forwarder: 225.35 ms
+[2025-10-28 20:45:55.061557] Total Time (Recursive): 225.59 ms
+[2025-10-28 20:45:55.061583] --- Query End (Recursive) ---
+[2025-10-28 20:45:55.102610] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:55.102729] Timestamp: 2025-10-28 20:45:55.102721
+[2025-10-28 20:45:55.102750] Domain Name: chenghuavideo.asia.
+[2025-10-28 20:45:55.102765] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:55.712387] Received response from 8.8.8.8
+[2025-10-28 20:45:55.712579] RTT to forwarder: 609.60 ms
+[2025-10-28 20:45:55.712617] Total Time (Recursive): 609.84 ms
+[2025-10-28 20:45:55.712645] --- Query End (Recursive) ---
+[2025-10-28 20:45:55.808731] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:55.809115] Timestamp: 2025-10-28 20:45:55.809096
+[2025-10-28 20:45:55.809190] Domain Name: cia.it.
+[2025-10-28 20:45:55.809228] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:56.100064] Received response from 8.8.8.8
+[2025-10-28 20:45:56.100506] RTT to forwarder: 290.79 ms
+[2025-10-28 20:45:56.100599] Total Time (Recursive): 291.33 ms
+[2025-10-28 20:45:56.100635] --- Query End (Recursive) ---
+[2025-10-28 20:45:56.165687] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:56.166089] Timestamp: 2025-10-28 20:45:56.166075
+[2025-10-28 20:45:56.166136] Domain Name: ciber.com.
+[2025-10-28 20:45:56.166845] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:56.254338] Received response from 8.8.8.8
+[2025-10-28 20:45:56.254905] RTT to forwarder: 87.41 ms
+[2025-10-28 20:45:56.255160] Total Time (Recursive): 88.24 ms
+[2025-10-28 20:45:56.255228] --- Query End (Recursive) ---
+[2025-10-28 20:45:56.330422] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:56.330772] Timestamp: 2025-10-28 20:45:56.330752
+[2025-10-28 20:45:56.330841] Domain Name: clickdownloadfiles.com.
+[2025-10-28 20:45:56.330881] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:56.441703] Received response from 8.8.8.8
+[2025-10-28 20:45:56.442223] RTT to forwarder: 110.48 ms
+[2025-10-28 20:45:56.442329] Total Time (Recursive): 111.14 ms
+[2025-10-28 20:45:56.442367] --- Query End (Recursive) ---
+[2025-10-28 20:45:56.515504] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:56.516015] Timestamp: 2025-10-28 20:45:56.515996
+[2025-10-28 20:45:56.516077] Domain Name: consumerreviews24.com.
+[2025-10-28 20:45:56.516103] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:56.792370] Received response from 8.8.8.8
+[2025-10-28 20:45:56.793198] RTT to forwarder: 276.24 ms
+[2025-10-28 20:45:56.793539] Total Time (Recursive): 277.41 ms
+[2025-10-28 20:45:56.793593] --- Query End (Recursive) ---
+[2025-10-28 20:45:56.857745] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:56.857955] Timestamp: 2025-10-28 20:45:56.857945
+[2025-10-28 20:45:56.857996] Domain Name: cosmeticaestheticsurgery.com.
+[2025-10-28 20:45:56.858011] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:57.030308] Received response from 8.8.8.8
+[2025-10-28 20:45:57.030667] RTT to forwarder: 172.27 ms
+[2025-10-28 20:45:57.030747] Total Time (Recursive): 172.72 ms
+[2025-10-28 20:45:57.031136] --- Query End (Recursive) ---
+[2025-10-28 20:45:57.095231] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:57.095571] Timestamp: 2025-10-28 20:45:57.095552
+[2025-10-28 20:45:57.095626] Domain Name: crsgfk.de.
+[2025-10-28 20:45:57.095664] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:57.501816] Received response from 8.8.8.8
+[2025-10-28 20:45:57.502105] RTT to forwarder: 406.11 ms
+[2025-10-28 20:45:57.502166] Total Time (Recursive): 406.47 ms
+[2025-10-28 20:45:57.502197] --- Query End (Recursive) ---
+[2025-10-28 20:45:57.558206] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:57.558387] Timestamp: 2025-10-28 20:45:57.558375
+[2025-10-28 20:45:57.558424] Domain Name: currencyrates.org.
+[2025-10-28 20:45:57.558450] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:57.603845] Received response from 8.8.8.8
+[2025-10-28 20:45:57.604092] RTT to forwarder: 45.36 ms
+[2025-10-28 20:45:57.604174] Total Time (Recursive): 45.70 ms
+[2025-10-28 20:45:57.604196] --- Query End (Recursive) ---
+[2025-10-28 20:45:57.651222] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:57.651351] Timestamp: 2025-10-28 20:45:57.651344
+[2025-10-28 20:45:57.651371] Domain Name: cushinglawoffices.com.
+[2025-10-28 20:45:57.651385] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:57.688292] Received response from 8.8.8.8
+[2025-10-28 20:45:57.688441] RTT to forwarder: 36.88 ms
+[2025-10-28 20:45:57.688468] Total Time (Recursive): 37.07 ms
+[2025-10-28 20:45:57.688513] --- Query End (Recursive) ---
+[2025-10-28 20:45:57.788371] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:57.788568] Timestamp: 2025-10-28 20:45:57.788558
+[2025-10-28 20:45:57.788597] Domain Name: cuteteenschoolgirlz.com.
+[2025-10-28 20:45:57.788612] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:57.838142] Received response from 8.8.8.8
+[2025-10-28 20:45:57.838327] RTT to forwarder: 49.51 ms
+[2025-10-28 20:45:57.838364] Total Time (Recursive): 49.74 ms
+[2025-10-28 20:45:57.838378] --- Query End (Recursive) ---
+[2025-10-28 20:45:57.887914] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:57.888124] Timestamp: 2025-10-28 20:45:57.888114
+[2025-10-28 20:45:57.888152] Domain Name: de.vu.
+[2025-10-28 20:45:57.888167] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:57.924274] Received response from 8.8.8.8
+[2025-10-28 20:45:57.924480] RTT to forwarder: 36.08 ms
+[2025-10-28 20:45:57.924522] Total Time (Recursive): 36.34 ms
+[2025-10-28 20:45:57.924536] --- Query End (Recursive) ---
+[2025-10-28 20:45:57.974638] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:57.974884] Timestamp: 2025-10-28 20:45:57.974865
+[2025-10-28 20:45:57.974925] Domain Name: dilw.ie.
+[2025-10-28 20:45:57.974944] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:58.010847] Received response from 8.8.8.8
+[2025-10-28 20:45:58.010958] RTT to forwarder: 35.88 ms
+[2025-10-28 20:45:58.010983] Total Time (Recursive): 36.02 ms
+[2025-10-28 20:45:58.011003] --- Query End (Recursive) ---
+[2025-10-28 20:45:58.063838] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:58.064031] Timestamp: 2025-10-28 20:45:58.064019
+[2025-10-28 20:45:58.064069] Domain Name: dock2office.com.
+[2025-10-28 20:45:58.064087] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:58.099755] Received response from 8.8.8.8
+[2025-10-28 20:45:58.099983] RTT to forwarder: 35.64 ms
+[2025-10-28 20:45:58.100035] Total Time (Recursive): 35.93 ms
+[2025-10-28 20:45:58.100055] --- Query End (Recursive) ---
+[2025-10-28 20:45:58.149894] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:58.150102] Timestamp: 2025-10-28 20:45:58.150091
+[2025-10-28 20:45:58.150136] Domain Name: drglendza.co.rs.
+[2025-10-28 20:45:58.150155] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:58.244187] Received response from 8.8.8.8
+[2025-10-28 20:45:58.244654] RTT to forwarder: 94.00 ms
+[2025-10-28 20:45:58.244720] Total Time (Recursive): 94.55 ms
+[2025-10-28 20:45:58.244750] --- Query End (Recursive) ---
+[2025-10-28 20:45:58.301718] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:58.301899] Timestamp: 2025-10-28 20:45:58.301889
+[2025-10-28 20:45:58.301930] Domain Name: dricom-hosting.nl.
+[2025-10-28 20:45:58.301949] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:58.694086] Received response from 8.8.8.8
+[2025-10-28 20:45:58.694370] RTT to forwarder: 392.11 ms
+[2025-10-28 20:45:58.694425] Total Time (Recursive): 392.46 ms
+[2025-10-28 20:45:58.694450] --- Query End (Recursive) ---
+[2025-10-28 20:45:58.761855] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:58.762126] Timestamp: 2025-10-28 20:45:58.762111
+[2025-10-28 20:45:58.762177] Domain Name: ecolems.com.
+[2025-10-28 20:45:58.762204] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:58.814150] Received response from 8.8.8.8
+[2025-10-28 20:45:58.814666] RTT to forwarder: 51.91 ms
+[2025-10-28 20:45:58.814741] Total Time (Recursive): 52.51 ms
+[2025-10-28 20:45:58.814780] --- Query End (Recursive) ---
+[2025-10-28 20:45:58.885044] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:58.885710] Timestamp: 2025-10-28 20:45:58.885689
+[2025-10-28 20:45:58.885792] Domain Name: e-daily.gr.
+[2025-10-28 20:45:58.885835] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:58.937957] Received response from 8.8.8.8
+[2025-10-28 20:45:58.938131] RTT to forwarder: 52.08 ms
+[2025-10-28 20:45:58.938179] Total Time (Recursive): 52.31 ms
+[2025-10-28 20:45:58.938224] --- Query End (Recursive) ---
+[2025-10-28 20:45:59.001133] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:59.002005] Timestamp: 2025-10-28 20:45:59.001977
+[2025-10-28 20:45:59.002093] Domain Name: eggcityradio.com.
+[2025-10-28 20:45:59.002132] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:59.037992] Received response from 8.8.8.8
+[2025-10-28 20:45:59.038225] RTT to forwarder: 35.81 ms
+[2025-10-28 20:45:59.038274] Total Time (Recursive): 36.11 ms
+[2025-10-28 20:45:59.038307] --- Query End (Recursive) ---
+[2025-10-28 20:45:59.134438] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:59.134708] Timestamp: 2025-10-28 20:45:59.134693
+[2025-10-28 20:45:59.134756] Domain Name: egov.sy.
+[2025-10-28 20:45:59.134791] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:59.176528] Received response from 8.8.8.8
+[2025-10-28 20:45:59.176745] RTT to forwarder: 41.69 ms
+[2025-10-28 20:45:59.176794] Total Time (Recursive): 41.97 ms
+[2025-10-28 20:45:59.176831] --- Query End (Recursive) ---
+[2025-10-28 20:45:59.240206] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:59.240442] Timestamp: 2025-10-28 20:45:59.240429
+[2025-10-28 20:45:59.240489] Domain Name: e-hps.com.
+[2025-10-28 20:45:59.240523] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:59.290504] Received response from 8.8.8.8
+[2025-10-28 20:45:59.290889] RTT to forwarder: 49.58 ms
+[2025-10-28 20:45:59.290970] Total Time (Recursive): 50.05 ms
+[2025-10-28 20:45:59.291005] --- Query End (Recursive) ---
+[2025-10-28 20:45:59.355234] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:59.355441] Timestamp: 2025-10-28 20:45:59.355427
+[2025-10-28 20:45:59.355488] Domain Name: fmnara.com.
+[2025-10-28 20:45:59.355521] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:59.731129] Received response from 8.8.8.8
+[2025-10-28 20:45:59.731347] RTT to forwarder: 375.56 ms
+[2025-10-28 20:45:59.731395] Total Time (Recursive): 375.84 ms
+[2025-10-28 20:45:59.731429] --- Query End (Recursive) ---
+[2025-10-28 20:45:59.807620] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:59.809430] Timestamp: 2025-10-28 20:45:59.809405
+[2025-10-28 20:45:59.809510] Domain Name: freeditorial.com.
+[2025-10-28 20:45:59.809547] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:59.851546] Received response from 8.8.8.8
+[2025-10-28 20:45:59.852027] RTT to forwarder: 41.91 ms
+[2025-10-28 20:45:59.852177] Total Time (Recursive): 42.55 ms
+[2025-10-28 20:45:59.852225] --- Query End (Recursive) ---
+[2025-10-28 20:45:59.919554] --- New Query (Recursive Request) ---
+[2025-10-28 20:45:59.919873] Timestamp: 2025-10-28 20:45:59.919855
+[2025-10-28 20:45:59.919940] Domain Name: ftf.com.
+[2025-10-28 20:45:59.919979] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:45:59.988749] Received response from 8.8.8.8
+[2025-10-28 20:45:59.988992] RTT to forwarder: 68.72 ms
+[2025-10-28 20:45:59.989044] Total Time (Recursive): 69.03 ms
+[2025-10-28 20:45:59.989083] --- Query End (Recursive) ---
+[2025-10-28 20:46:00.081867] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:00.082095] Timestamp: 2025-10-28 20:46:00.082078
+[2025-10-28 20:46:00.082143] Domain Name: gadanguides.com.
+[2025-10-28 20:46:00.082179] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:00.130812] Received response from 8.8.8.8
+[2025-10-28 20:46:00.131165] RTT to forwarder: 48.59 ms
+[2025-10-28 20:46:00.131242] Total Time (Recursive): 49.03 ms
+[2025-10-28 20:46:00.131282] --- Query End (Recursive) ---
+[2025-10-28 20:46:00.183869] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:00.184770] Timestamp: 2025-10-28 20:46:00.184746
+[2025-10-28 20:46:00.184892] Domain Name: gadgetgearpro.com.
+[2025-10-28 20:46:00.184937] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:00.466625] Received response from 8.8.8.8
+[2025-10-28 20:46:00.467063] RTT to forwarder: 281.64 ms
+[2025-10-28 20:46:00.467150] Total Time (Recursive): 282.17 ms
+[2025-10-28 20:46:00.467192] --- Query End (Recursive) ---
+[2025-10-28 20:46:00.531538] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:00.531921] Timestamp: 2025-10-28 20:46:00.531899
+[2025-10-28 20:46:00.531989] Domain Name: gardenofwords.com.
+[2025-10-28 20:46:00.532025] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:00.602533] Received response from 8.8.8.8
+[2025-10-28 20:46:00.602956] RTT to forwarder: 70.46 ms
+[2025-10-28 20:46:00.603125] Total Time (Recursive): 71.06 ms
+[2025-10-28 20:46:00.603186] --- Query End (Recursive) ---
+[2025-10-28 20:46:00.668190] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:00.668545] Timestamp: 2025-10-28 20:46:00.668523
+[2025-10-28 20:46:00.668611] Domain Name: get-webby.com.
+[2025-10-28 20:46:00.668649] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:00.940602] Received response from 8.8.8.8
+[2025-10-28 20:46:00.940939] RTT to forwarder: 271.91 ms
+[2025-10-28 20:46:00.941456] Total Time (Recursive): 272.76 ms
+[2025-10-28 20:46:00.942057] --- Query End (Recursive) ---
+[2025-10-28 20:46:01.022060] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:01.022273] Timestamp: 2025-10-28 20:46:01.022261
+[2025-10-28 20:46:01.022324] Domain Name: ghimpele.ro.
+[2025-10-28 20:46:01.022364] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:01.171745] Received response from 8.8.8.8
+[2025-10-28 20:46:01.171979] RTT to forwarder: 149.34 ms
+[2025-10-28 20:46:01.172215] Total Time (Recursive): 149.81 ms
+[2025-10-28 20:46:01.172264] --- Query End (Recursive) ---
+[2025-10-28 20:46:01.258049] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:01.258407] Timestamp: 2025-10-28 20:46:01.258385
+[2025-10-28 20:46:01.258474] Domain Name: giuseppelivraghi.it.
+[2025-10-28 20:46:01.258510] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:01.778936] Received response from 8.8.8.8
+[2025-10-28 20:46:01.779596] RTT to forwarder: 520.38 ms
+[2025-10-28 20:46:01.780072] Total Time (Recursive): 521.53 ms
+[2025-10-28 20:46:01.780119] --- Query End (Recursive) ---
+[2025-10-28 20:46:01.862559] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:01.863057] Timestamp: 2025-10-28 20:46:01.863036
+[2025-10-28 20:46:01.863125] Domain Name: gregginn.com.
+[2025-10-28 20:46:01.863163] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:02.076547] Received response from 8.8.8.8
+[2025-10-28 20:46:02.076848] RTT to forwarder: 213.34 ms
+[2025-10-28 20:46:02.076918] Total Time (Recursive): 213.72 ms
+[2025-10-28 20:46:02.076957] --- Query End (Recursive) ---
+[2025-10-28 20:46:02.134935] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:02.135501] Timestamp: 2025-10-28 20:46:02.135284
+[2025-10-28 20:46:02.135585] Domain Name: gxjbsj.com.
+[2025-10-28 20:46:02.135623] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:02.189207] Received response from 8.8.8.8
+[2025-10-28 20:46:02.189774] RTT to forwarder: 53.54 ms
+[2025-10-28 20:46:02.189872] Total Time (Recursive): 54.21 ms
+[2025-10-28 20:46:02.189917] --- Query End (Recursive) ---
+[2025-10-28 20:46:02.275125] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:02.275361] Timestamp: 2025-10-28 20:46:02.275344
+[2025-10-28 20:46:02.275407] Domain Name: hayalforum.net.
+[2025-10-28 20:46:02.275441] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:02.318076] Received response from 8.8.8.8
+[2025-10-28 20:46:02.318312] RTT to forwarder: 42.59 ms
+[2025-10-28 20:46:02.318367] Total Time (Recursive): 42.89 ms
+[2025-10-28 20:46:02.318401] --- Query End (Recursive) ---
+[2025-10-28 20:46:02.486287] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:02.486885] Timestamp: 2025-10-28 20:46:02.486864
+[2025-10-28 20:46:02.486958] Domain Name: hdcric.com.
+[2025-10-28 20:46:02.486995] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:02.534360] Received response from 8.8.8.8
+[2025-10-28 20:46:02.534694] RTT to forwarder: 47.16 ms
+[2025-10-28 20:46:02.534740] Total Time (Recursive): 47.71 ms
+[2025-10-28 20:46:02.534755] --- Query End (Recursive) ---
+[2025-10-28 20:46:02.595914] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:02.596395] Timestamp: 2025-10-28 20:46:02.596369
+[2025-10-28 20:46:02.596480] Domain Name: hralda.info.
+[2025-10-28 20:46:02.596628] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:02.870070] Received response from 8.8.8.8
+[2025-10-28 20:46:02.870390] RTT to forwarder: 273.37 ms
+[2025-10-28 20:46:02.870464] Total Time (Recursive): 273.77 ms
+[2025-10-28 20:46:02.870500] --- Query End (Recursive) ---
+[2025-10-28 20:46:02.995086] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:02.995441] Timestamp: 2025-10-28 20:46:02.995419
+[2025-10-28 20:46:02.995510] Domain Name: hutago.com.
+[2025-10-28 20:46:02.995547] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:03.199195] Received response from 8.8.8.8
+[2025-10-28 20:46:03.199553] RTT to forwarder: 203.60 ms
+[2025-10-28 20:46:03.199629] Total Time (Recursive): 204.05 ms
+[2025-10-28 20:46:03.199668] --- Query End (Recursive) ---
+[2025-10-28 20:46:03.267108] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:03.267338] Timestamp: 2025-10-28 20:46:03.267322
+[2025-10-28 20:46:03.267387] Domain Name: iael.com.
+[2025-10-28 20:46:03.267423] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:03.430365] Received response from 8.8.8.8
+[2025-10-28 20:46:03.430812] RTT to forwarder: 162.90 ms
+[2025-10-28 20:46:03.430933] Total Time (Recursive): 163.48 ms
+[2025-10-28 20:46:03.442137] --- Query End (Recursive) ---
+[2025-10-28 20:46:03.504346] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:03.504690] Timestamp: 2025-10-28 20:46:03.504669
+[2025-10-28 20:46:03.504757] Domain Name: ishidatic.com.
+[2025-10-28 20:46:03.504795] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:03.558511] Received response from 8.8.8.8
+[2025-10-28 20:46:03.558761] RTT to forwarder: 53.67 ms
+[2025-10-28 20:46:03.558811] Total Time (Recursive): 53.98 ms
+[2025-10-28 20:46:03.558845] --- Query End (Recursive) ---
+[2025-10-28 20:46:03.634179] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:03.635055] Timestamp: 2025-10-28 20:46:03.635032
+[2025-10-28 20:46:03.635385] Domain Name: laigang001.com.
+[2025-10-28 20:46:03.635449] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:03.676168] Received response from 8.8.8.8
+[2025-10-28 20:46:03.676533] RTT to forwarder: 40.67 ms
+[2025-10-28 20:46:03.676845] Total Time (Recursive): 41.12 ms
+[2025-10-28 20:46:03.676916] --- Query End (Recursive) ---
+[2025-10-28 20:46:03.759364] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:03.759690] Timestamp: 2025-10-28 20:46:03.759669
+[2025-10-28 20:46:03.759755] Domain Name: marilynlingerie.com.
+[2025-10-28 20:46:03.759790] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:03.857155] Received response from 8.8.8.8
+[2025-10-28 20:46:03.858035] RTT to forwarder: 97.32 ms
+[2025-10-28 20:46:03.858441] Total Time (Recursive): 98.59 ms
+[2025-10-28 20:46:03.859001] --- Query End (Recursive) ---
+[2025-10-28 20:46:03.918637] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:03.918989] Timestamp: 2025-10-28 20:46:03.918967
+[2025-10-28 20:46:03.919059] Domain Name: mechachal.org.
+[2025-10-28 20:46:03.919100] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:03.962024] Received response from 8.8.8.8
+[2025-10-28 20:46:03.962394] RTT to forwarder: 42.88 ms
+[2025-10-28 20:46:03.962468] Total Time (Recursive): 43.33 ms
+[2025-10-28 20:46:03.962506] --- Query End (Recursive) ---
+[2025-10-28 20:46:04.028033] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:04.028481] Timestamp: 2025-10-28 20:46:04.028460
+[2025-10-28 20:46:04.028535] Domain Name: medipacademy.com.
+[2025-10-28 20:46:04.028573] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:04.071202] Received response from 8.8.8.8
+[2025-10-28 20:46:04.071423] RTT to forwarder: 42.48 ms
+[2025-10-28 20:46:04.071476] Total Time (Recursive): 42.76 ms
+[2025-10-28 20:46:04.071510] --- Query End (Recursive) ---
+[2025-10-28 20:46:04.187611] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:04.189140] Timestamp: 2025-10-28 20:46:04.189119
+[2025-10-28 20:46:04.189218] Domain Name: metar.gr.
+[2025-10-28 20:46:04.189233] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:04.232663] Received response from 8.8.8.8
+[2025-10-28 20:46:04.233039] RTT to forwarder: 43.41 ms
+[2025-10-28 20:46:04.233122] Total Time (Recursive): 43.87 ms
+[2025-10-28 20:46:04.233157] --- Query End (Recursive) ---
+[2025-10-28 20:46:04.305404] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:04.305628] Timestamp: 2025-10-28 20:46:04.305612
+[2025-10-28 20:46:04.306101] Domain Name: michaelbyers.org.
+[2025-10-28 20:46:04.306156] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:04.416791] Received response from 8.8.8.8
+[2025-10-28 20:46:04.417167] RTT to forwarder: 110.59 ms
+[2025-10-28 20:46:04.417242] Total Time (Recursive): 111.05 ms
+[2025-10-28 20:46:04.417277] --- Query End (Recursive) ---
+[2025-10-28 20:46:04.499218] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:04.499854] Timestamp: 2025-10-28 20:46:04.499828
+[2025-10-28 20:46:04.500045] Domain Name: minecraftserverdeals.com.
+[2025-10-28 20:46:04.500107] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:04.553751] Received response from 8.8.8.8
+[2025-10-28 20:46:04.554178] RTT to forwarder: 53.60 ms
+[2025-10-28 20:46:04.554311] Total Time (Recursive): 54.17 ms
+[2025-10-28 20:46:04.554351] --- Query End (Recursive) ---
+[2025-10-28 20:46:04.635695] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:04.635917] Timestamp: 2025-10-28 20:46:04.635902
+[2025-10-28 20:46:04.635962] Domain Name: monitis.com.
+[2025-10-28 20:46:04.635997] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:04.675598] Received response from 8.8.8.8
+[2025-10-28 20:46:04.676051] RTT to forwarder: 39.56 ms
+[2025-10-28 20:46:04.676132] Total Time (Recursive): 40.10 ms
+[2025-10-28 20:46:04.676173] --- Query End (Recursive) ---
+[2025-10-28 20:46:04.741544] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:04.742066] Timestamp: 2025-10-28 20:46:04.742043
+[2025-10-28 20:46:04.742128] Domain Name: morban.co.uk.
+[2025-10-28 20:46:04.742164] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:04.798570] Received response from 8.8.8.8
+[2025-10-28 20:46:04.799206] RTT to forwarder: 56.36 ms
+[2025-10-28 20:46:04.799284] Total Time (Recursive): 57.09 ms
+[2025-10-28 20:46:04.799332] --- Query End (Recursive) ---
+[2025-10-28 20:46:04.847165] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:04.847511] Timestamp: 2025-10-28 20:46:04.847487
+[2025-10-28 20:46:04.847580] Domain Name: nasaspaceflight.com.
+[2025-10-28 20:46:04.847618] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:04.914026] Received response from 8.8.8.8
+[2025-10-28 20:46:04.914375] RTT to forwarder: 66.33 ms
+[2025-10-28 20:46:04.914456] Total Time (Recursive): 66.77 ms
+[2025-10-28 20:46:04.914500] --- Query End (Recursive) ---
+[2025-10-28 20:46:04.975214] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:04.975544] Timestamp: 2025-10-28 20:46:04.975521
+[2025-10-28 20:46:04.975616] Domain Name: ncees.org.
+[2025-10-28 20:46:04.975654] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:05.025190] Received response from 8.8.8.8
+[2025-10-28 20:46:05.025573] RTT to forwarder: 49.49 ms
+[2025-10-28 20:46:05.025661] Total Time (Recursive): 49.97 ms
+[2025-10-28 20:46:05.025702] --- Query End (Recursive) ---
+[2025-10-28 20:46:05.088297] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:05.088669] Timestamp: 2025-10-28 20:46:05.088646
+[2025-10-28 20:46:05.088741] Domain Name: noblewomanhood.com.
+[2025-10-28 20:46:05.088778] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:05.137376] Received response from 8.8.8.8
+[2025-10-28 20:46:05.137736] RTT to forwarder: 48.55 ms
+[2025-10-28 20:46:05.137812] Total Time (Recursive): 49.00 ms
+[2025-10-28 20:46:05.137851] --- Query End (Recursive) ---
+[2025-10-28 20:46:05.201748] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:05.202166] Timestamp: 2025-10-28 20:46:05.202145
+[2025-10-28 20:46:05.202393] Domain Name: note-so-easy.co.za.
+[2025-10-28 20:46:05.202462] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:05.299229] Received response from 8.8.8.8
+[2025-10-28 20:46:05.299751] RTT to forwarder: 96.53 ms
+[2025-10-28 20:46:05.307576] Total Time (Recursive): 105.07 ms
+[2025-10-28 20:46:05.307691] --- Query End (Recursive) ---
+[2025-10-28 20:46:05.398667] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:05.399029] Timestamp: 2025-10-28 20:46:05.399006
+[2025-10-28 20:46:05.399100] Domain Name: oaister.org.
+[2025-10-28 20:46:05.399140] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:05.514284] Received response from 8.8.8.8
+[2025-10-28 20:46:05.514667] RTT to forwarder: 114.63 ms
+[2025-10-28 20:46:05.514754] Total Time (Recursive): 115.11 ms
+[2025-10-28 20:46:05.514795] --- Query End (Recursive) ---
+[2025-10-28 20:46:05.567069] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:05.567410] Timestamp: 2025-10-28 20:46:05.567388
+[2025-10-28 20:46:05.567480] Domain Name: pahibu.net.
+[2025-10-28 20:46:05.567518] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:05.615418] Received response from 8.8.8.8
+[2025-10-28 20:46:05.616094] RTT to forwarder: 47.85 ms
+[2025-10-28 20:46:05.616285] Total Time (Recursive): 48.72 ms
+[2025-10-28 20:46:05.616348] --- Query End (Recursive) ---
+[2025-10-28 20:46:05.686641] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:05.687388] Timestamp: 2025-10-28 20:46:05.687372
+[2025-10-28 20:46:05.687917] Domain Name: pet-connect.ru.
+[2025-10-28 20:46:05.688002] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:05.726136] Received response from 8.8.8.8
+[2025-10-28 20:46:05.726501] RTT to forwarder: 38.08 ms
+[2025-10-28 20:46:05.726579] Total Time (Recursive): 38.53 ms
+[2025-10-28 20:46:05.726619] --- Query End (Recursive) ---
+[2025-10-28 20:46:05.821649] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:05.822088] Timestamp: 2025-10-28 20:46:05.822063
+[2025-10-28 20:46:05.822165] Domain Name: polymth.com.
+[2025-10-28 20:46:05.822206] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:05.871383] Received response from 8.8.8.8
+[2025-10-28 20:46:05.871899] RTT to forwarder: 49.13 ms
+[2025-10-28 20:46:05.871982] Total Time (Recursive): 49.74 ms
+[2025-10-28 20:46:05.872023] --- Query End (Recursive) ---
+[2025-10-28 20:46:05.940669] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:05.941008] Timestamp: 2025-10-28 20:46:05.940985
+[2025-10-28 20:46:05.941076] Domain Name: romney.com.
+[2025-10-28 20:46:05.941113] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:05.986559] Received response from 8.8.8.8
+[2025-10-28 20:46:05.986954] RTT to forwarder: 45.39 ms
+[2025-10-28 20:46:05.987032] Total Time (Recursive): 45.88 ms
+[2025-10-28 20:46:05.987071] --- Query End (Recursive) ---
+[2025-10-28 20:46:06.051428] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:06.051773] Timestamp: 2025-10-28 20:46:06.051752
+[2025-10-28 20:46:06.051845] Domain Name: rterc.in.
+[2025-10-28 20:46:06.051883] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:06.107036] Received response from 8.8.8.8
+[2025-10-28 20:46:06.107389] RTT to forwarder: 55.11 ms
+[2025-10-28 20:46:06.107472] Total Time (Recursive): 55.55 ms
+[2025-10-28 20:46:06.107513] --- Query End (Recursive) ---
+[2025-10-28 20:46:06.169558] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:06.169916] Timestamp: 2025-10-28 20:46:06.169897
+[2025-10-28 20:46:06.170884] Domain Name: sailor.pl.
+[2025-10-28 20:46:06.170961] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:06.587074] Received response from 8.8.8.8
+[2025-10-28 20:46:06.587551] RTT to forwarder: 416.05 ms
+[2025-10-28 20:46:06.587635] Total Time (Recursive): 416.62 ms
+[2025-10-28 20:46:06.587674] --- Query End (Recursive) ---
+[2025-10-28 20:46:06.652398] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:06.652764] Timestamp: 2025-10-28 20:46:06.652741
+[2025-10-28 20:46:06.652858] Domain Name: sarahpartridge.net.
+[2025-10-28 20:46:06.652898] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:06.913132] Received response from 8.8.8.8
+[2025-10-28 20:46:06.913539] RTT to forwarder: 260.19 ms
+[2025-10-28 20:46:06.913625] Total Time (Recursive): 260.69 ms
+[2025-10-28 20:46:06.913669] --- Query End (Recursive) ---
+[2025-10-28 20:46:06.991113] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:06.991471] Timestamp: 2025-10-28 20:46:06.991450
+[2025-10-28 20:46:06.991538] Domain Name: sendrakhizonline.com.
+[2025-10-28 20:46:06.991574] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:07.082246] Received response from 8.8.8.8
+[2025-10-28 20:46:07.083237] RTT to forwarder: 90.63 ms
+[2025-10-28 20:46:07.083440] Total Time (Recursive): 91.83 ms
+[2025-10-28 20:46:07.083502] --- Query End (Recursive) ---
+[2025-10-28 20:46:07.147188] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:07.147620] Timestamp: 2025-10-28 20:46:07.147586
+[2025-10-28 20:46:07.147739] Domain Name: shishioh.info.
+[2025-10-28 20:46:07.147783] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:07.187315] Received response from 8.8.8.8
+[2025-10-28 20:46:07.187663] RTT to forwarder: 39.48 ms
+[2025-10-28 20:46:07.187740] Total Time (Recursive): 39.92 ms
+[2025-10-28 20:46:07.187781] --- Query End (Recursive) ---
+[2025-10-28 20:46:07.240993] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:07.241398] Timestamp: 2025-10-28 20:46:07.241374
+[2025-10-28 20:46:07.241473] Domain Name: silveropt.ru.
+[2025-10-28 20:46:07.241510] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:08.094577] Received response from 8.8.8.8
+[2025-10-28 20:46:08.094946] RTT to forwarder: 853.02 ms
+[2025-10-28 20:46:08.095030] Total Time (Recursive): 853.48 ms
+[2025-10-28 20:46:08.095072] --- Query End (Recursive) ---
+[2025-10-28 20:46:08.177502] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:08.177968] Timestamp: 2025-10-28 20:46:08.177945
+[2025-10-28 20:46:08.178385] Domain Name: skyhightmatter.info.
+[2025-10-28 20:46:08.178447] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:08.339156] Received response from 8.8.8.8
+[2025-10-28 20:46:08.339512] RTT to forwarder: 160.66 ms
+[2025-10-28 20:46:08.339591] Total Time (Recursive): 161.10 ms
+[2025-10-28 20:46:08.339630] --- Query End (Recursive) ---
+[2025-10-28 20:46:08.404986] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:08.405492] Timestamp: 2025-10-28 20:46:08.405468
+[2025-10-28 20:46:08.405664] Domain Name: sonoma-marinfair.org.
+[2025-10-28 20:46:08.405727] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:08.508302] Received response from 8.8.8.8
+[2025-10-28 20:46:08.508744] RTT to forwarder: 102.52 ms
+[2025-10-28 20:46:08.517173] Total Time (Recursive): 111.24 ms
+[2025-10-28 20:46:08.517856] --- Query End (Recursive) ---
+[2025-10-28 20:46:08.762261] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:08.762605] Timestamp: 2025-10-28 20:46:08.762583
+[2025-10-28 20:46:08.762673] Domain Name: stkpro.ru.
+[2025-10-28 20:46:08.762711] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:08.803276] Received response from 8.8.8.8
+[2025-10-28 20:46:08.803633] RTT to forwarder: 40.52 ms
+[2025-10-28 20:46:08.803720] Total Time (Recursive): 40.97 ms
+[2025-10-28 20:46:08.803756] --- Query End (Recursive) ---
+[2025-10-28 20:46:08.879277] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:08.879691] Timestamp: 2025-10-28 20:46:08.879670
+[2025-10-28 20:46:08.879759] Domain Name: synchchaos.com.
+[2025-10-28 20:46:08.879795] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:08.917039] Received response from 8.8.8.8
+[2025-10-28 20:46:08.917641] RTT to forwarder: 37.20 ms
+[2025-10-28 20:46:08.917740] Total Time (Recursive): 37.91 ms
+[2025-10-28 20:46:08.917782] --- Query End (Recursive) ---
+[2025-10-28 20:46:08.997302] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:08.997802] Timestamp: 2025-10-28 20:46:08.997776
+[2025-10-28 20:46:08.998783] Domain Name: synrc.com.
+[2025-10-28 20:46:08.999069] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:09.050894] Received response from 8.8.8.8
+[2025-10-28 20:46:09.051355] RTT to forwarder: 51.71 ms
+[2025-10-28 20:46:09.051433] Total Time (Recursive): 52.26 ms
+[2025-10-28 20:46:09.051468] --- Query End (Recursive) ---
+[2025-10-28 20:46:09.116117] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:09.116320] Timestamp: 2025-10-28 20:46:09.116304
+[2025-10-28 20:46:09.116366] Domain Name: tangkas888.com.
+[2025-10-28 20:46:09.116402] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:09.177507] Received response from 8.8.8.8
+[2025-10-28 20:46:09.177870] RTT to forwarder: 61.06 ms
+[2025-10-28 20:46:09.177943] Total Time (Recursive): 61.51 ms
+[2025-10-28 20:46:09.177982] --- Query End (Recursive) ---
+[2025-10-28 20:46:09.240736] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:09.241141] Timestamp: 2025-10-28 20:46:09.241120
+[2025-10-28 20:46:09.241208] Domain Name: tawali.com.
+[2025-10-28 20:46:09.241497] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:09.444116] Received response from 8.8.8.8
+[2025-10-28 20:46:09.445691] RTT to forwarder: 202.56 ms
+[2025-10-28 20:46:09.445847] Total Time (Recursive): 204.30 ms
+[2025-10-28 20:46:09.445890] --- Query End (Recursive) ---
+[2025-10-28 20:46:09.510502] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:09.510933] Timestamp: 2025-10-28 20:46:09.510912
+[2025-10-28 20:46:09.511002] Domain Name: teachmyass.info.
+[2025-10-28 20:46:09.511039] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:09.907825] Received response from 8.8.8.8
+[2025-10-28 20:46:09.908636] RTT to forwarder: 396.74 ms
+[2025-10-28 20:46:09.908827] Total Time (Recursive): 397.75 ms
+[2025-10-28 20:46:09.908887] --- Query End (Recursive) ---
+[2025-10-28 20:46:09.980531] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:09.980855] Timestamp: 2025-10-28 20:46:09.980835
+[2025-10-28 20:46:09.980920] Domain Name: teleskill.it.
+[2025-10-28 20:46:09.980956] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:10.025367] Received response from 8.8.8.8
+[2025-10-28 20:46:10.025740] RTT to forwarder: 44.36 ms
+[2025-10-28 20:46:10.026286] Total Time (Recursive): 45.29 ms
+[2025-10-28 20:46:10.026352] --- Query End (Recursive) ---
+[2025-10-28 20:46:10.091686] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:10.092116] Timestamp: 2025-10-28 20:46:10.092094
+[2025-10-28 20:46:10.092199] Domain Name: tenant-internet.com.
+[2025-10-28 20:46:10.092239] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:10.138318] Received response from 8.8.8.8
+[2025-10-28 20:46:10.138666] RTT to forwarder: 45.76 ms
+[2025-10-28 20:46:10.138789] Total Time (Recursive): 46.24 ms
+[2025-10-28 20:46:10.138839] --- Query End (Recursive) ---
+[2025-10-28 20:46:10.244164] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:10.244520] Timestamp: 2025-10-28 20:46:10.244499
+[2025-10-28 20:46:10.244590] Domain Name: texasbeyondhistory.net.
+[2025-10-28 20:46:10.244630] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:10.905558] Received response from 8.8.8.8
+[2025-10-28 20:46:10.907537] RTT to forwarder: 660.88 ms
+[2025-10-28 20:46:10.907696] Total Time (Recursive): 663.03 ms
+[2025-10-28 20:46:10.907737] --- Query End (Recursive) ---
+[2025-10-28 20:46:10.970277] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:10.971582] Timestamp: 2025-10-28 20:46:10.971554
+[2025-10-28 20:46:10.971649] Domain Name: topbarbee.com.
+[2025-10-28 20:46:10.971685] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:11.080168] Received response from 8.8.8.8
+[2025-10-28 20:46:11.080734] RTT to forwarder: 108.44 ms
+[2025-10-28 20:46:11.080822] Total Time (Recursive): 109.10 ms
+[2025-10-28 20:46:11.080860] --- Query End (Recursive) ---
+[2025-10-28 20:46:11.147675] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:11.148437] Timestamp: 2025-10-28 20:46:11.148401
+[2025-10-28 20:46:11.149011] Domain Name: trackcheatingspouse.com.
+[2025-10-28 20:46:11.149099] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:11.190046] Received response from 8.8.8.8
+[2025-10-28 20:46:11.190263] RTT to forwarder: 40.90 ms
+[2025-10-28 20:46:11.190313] Total Time (Recursive): 41.17 ms
+[2025-10-28 20:46:11.190346] --- Query End (Recursive) ---
+[2025-10-28 20:46:11.245017] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:11.245376] Timestamp: 2025-10-28 20:46:11.245355
+[2025-10-28 20:46:11.245449] Domain Name: uca.edu.
+[2025-10-28 20:46:11.245488] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:11.286552] Received response from 8.8.8.8
+[2025-10-28 20:46:11.286929] RTT to forwarder: 41.02 ms
+[2025-10-28 20:46:11.287007] Total Time (Recursive): 41.48 ms
+[2025-10-28 20:46:11.287044] --- Query End (Recursive) ---
+[2025-10-28 20:46:11.354399] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:11.354822] Timestamp: 2025-10-28 20:46:11.354801
+[2025-10-28 20:46:11.354897] Domain Name: urbannetwork.co.uk.
+[2025-10-28 20:46:11.354936] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:11.462443] Received response from 8.8.8.8
+[2025-10-28 20:46:11.463012] RTT to forwarder: 107.46 ms
+[2025-10-28 20:46:11.463632] Total Time (Recursive): 108.65 ms
+[2025-10-28 20:46:11.463701] --- Query End (Recursive) ---
+[2025-10-28 20:46:11.532088] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:11.532268] Timestamp: 2025-10-28 20:46:11.532254
+[2025-10-28 20:46:11.532310] Domain Name: verlockeshop.de.
+[2025-10-28 20:46:11.532345] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:11.642914] Received response from 8.8.8.8
+[2025-10-28 20:46:11.643260] RTT to forwarder: 110.52 ms
+[2025-10-28 20:46:11.643337] Total Time (Recursive): 110.96 ms
+[2025-10-28 20:46:11.643377] --- Query End (Recursive) ---
+[2025-10-28 20:46:11.706913] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:11.707349] Timestamp: 2025-10-28 20:46:11.707328
+[2025-10-28 20:46:11.707519] Domain Name: video-peche-poisson.fr.
+[2025-10-28 20:46:11.707674] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:11.758320] Received response from 8.8.8.8
+[2025-10-28 20:46:11.758754] RTT to forwarder: 50.57 ms
+[2025-10-28 20:46:11.758936] Total Time (Recursive): 51.19 ms
+[2025-10-28 20:46:11.759000] --- Query End (Recursive) ---
+[2025-10-28 20:46:11.822844] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:11.823181] Timestamp: 2025-10-28 20:46:11.823161
+[2025-10-28 20:46:11.823246] Domain Name: vietcapitaltour.com.
+[2025-10-28 20:46:11.823285] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:11.872888] Received response from 8.8.8.8
+[2025-10-28 20:46:11.873105] RTT to forwarder: 49.56 ms
+[2025-10-28 20:46:11.873157] Total Time (Recursive): 49.84 ms
+[2025-10-28 20:46:11.873193] --- Query End (Recursive) ---
+[2025-10-28 20:46:11.940198] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:11.940543] Timestamp: 2025-10-28 20:46:11.940522
+[2025-10-28 20:46:11.940612] Domain Name: virtualjerusalem.com.
+[2025-10-28 20:46:11.940649] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:11.987075] Received response from 8.8.8.8
+[2025-10-28 20:46:11.987728] RTT to forwarder: 46.38 ms
+[2025-10-28 20:46:11.987812] Total Time (Recursive): 47.13 ms
+[2025-10-28 20:46:11.987848] --- Query End (Recursive) ---
+[2025-10-28 20:46:12.046569] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:12.046870] Timestamp: 2025-10-28 20:46:12.046851
+[2025-10-28 20:46:12.046934] Domain Name: vlielandoutdoorcenter.nl.
+[2025-10-28 20:46:12.047217] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:12.446059] Received response from 8.8.8.8
+[2025-10-28 20:46:12.446513] RTT to forwarder: 398.74 ms
+[2025-10-28 20:46:12.446600] Total Time (Recursive): 399.29 ms
+[2025-10-28 20:46:12.446639] --- Query End (Recursive) ---
+[2025-10-28 20:46:12.510539] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:12.510860] Timestamp: 2025-10-28 20:46:12.510841
+[2025-10-28 20:46:12.510944] Domain Name: vpndefender.com.
+[2025-10-28 20:46:12.510983] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:12.584805] Received response from 8.8.8.8
+[2025-10-28 20:46:12.585000] RTT to forwarder: 73.76 ms
+[2025-10-28 20:46:12.585047] Total Time (Recursive): 74.03 ms
+[2025-10-28 20:46:12.585081] --- Query End (Recursive) ---
+[2025-10-28 20:46:12.646309] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:12.646624] Timestamp: 2025-10-28 20:46:12.646605
+[2025-10-28 20:46:12.646691] Domain Name: ximangquantrieu.com.
+[2025-10-28 20:46:12.646729] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:12.836691] Received response from 8.8.8.8
+[2025-10-28 20:46:12.837125] RTT to forwarder: 177.82 ms
+[2025-10-28 20:46:12.837220] Total Time (Recursive): 178.36 ms
+[2025-10-28 20:46:12.837260] --- Query End (Recursive) ---
+[2025-10-28 20:46:12.922483] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:12.922824] Timestamp: 2025-10-28 20:46:12.922804
+[2025-10-28 20:46:12.922892] Domain Name: zpav.pl.
+[2025-10-28 20:46:12.922929] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:12.982741] Received response from 8.8.8.8
+[2025-10-28 20:46:12.983051] RTT to forwarder: 59.77 ms
+[2025-10-28 20:46:12.983128] Total Time (Recursive): 60.16 ms
+[2025-10-28 20:46:12.983168] --- Query End (Recursive) ---
+[2025-10-28 20:46:21.820574] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:21.820996] Timestamp: 2025-10-28 20:46:21.820975
+[2025-10-28 20:46:21.821067] Domain Name: 120shenbing.com.
+[2025-10-28 20:46:21.821106] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:21.862819] Received response from 8.8.8.8
+[2025-10-28 20:46:21.862974] RTT to forwarder: 41.67 ms
+[2025-10-28 20:46:21.863007] Total Time (Recursive): 41.87 ms
+[2025-10-28 20:46:21.863130] --- Query End (Recursive) ---
+[2025-10-28 20:46:21.943450] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:21.943790] Timestamp: 2025-10-28 20:46:21.943773
+[2025-10-28 20:46:21.943846] Domain Name: 22hotmail.com.
+[2025-10-28 20:46:21.943879] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:21.994912] Received response from 8.8.8.8
+[2025-10-28 20:46:21.995258] RTT to forwarder: 51.00 ms
+[2025-10-28 20:46:21.995309] Total Time (Recursive): 51.40 ms
+[2025-10-28 20:46:21.995330] --- Query End (Recursive) ---
+[2025-10-28 20:46:22.071337] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:22.071603] Timestamp: 2025-10-28 20:46:22.071586
+[2025-10-28 20:46:22.071654] Domain Name: 2xfzy.com.
+[2025-10-28 20:46:22.071683] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:22.487169] Received response from 8.8.8.8
+[2025-10-28 20:46:22.487413] RTT to forwarder: 415.45 ms
+[2025-10-28 20:46:22.487464] Total Time (Recursive): 415.75 ms
+[2025-10-28 20:46:22.487487] --- Query End (Recursive) ---
+[2025-10-28 20:46:22.565672] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:22.566465] Timestamp: 2025-10-28 20:46:22.565830
+[2025-10-28 20:46:22.566692] Domain Name: 7apcrshrmanila.org.
+[2025-10-28 20:46:22.566804] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:22.949097] Received response from 8.8.8.8
+[2025-10-28 20:46:22.949255] RTT to forwarder: 382.09 ms
+[2025-10-28 20:46:22.949288] Total Time (Recursive): 382.29 ms
+[2025-10-28 20:46:22.949680] --- Query End (Recursive) ---
+[2025-10-28 20:46:23.033918] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:23.034236] Timestamp: 2025-10-28 20:46:23.034222
+[2025-10-28 20:46:23.034273] Domain Name: abhair.com.
+[2025-10-28 20:46:23.034297] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:23.068945] Received response from 8.8.8.8
+[2025-10-28 20:46:23.069141] RTT to forwarder: 34.62 ms
+[2025-10-28 20:46:23.069173] Total Time (Recursive): 34.85 ms
+[2025-10-28 20:46:23.069189] --- Query End (Recursive) ---
+[2025-10-28 20:46:23.164395] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:23.164784] Timestamp: 2025-10-28 20:46:23.164771
+[2025-10-28 20:46:23.164884] Domain Name: adverman.com.
+[2025-10-28 20:46:23.164930] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:23.196294] Received response from 8.8.8.8
+[2025-10-28 20:46:23.196583] RTT to forwarder: 31.33 ms
+[2025-10-28 20:46:23.196634] Total Time (Recursive): 31.68 ms
+[2025-10-28 20:46:23.196657] --- Query End (Recursive) ---
+[2025-10-28 20:46:23.270694] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:23.270975] Timestamp: 2025-10-28 20:46:23.270959
+[2025-10-28 20:46:23.271027] Domain Name: alb-automobiles.com.
+[2025-10-28 20:46:23.271054] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:23.321105] Received response from 8.8.8.8
+[2025-10-28 20:46:23.321673] RTT to forwarder: 50.02 ms
+[2025-10-28 20:46:23.321802] Total Time (Recursive): 50.72 ms
+[2025-10-28 20:46:23.321842] --- Query End (Recursive) ---
+[2025-10-28 20:46:23.401052] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:23.401568] Timestamp: 2025-10-28 20:46:23.401551
+[2025-10-28 20:46:23.401628] Domain Name: ana-sofia.pt.
+[2025-10-28 20:46:23.401659] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:23.460049] Received response from 8.8.8.8
+[2025-10-28 20:46:23.460224] RTT to forwarder: 58.36 ms
+[2025-10-28 20:46:23.460254] Total Time (Recursive): 58.57 ms
+[2025-10-28 20:46:23.460269] --- Query End (Recursive) ---
+[2025-10-28 20:46:23.527869] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:23.528170] Timestamp: 2025-10-28 20:46:23.528157
+[2025-10-28 20:46:23.528220] Domain Name: arrabonet.hu.
+[2025-10-28 20:46:23.528247] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:23.934482] Received response from 8.8.8.8
+[2025-10-28 20:46:23.934833] RTT to forwarder: 406.20 ms
+[2025-10-28 20:46:23.934895] Total Time (Recursive): 406.62 ms
+[2025-10-28 20:46:23.934925] --- Query End (Recursive) ---
+[2025-10-28 20:46:24.035563] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:24.035867] Timestamp: 2025-10-28 20:46:24.035850
+[2025-10-28 20:46:24.035919] Domain Name: auto-klad.ru.
+[2025-10-28 20:46:24.035944] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:24.076050] Received response from 8.8.8.8
+[2025-10-28 20:46:24.076390] RTT to forwarder: 40.08 ms
+[2025-10-28 20:46:24.076439] Total Time (Recursive): 40.47 ms
+[2025-10-28 20:46:24.076460] --- Query End (Recursive) ---
+[2025-10-28 20:46:24.153094] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:24.153410] Timestamp: 2025-10-28 20:46:24.153398
+[2025-10-28 20:46:24.153448] Domain Name: b2b2c.ca.
+[2025-10-28 20:46:24.153470] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:24.484995] Received response from 8.8.8.8
+[2025-10-28 20:46:24.485322] RTT to forwarder: 331.49 ms
+[2025-10-28 20:46:24.485401] Total Time (Recursive): 331.91 ms
+[2025-10-28 20:46:24.485442] --- Query End (Recursive) ---
+[2025-10-28 20:46:24.578224] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:24.578561] Timestamp: 2025-10-28 20:46:24.578540
+[2025-10-28 20:46:24.578626] Domain Name: bhhsneproperties.com.
+[2025-10-28 20:46:24.578665] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:24.635931] Received response from 8.8.8.8
+[2025-10-28 20:46:24.636287] RTT to forwarder: 57.22 ms
+[2025-10-28 20:46:24.636481] Total Time (Recursive): 57.78 ms
+[2025-10-28 20:46:24.636708] --- Query End (Recursive) ---
+[2025-10-28 20:46:24.734771] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:24.735156] Timestamp: 2025-10-28 20:46:24.735134
+[2025-10-28 20:46:24.735231] Domain Name: boh10suphanburi.com.
+[2025-10-28 20:46:24.735273] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:24.782426] Received response from 8.8.8.8
+[2025-10-28 20:46:24.783797] RTT to forwarder: 47.11 ms
+[2025-10-28 20:46:24.783900] Total Time (Recursive): 48.59 ms
+[2025-10-28 20:46:24.783941] --- Query End (Recursive) ---
+[2025-10-28 20:46:24.880243] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:24.880596] Timestamp: 2025-10-28 20:46:24.880574
+[2025-10-28 20:46:24.880667] Domain Name: boneshoppe.com.
+[2025-10-28 20:46:24.880727] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:24.990362] Received response from 8.8.8.8
+[2025-10-28 20:46:24.990786] RTT to forwarder: 109.59 ms
+[2025-10-28 20:46:24.990867] Total Time (Recursive): 110.10 ms
+[2025-10-28 20:46:24.990904] --- Query End (Recursive) ---
+[2025-10-28 20:46:25.085849] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:25.086502] Timestamp: 2025-10-28 20:46:25.086479
+[2025-10-28 20:46:25.086578] Domain Name: breezelaw.com.
+[2025-10-28 20:46:25.087020] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:25.146510] Received response from 8.8.8.8
+[2025-10-28 20:46:25.146830] RTT to forwarder: 59.42 ms
+[2025-10-28 20:46:25.146907] Total Time (Recursive): 59.82 ms
+[2025-10-28 20:46:25.146950] --- Query End (Recursive) ---
+[2025-10-28 20:46:25.235100] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:25.235487] Timestamp: 2025-10-28 20:46:25.235465
+[2025-10-28 20:46:25.235561] Domain Name: c0.pl.
+[2025-10-28 20:46:25.235601] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:25.708552] Received response from 8.8.8.8
+[2025-10-28 20:46:25.709043] RTT to forwarder: 472.91 ms
+[2025-10-28 20:46:25.710657] Total Time (Recursive): 475.01 ms
+[2025-10-28 20:46:25.710867] --- Query End (Recursive) ---
+[2025-10-28 20:46:25.797831] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:25.798186] Timestamp: 2025-10-28 20:46:25.798086
+[2025-10-28 20:46:25.798226] Domain Name: capequilog.com.
+[2025-10-28 20:46:25.798281] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:28.398399] Received response from 8.8.8.8
+[2025-10-28 20:46:28.398872] RTT to forwarder: 2600.04 ms
+[2025-10-28 20:46:28.398955] Total Time (Recursive): 2600.61 ms
+[2025-10-28 20:46:28.398992] --- Query End (Recursive) ---
+[2025-10-28 20:46:28.485411] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:28.486123] Timestamp: 2025-10-28 20:46:28.486100
+[2025-10-28 20:46:28.486192] Domain Name: carolgraykennedy.com.
+[2025-10-28 20:46:28.486230] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:28.549022] Received response from 8.8.8.8
+[2025-10-28 20:46:28.549660] RTT to forwarder: 62.75 ms
+[2025-10-28 20:46:28.549751] Total Time (Recursive): 63.48 ms
+[2025-10-28 20:46:28.549861] --- Query End (Recursive) ---
+[2025-10-28 20:46:28.631455] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:28.631831] Timestamp: 2025-10-28 20:46:28.631810
+[2025-10-28 20:46:28.631900] Domain Name: celerity.com.
+[2025-10-28 20:46:28.631940] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:28.674788] Received response from 8.8.8.8
+[2025-10-28 20:46:28.675470] RTT to forwarder: 42.80 ms
+[2025-10-28 20:46:28.675554] Total Time (Recursive): 43.58 ms
+[2025-10-28 20:46:28.675635] --- Query End (Recursive) ---
+[2025-10-28 20:46:28.772595] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:28.772908] Timestamp: 2025-10-28 20:46:28.772890
+[2025-10-28 20:46:28.772975] Domain Name: cellslider.net.
+[2025-10-28 20:46:28.773012] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:28.880193] Received response from 8.8.8.8
+[2025-10-28 20:46:28.880542] RTT to forwarder: 107.14 ms
+[2025-10-28 20:46:28.880620] Total Time (Recursive): 107.57 ms
+[2025-10-28 20:46:28.880657] --- Query End (Recursive) ---
+[2025-10-28 20:46:29.037164] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:29.038103] Timestamp: 2025-10-28 20:46:29.038078
+[2025-10-28 20:46:29.038181] Domain Name: closerdiets.com.
+[2025-10-28 20:46:29.038256] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:29.096122] Received response from 8.8.8.8
+[2025-10-28 20:46:29.096589] RTT to forwarder: 57.80 ms
+[2025-10-28 20:46:29.096668] Total Time (Recursive): 58.36 ms
+[2025-10-28 20:46:29.096707] --- Query End (Recursive) ---
+[2025-10-28 20:46:29.220348] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:29.220866] Timestamp: 2025-10-28 20:46:29.220847
+[2025-10-28 20:46:29.220933] Domain Name: contentremarketing.com.
+[2025-10-28 20:46:29.221236] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:29.590872] Received response from 8.8.8.8
+[2025-10-28 20:46:29.591295] RTT to forwarder: 369.56 ms
+[2025-10-28 20:46:29.591411] Total Time (Recursive): 370.11 ms
+[2025-10-28 20:46:29.591462] --- Query End (Recursive) ---
+[2025-10-28 20:46:29.680847] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:29.681576] Timestamp: 2025-10-28 20:46:29.681554
+[2025-10-28 20:46:29.681650] Domain Name: daytimeghosthunter.com.
+[2025-10-28 20:46:29.681687] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:29.733889] Received response from 8.8.8.8
+[2025-10-28 20:46:29.734650] RTT to forwarder: 52.16 ms
+[2025-10-28 20:46:29.734827] Total Time (Recursive): 53.10 ms
+[2025-10-28 20:46:29.734872] --- Query End (Recursive) ---
+[2025-10-28 20:46:29.817732] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:29.818133] Timestamp: 2025-10-28 20:46:29.818114
+[2025-10-28 20:46:29.818197] Domain Name: deine-bahn.de.
+[2025-10-28 20:46:29.818235] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:29.860668] Received response from 8.8.8.8
+[2025-10-28 20:46:29.860989] RTT to forwarder: 42.39 ms
+[2025-10-28 20:46:29.861276] Total Time (Recursive): 43.00 ms
+[2025-10-28 20:46:29.861325] --- Query End (Recursive) ---
+[2025-10-28 20:46:29.971126] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:29.971743] Timestamp: 2025-10-28 20:46:29.971710
+[2025-10-28 20:46:29.971860] Domain Name: divefishhouse.com.
+[2025-10-28 20:46:29.972030] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:30.090720] Received response from 8.8.8.8
+[2025-10-28 20:46:30.090941] RTT to forwarder: 118.61 ms
+[2025-10-28 20:46:30.091037] Total Time (Recursive): 118.94 ms
+[2025-10-28 20:46:30.091078] --- Query End (Recursive) ---
+[2025-10-28 20:46:30.209891] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:30.210242] Timestamp: 2025-10-28 20:46:30.210222
+[2025-10-28 20:46:30.210310] Domain Name: djbarryblends.com.
+[2025-10-28 20:46:30.210346] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:30.313908] Received response from 8.8.8.8
+[2025-10-28 20:46:30.314302] RTT to forwarder: 103.52 ms
+[2025-10-28 20:46:30.314379] Total Time (Recursive): 104.00 ms
+[2025-10-28 20:46:30.314419] --- Query End (Recursive) ---
+[2025-10-28 20:46:30.399127] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:30.399469] Timestamp: 2025-10-28 20:46:30.399448
+[2025-10-28 20:46:30.399535] Domain Name: dmg-dental.com.
+[2025-10-28 20:46:30.399575] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:30.453002] Received response from 8.8.8.8
+[2025-10-28 20:46:30.453311] RTT to forwarder: 53.38 ms
+[2025-10-28 20:46:30.453389] Total Time (Recursive): 53.78 ms
+[2025-10-28 20:46:30.453427] --- Query End (Recursive) ---
+[2025-10-28 20:46:30.544913] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:30.545277] Timestamp: 2025-10-28 20:46:30.545257
+[2025-10-28 20:46:30.545348] Domain Name: empclan.com.
+[2025-10-28 20:46:30.545386] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:30.818049] Received response from 8.8.8.8
+[2025-10-28 20:46:30.818588] RTT to forwarder: 272.62 ms
+[2025-10-28 20:46:30.820386] Total Time (Recursive): 274.94 ms
+[2025-10-28 20:46:30.820746] --- Query End (Recursive) ---
+[2025-10-28 20:46:30.908268] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:30.908473] Timestamp: 2025-10-28 20:46:30.908459
+[2025-10-28 20:46:30.908521] Domain Name: ereadz.com.
+[2025-10-28 20:46:30.908555] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:30.964709] Received response from 8.8.8.8
+[2025-10-28 20:46:30.964930] RTT to forwarder: 56.11 ms
+[2025-10-28 20:46:30.964979] Total Time (Recursive): 56.39 ms
+[2025-10-28 20:46:30.965015] --- Query End (Recursive) ---
+[2025-10-28 20:46:31.082878] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:31.083113] Timestamp: 2025-10-28 20:46:31.083096
+[2025-10-28 20:46:31.083163] Domain Name: florenseusa.com.
+[2025-10-28 20:46:31.083504] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:31.137092] Received response from 8.8.8.8
+[2025-10-28 20:46:31.137320] RTT to forwarder: 53.50 ms
+[2025-10-28 20:46:31.137373] Total Time (Recursive): 53.80 ms
+[2025-10-28 20:46:31.137405] --- Query End (Recursive) ---
+[2025-10-28 20:46:31.236613] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:31.237013] Timestamp: 2025-10-28 20:46:31.236991
+[2025-10-28 20:46:31.237087] Domain Name: frasesdemotivacao.net.
+[2025-10-28 20:46:31.237126] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:31.304959] Received response from 8.8.8.8
+[2025-10-28 20:46:31.305859] RTT to forwarder: 67.79 ms
+[2025-10-28 20:46:31.305949] Total Time (Recursive): 68.79 ms
+[2025-10-28 20:46:31.305989] --- Query End (Recursive) ---
+[2025-10-28 20:46:31.414037] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:31.414269] Timestamp: 2025-10-28 20:46:31.414255
+[2025-10-28 20:46:31.414318] Domain Name: freepornvideosx.com.
+[2025-10-28 20:46:31.414352] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:31.474175] Received response from 8.8.8.8
+[2025-10-28 20:46:31.474396] RTT to forwarder: 59.78 ms
+[2025-10-28 20:46:31.474442] Total Time (Recursive): 60.06 ms
+[2025-10-28 20:46:31.474478] --- Query End (Recursive) ---
+[2025-10-28 20:46:31.565027] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:31.565925] Timestamp: 2025-10-28 20:46:31.565901
+[2025-10-28 20:46:31.566089] Domain Name: gaplex.biz.
+[2025-10-28 20:46:31.566150] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:31.606434] Received response from 8.8.8.8
+[2025-10-28 20:46:31.606877] RTT to forwarder: 40.23 ms
+[2025-10-28 20:46:31.607003] Total Time (Recursive): 40.81 ms
+[2025-10-28 20:46:31.607242] --- Query End (Recursive) ---
+[2025-10-28 20:46:31.693853] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:31.694718] Timestamp: 2025-10-28 20:46:31.694692
+[2025-10-28 20:46:31.694871] Domain Name: gardeninginflorida.com.
+[2025-10-28 20:46:31.694915] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:31.810307] Received response from 8.8.8.8
+[2025-10-28 20:46:31.810516] RTT to forwarder: 115.34 ms
+[2025-10-28 20:46:31.810566] Total Time (Recursive): 115.61 ms
+[2025-10-28 20:46:31.810598] --- Query End (Recursive) ---
+[2025-10-28 20:46:31.897957] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:31.898257] Timestamp: 2025-10-28 20:46:31.898239
+[2025-10-28 20:46:31.898321] Domain Name: go2jump.com.
+[2025-10-28 20:46:31.898360] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:31.950169] Received response from 8.8.8.8
+[2025-10-28 20:46:31.950529] RTT to forwarder: 51.76 ms
+[2025-10-28 20:46:31.950608] Total Time (Recursive): 52.21 ms
+[2025-10-28 20:46:31.950644] --- Query End (Recursive) ---
+[2025-10-28 20:46:32.038169] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:32.038496] Timestamp: 2025-10-28 20:46:32.038475
+[2025-10-28 20:46:32.038568] Domain Name: godo.co.kr.
+[2025-10-28 20:46:32.038610] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:32.285643] Received response from 8.8.8.8
+[2025-10-28 20:46:32.286311] RTT to forwarder: 246.99 ms
+[2025-10-28 20:46:32.286401] Total Time (Recursive): 247.75 ms
+[2025-10-28 20:46:32.286548] --- Query End (Recursive) ---
+[2025-10-28 20:46:32.382189] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:32.382623] Timestamp: 2025-10-28 20:46:32.382604
+[2025-10-28 20:46:32.382676] Domain Name: grandcanyongrandhotel.com.
+[2025-10-28 20:46:32.382713] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:32.509030] Received response from 8.8.8.8
+[2025-10-28 20:46:32.509782] RTT to forwarder: 126.27 ms
+[2025-10-28 20:46:32.509870] Total Time (Recursive): 127.12 ms
+[2025-10-28 20:46:32.509910] --- Query End (Recursive) ---
+[2025-10-28 20:46:32.615152] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:32.615670] Timestamp: 2025-10-28 20:46:32.615647
+[2025-10-28 20:46:32.615739] Domain Name: greens.my.
+[2025-10-28 20:46:32.615779] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:32.685301] Received response from 8.8.8.8
+[2025-10-28 20:46:32.686039] RTT to forwarder: 69.36 ms
+[2025-10-28 20:46:32.686122] Total Time (Recursive): 70.19 ms
+[2025-10-28 20:46:32.686159] --- Query End (Recursive) ---
+[2025-10-28 20:46:32.800260] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:32.800619] Timestamp: 2025-10-28 20:46:32.800598
+[2025-10-28 20:46:32.800696] Domain Name: gurukulonline.com.
+[2025-10-28 20:46:32.800738] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:32.850525] Received response from 8.8.8.8
+[2025-10-28 20:46:32.850853] RTT to forwarder: 49.74 ms
+[2025-10-28 20:46:32.850929] Total Time (Recursive): 50.15 ms
+[2025-10-28 20:46:32.851011] --- Query End (Recursive) ---
+[2025-10-28 20:46:32.935256] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:32.935922] Timestamp: 2025-10-28 20:46:32.935901
+[2025-10-28 20:46:32.935992] Domain Name: gustissimo.it.
+[2025-10-28 20:46:32.936029] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:32.988713] Received response from 8.8.8.8
+[2025-10-28 20:46:32.989108] RTT to forwarder: 52.64 ms
+[2025-10-28 20:46:32.989192] Total Time (Recursive): 53.13 ms
+[2025-10-28 20:46:32.989231] --- Query End (Recursive) ---
+[2025-10-28 20:46:33.116600] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:33.116950] Timestamp: 2025-10-28 20:46:33.116929
+[2025-10-28 20:46:33.117016] Domain Name: hackthissite.org.
+[2025-10-28 20:46:33.117052] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:33.183063] Received response from 8.8.8.8
+[2025-10-28 20:46:33.183415] RTT to forwarder: 65.96 ms
+[2025-10-28 20:46:33.183499] Total Time (Recursive): 66.41 ms
+[2025-10-28 20:46:33.183540] --- Query End (Recursive) ---
+[2025-10-28 20:46:33.286525] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:33.286971] Timestamp: 2025-10-28 20:46:33.286949
+[2025-10-28 20:46:33.287039] Domain Name: ilikecrochet.com.
+[2025-10-28 20:46:33.287077] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:33.369610] Received response from 8.8.8.8
+[2025-10-28 20:46:33.370051] RTT to forwarder: 82.48 ms
+[2025-10-28 20:46:33.370234] Total Time (Recursive): 83.12 ms
+[2025-10-28 20:46:33.370329] --- Query End (Recursive) ---
+[2025-10-28 20:46:33.455680] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:33.456012] Timestamp: 2025-10-28 20:46:33.455993
+[2025-10-28 20:46:33.456084] Domain Name: iointegrators.com.
+[2025-10-28 20:46:33.456120] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:33.522878] Received response from 8.8.8.8
+[2025-10-28 20:46:33.523218] RTT to forwarder: 66.65 ms
+[2025-10-28 20:46:33.523303] Total Time (Recursive): 67.15 ms
+[2025-10-28 20:46:33.523344] --- Query End (Recursive) ---
+[2025-10-28 20:46:33.606383] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:33.606831] Timestamp: 2025-10-28 20:46:33.606812
+[2025-10-28 20:46:33.606905] Domain Name: irflashgame.com.
+[2025-10-28 20:46:33.606944] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:33.872687] Received response from 8.8.8.8
+[2025-10-28 20:46:33.873075] RTT to forwarder: 265.70 ms
+[2025-10-28 20:46:33.873156] Total Time (Recursive): 266.18 ms
+[2025-10-28 20:46:33.873458] --- Query End (Recursive) ---
+[2025-10-28 20:46:33.960530] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:33.960855] Timestamp: 2025-10-28 20:46:33.960835
+[2025-10-28 20:46:33.961161] Domain Name: itgeorgia.co.
+[2025-10-28 20:46:33.961505] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:34.016114] Received response from 8.8.8.8
+[2025-10-28 20:46:34.016534] RTT to forwarder: 54.54 ms
+[2025-10-28 20:46:34.016616] Total Time (Recursive): 55.05 ms
+[2025-10-28 20:46:34.016657] --- Query End (Recursive) ---
+[2025-10-28 20:46:34.111100] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:34.111368] Timestamp: 2025-10-28 20:46:34.111318
+[2025-10-28 20:46:34.111427] Domain Name: jacquelinemertz.ch.
+[2025-10-28 20:46:34.111465] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:34.148120] Received response from 8.8.8.8
+[2025-10-28 20:46:34.148560] RTT to forwarder: 36.59 ms
+[2025-10-28 20:46:34.148639] Total Time (Recursive): 37.12 ms
+[2025-10-28 20:46:34.149303] --- Query End (Recursive) ---
+[2025-10-28 20:46:34.246553] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:34.246781] Timestamp: 2025-10-28 20:46:34.246767
+[2025-10-28 20:46:34.246828] Domain Name: kanoon-ansar.org.
+[2025-10-28 20:46:34.246862] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:34.359720] Received response from 8.8.8.8
+[2025-10-28 20:46:34.359937] RTT to forwarder: 112.81 ms
+[2025-10-28 20:46:34.359984] Total Time (Recursive): 113.09 ms
+[2025-10-28 20:46:34.360018] --- Query End (Recursive) ---
+[2025-10-28 20:46:34.449876] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:34.450147] Timestamp: 2025-10-28 20:46:34.450132
+[2025-10-28 20:46:34.450194] Domain Name: kiyimuzik.com.
+[2025-10-28 20:46:34.450229] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:34.496319] Received response from 8.8.8.8
+[2025-10-28 20:46:34.496683] RTT to forwarder: 46.05 ms
+[2025-10-28 20:46:34.496765] Total Time (Recursive): 46.50 ms
+[2025-10-28 20:46:34.496803] --- Query End (Recursive) ---
+[2025-10-28 20:46:34.600659] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:34.600910] Timestamp: 2025-10-28 20:46:34.600895
+[2025-10-28 20:46:34.600957] Domain Name: koopsmodellbau.de.
+[2025-10-28 20:46:34.601185] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:34.648248] Received response from 8.8.8.8
+[2025-10-28 20:46:34.648607] RTT to forwarder: 47.01 ms
+[2025-10-28 20:46:34.648690] Total Time (Recursive): 47.46 ms
+[2025-10-28 20:46:34.648730] --- Query End (Recursive) ---
+[2025-10-28 20:46:34.730773] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:34.731091] Timestamp: 2025-10-28 20:46:34.731071
+[2025-10-28 20:46:34.731160] Domain Name: lespetiteschoses.com.
+[2025-10-28 20:46:34.731199] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:35.015979] Received response from 8.8.8.8
+[2025-10-28 20:46:35.016390] RTT to forwarder: 284.74 ms
+[2025-10-28 20:46:35.016471] Total Time (Recursive): 285.24 ms
+[2025-10-28 20:46:35.016507] --- Query End (Recursive) ---
+[2025-10-28 20:46:35.104613] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:35.105237] Timestamp: 2025-10-28 20:46:35.105213
+[2025-10-28 20:46:35.105318] Domain Name: livescan4all.com.
+[2025-10-28 20:46:35.105728] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:35.162940] Received response from 8.8.8.8
+[2025-10-28 20:46:35.163295] RTT to forwarder: 56.95 ms
+[2025-10-28 20:46:35.163371] Total Time (Recursive): 57.39 ms
+[2025-10-28 20:46:35.163411] --- Query End (Recursive) ---
+[2025-10-28 20:46:35.254157] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:35.255521] Timestamp: 2025-10-28 20:46:35.255496
+[2025-10-28 20:46:35.255606] Domain Name: magic-illusion.ru.
+[2025-10-28 20:46:35.255644] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:35.654923] Received response from 8.8.8.8
+[2025-10-28 20:46:35.655278] RTT to forwarder: 399.23 ms
+[2025-10-28 20:46:35.655351] Total Time (Recursive): 399.67 ms
+[2025-10-28 20:46:35.655388] --- Query End (Recursive) ---
+[2025-10-28 20:46:35.740445] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:35.740873] Timestamp: 2025-10-28 20:46:35.740854
+[2025-10-28 20:46:35.740925] Domain Name: majorleaguelacrosse.com.
+[2025-10-28 20:46:35.740959] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:35.790124] Received response from 8.8.8.8
+[2025-10-28 20:46:35.790470] RTT to forwarder: 49.12 ms
+[2025-10-28 20:46:35.791154] Total Time (Recursive): 50.14 ms
+[2025-10-28 20:46:35.791302] --- Query End (Recursive) ---
+[2025-10-28 20:46:35.885143] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:35.885844] Timestamp: 2025-10-28 20:46:35.885823
+[2025-10-28 20:46:35.886174] Domain Name: medintime.ru.
+[2025-10-28 20:46:35.886270] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:36.194223] Received response from 8.8.8.8
+[2025-10-28 20:46:36.194576] RTT to forwarder: 307.88 ms
+[2025-10-28 20:46:36.194653] Total Time (Recursive): 308.32 ms
+[2025-10-28 20:46:36.194689] --- Query End (Recursive) ---
+[2025-10-28 20:46:36.298246] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:36.298600] Timestamp: 2025-10-28 20:46:36.298579
+[2025-10-28 20:46:36.298707] Domain Name: meditekyazilim.net.
+[2025-10-28 20:46:36.298762] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:36.778573] Received response from 8.8.8.8
+[2025-10-28 20:46:36.778948] RTT to forwarder: 479.76 ms
+[2025-10-28 20:46:36.779018] Total Time (Recursive): 480.22 ms
+[2025-10-28 20:46:36.779056] --- Query End (Recursive) ---
+[2025-10-28 20:46:36.885780] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:36.886160] Timestamp: 2025-10-28 20:46:36.886140
+[2025-10-28 20:46:36.886231] Domain Name: megi.cz.
+[2025-10-28 20:46:36.886272] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:37.004597] Received response from 8.8.8.8
+[2025-10-28 20:46:37.004983] RTT to forwarder: 118.18 ms
+[2025-10-28 20:46:37.005072] Total Time (Recursive): 118.66 ms
+[2025-10-28 20:46:37.005111] --- Query End (Recursive) ---
+[2025-10-28 20:46:37.109840] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:37.110202] Timestamp: 2025-10-28 20:46:37.110183
+[2025-10-28 20:46:37.110270] Domain Name: millionfareast.com.
+[2025-10-28 20:46:37.110307] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:37.165285] Received response from 8.8.8.8
+[2025-10-28 20:46:37.165871] RTT to forwarder: 54.93 ms
+[2025-10-28 20:46:37.166097] Total Time (Recursive): 55.74 ms
+[2025-10-28 20:46:37.166219] --- Query End (Recursive) ---
+[2025-10-28 20:46:37.276360] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:37.276751] Timestamp: 2025-10-28 20:46:37.276730
+[2025-10-28 20:46:37.276822] Domain Name: miscellaneousheathen.com.
+[2025-10-28 20:46:37.276859] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:37.318041] Received response from 8.8.8.8
+[2025-10-28 20:46:37.318233] RTT to forwarder: 41.14 ms
+[2025-10-28 20:46:37.318285] Total Time (Recursive): 41.39 ms
+[2025-10-28 20:46:37.318323] --- Query End (Recursive) ---
+[2025-10-28 20:46:37.416547] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:37.417790] Timestamp: 2025-10-28 20:46:37.417759
+[2025-10-28 20:46:37.417883] Domain Name: msf.be.
+[2025-10-28 20:46:37.417910] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:37.464813] Received response from 8.8.8.8
+[2025-10-28 20:46:37.465803] RTT to forwarder: 46.87 ms
+[2025-10-28 20:46:37.466277] Total Time (Recursive): 48.33 ms
+[2025-10-28 20:46:37.466453] --- Query End (Recursive) ---
+[2025-10-28 20:46:37.552709] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:37.553028] Timestamp: 2025-10-28 20:46:37.553005
+[2025-10-28 20:46:37.553094] Domain Name: muhammedmusa.com.
+[2025-10-28 20:46:37.553492] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:37.603291] Received response from 8.8.8.8
+[2025-10-28 20:46:37.603693] RTT to forwarder: 49.72 ms
+[2025-10-28 20:46:37.603780] Total Time (Recursive): 50.22 ms
+[2025-10-28 20:46:37.603816] --- Query End (Recursive) ---
+[2025-10-28 20:46:37.686276] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:37.686750] Timestamp: 2025-10-28 20:46:37.686725
+[2025-10-28 20:46:37.686919] Domain Name: myface.com.
+[2025-10-28 20:46:37.687128] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:37.724121] Received response from 8.8.8.8
+[2025-10-28 20:46:37.724489] RTT to forwarder: 36.94 ms
+[2025-10-28 20:46:37.724570] Total Time (Recursive): 37.39 ms
+[2025-10-28 20:46:37.724609] --- Query End (Recursive) ---
+[2025-10-28 20:46:37.842398] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:37.842817] Timestamp: 2025-10-28 20:46:37.842755
+[2025-10-28 20:46:37.842899] Domain Name: myfantasticpark.es.
+[2025-10-28 20:46:37.842943] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:37.886763] Received response from 8.8.8.8
+[2025-10-28 20:46:37.887145] RTT to forwarder: 43.75 ms
+[2025-10-28 20:46:37.887228] Total Time (Recursive): 44.22 ms
+[2025-10-28 20:46:37.887267] --- Query End (Recursive) ---
+[2025-10-28 20:46:37.994649] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:37.994885] Timestamp: 2025-10-28 20:46:37.994870
+[2025-10-28 20:46:37.994932] Domain Name: ngoanhien.com.
+[2025-10-28 20:46:37.994968] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:38.046577] Received response from 8.8.8.8
+[2025-10-28 20:46:38.046813] RTT to forwarder: 51.57 ms
+[2025-10-28 20:46:38.046866] Total Time (Recursive): 51.87 ms
+[2025-10-28 20:46:38.046902] --- Query End (Recursive) ---
+[2025-10-28 20:46:38.138050] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:38.138309] Timestamp: 2025-10-28 20:46:38.138295
+[2025-10-28 20:46:38.138356] Domain Name: njafe.org.
+[2025-10-28 20:46:38.138390] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:38.193290] Received response from 8.8.8.8
+[2025-10-28 20:46:38.193527] RTT to forwarder: 54.86 ms
+[2025-10-28 20:46:38.193577] Total Time (Recursive): 55.15 ms
+[2025-10-28 20:46:38.193610] --- Query End (Recursive) ---
+[2025-10-28 20:46:38.297020] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:38.297254] Timestamp: 2025-10-28 20:46:38.297239
+[2025-10-28 20:46:38.297301] Domain Name: oberandsons.com.
+[2025-10-28 20:46:38.297337] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:38.618256] Received response from 8.8.8.8
+[2025-10-28 20:46:38.618477] RTT to forwarder: 320.87 ms
+[2025-10-28 20:46:38.618528] Total Time (Recursive): 321.16 ms
+[2025-10-28 20:46:38.618562] --- Query End (Recursive) ---
+[2025-10-28 20:46:38.714240] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:38.714680] Timestamp: 2025-10-28 20:46:38.714659
+[2025-10-28 20:46:38.714883] Domain Name: ok-magazine.ru.
+[2025-10-28 20:46:38.714945] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:39.160808] Received response from 8.8.8.8
+[2025-10-28 20:46:39.161244] RTT to forwarder: 445.81 ms
+[2025-10-28 20:46:39.161324] Total Time (Recursive): 446.33 ms
+[2025-10-28 20:46:39.161414] --- Query End (Recursive) ---
+[2025-10-28 20:46:39.249226] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:39.249934] Timestamp: 2025-10-28 20:46:39.249913
+[2025-10-28 20:46:39.250013] Domain Name: onetoshop.nl.
+[2025-10-28 20:46:39.250148] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:39.292748] Received response from 8.8.8.8
+[2025-10-28 20:46:39.293119] RTT to forwarder: 42.53 ms
+[2025-10-28 20:46:39.293432] Total Time (Recursive): 43.22 ms
+[2025-10-28 20:46:39.293483] --- Query End (Recursive) ---
+[2025-10-28 20:46:39.367011] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:39.367357] Timestamp: 2025-10-28 20:46:39.367337
+[2025-10-28 20:46:39.367420] Domain Name: oneworldinfo.com.
+[2025-10-28 20:46:39.367457] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:39.416318] Received response from 8.8.8.8
+[2025-10-28 20:46:39.417072] RTT to forwarder: 48.81 ms
+[2025-10-28 20:46:39.417177] Total Time (Recursive): 49.67 ms
+[2025-10-28 20:46:39.417216] --- Query End (Recursive) ---
+[2025-10-28 20:46:39.511551] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:39.512031] Timestamp: 2025-10-28 20:46:39.512011
+[2025-10-28 20:46:39.512087] Domain Name: originalmagicart.com.
+[2025-10-28 20:46:39.512126] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:39.608279] Received response from 8.8.8.8
+[2025-10-28 20:46:39.608498] RTT to forwarder: 96.11 ms
+[2025-10-28 20:46:39.608549] Total Time (Recursive): 96.39 ms
+[2025-10-28 20:46:39.608582] --- Query End (Recursive) ---
+[2025-10-28 20:46:39.698254] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:39.698630] Timestamp: 2025-10-28 20:46:39.698612
+[2025-10-28 20:46:39.698692] Domain Name: overseasmedical.com.
+[2025-10-28 20:46:39.698729] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:40.089008] Received response from 8.8.8.8
+[2025-10-28 20:46:40.089785] RTT to forwarder: 390.21 ms
+[2025-10-28 20:46:40.090001] Total Time (Recursive): 391.21 ms
+[2025-10-28 20:46:40.090064] --- Query End (Recursive) ---
+[2025-10-28 20:46:40.199754] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:40.200123] Timestamp: 2025-10-28 20:46:40.200104
+[2025-10-28 20:46:40.200191] Domain Name: pces.in.
+[2025-10-28 20:46:40.200226] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:40.320755] Received response from 8.8.8.8
+[2025-10-28 20:46:40.321417] RTT to forwarder: 120.48 ms
+[2025-10-28 20:46:40.321509] Total Time (Recursive): 121.24 ms
+[2025-10-28 20:46:40.321549] --- Query End (Recursive) ---
+[2025-10-28 20:46:40.424636] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:40.425357] Timestamp: 2025-10-28 20:46:40.425336
+[2025-10-28 20:46:40.425428] Domain Name: pilsnerurquell.com.
+[2025-10-28 20:46:40.425465] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:40.475570] Received response from 8.8.8.8
+[2025-10-28 20:46:40.475823] RTT to forwarder: 50.06 ms
+[2025-10-28 20:46:40.475879] Total Time (Recursive): 50.38 ms
+[2025-10-28 20:46:40.475913] --- Query End (Recursive) ---
+[2025-10-28 20:46:40.614031] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:40.615277] Timestamp: 2025-10-28 20:46:40.615253
+[2025-10-28 20:46:40.615741] Domain Name: ranocchi.it.
+[2025-10-28 20:46:40.615806] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:40.887415] Received response from 8.8.8.8
+[2025-10-28 20:46:40.887941] RTT to forwarder: 271.56 ms
+[2025-10-28 20:46:40.888033] Total Time (Recursive): 272.18 ms
+[2025-10-28 20:46:40.888073] --- Query End (Recursive) ---
+[2025-10-28 20:46:40.981323] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:40.981550] Timestamp: 2025-10-28 20:46:40.981536
+[2025-10-28 20:46:40.981594] Domain Name: roche-applied-science.com.
+[2025-10-28 20:46:40.981629] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:41.096921] Received response from 8.8.8.8
+[2025-10-28 20:46:41.097628] RTT to forwarder: 115.25 ms
+[2025-10-28 20:46:41.097714] Total Time (Recursive): 116.05 ms
+[2025-10-28 20:46:41.097753] --- Query End (Recursive) ---
+[2025-10-28 20:46:41.183180] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:41.183841] Timestamp: 2025-10-28 20:46:41.183818
+[2025-10-28 20:46:41.183930] Domain Name: rolflouisville.com.
+[2025-10-28 20:46:41.183972] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:41.220772] Received response from 8.8.8.8
+[2025-10-28 20:46:41.221246] RTT to forwarder: 36.75 ms
+[2025-10-28 20:46:41.221362] Total Time (Recursive): 37.35 ms
+[2025-10-28 20:46:41.221421] --- Query End (Recursive) ---
+[2025-10-28 20:46:41.313262] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:41.314175] Timestamp: 2025-10-28 20:46:41.314152
+[2025-10-28 20:46:41.314250] Domain Name: rositehost.com.
+[2025-10-28 20:46:41.314290] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:41.757612] Received response from 8.8.8.8
+[2025-10-28 20:46:41.758467] RTT to forwarder: 443.23 ms
+[2025-10-28 20:46:41.758565] Total Time (Recursive): 444.19 ms
+[2025-10-28 20:46:41.758604] --- Query End (Recursive) ---
+[2025-10-28 20:46:41.858635] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:41.859189] Timestamp: 2025-10-28 20:46:41.859167
+[2025-10-28 20:46:41.859263] Domain Name: rubenquinones.com.
+[2025-10-28 20:46:41.859939] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:42.019683] Received response from 8.8.8.8
+[2025-10-28 20:46:42.020016] RTT to forwarder: 159.66 ms
+[2025-10-28 20:46:42.020095] Total Time (Recursive): 160.09 ms
+[2025-10-28 20:46:42.020134] --- Query End (Recursive) ---
+[2025-10-28 20:46:42.112884] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:42.113587] Timestamp: 2025-10-28 20:46:42.113565
+[2025-10-28 20:46:42.113664] Domain Name: saharaimport.com.
+[2025-10-28 20:46:42.113704] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:42.154296] Received response from 8.8.8.8
+[2025-10-28 20:46:42.154967] RTT to forwarder: 40.52 ms
+[2025-10-28 20:46:42.155073] Total Time (Recursive): 41.30 ms
+[2025-10-28 20:46:42.155111] --- Query End (Recursive) ---
+[2025-10-28 20:46:42.246438] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:42.246837] Timestamp: 2025-10-28 20:46:42.246818
+[2025-10-28 20:46:42.246904] Domain Name: sapendolo.it.
+[2025-10-28 20:46:42.246942] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:42.295067] Received response from 8.8.8.8
+[2025-10-28 20:46:42.295439] RTT to forwarder: 48.08 ms
+[2025-10-28 20:46:42.295522] Total Time (Recursive): 48.54 ms
+[2025-10-28 20:46:42.295563] --- Query End (Recursive) ---
+[2025-10-28 20:46:42.365973] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:42.366335] Timestamp: 2025-10-28 20:46:42.366314
+[2025-10-28 20:46:42.366405] Domain Name: sf-notifications.com.
+[2025-10-28 20:46:42.366445] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:42.420319] Received response from 8.8.8.8
+[2025-10-28 20:46:42.421302] RTT to forwarder: 53.83 ms
+[2025-10-28 20:46:42.421882] Total Time (Recursive): 55.40 ms
+[2025-10-28 20:46:42.421949] --- Query End (Recursive) ---
+[2025-10-28 20:46:42.504277] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:42.504725] Timestamp: 2025-10-28 20:46:42.504705
+[2025-10-28 20:46:42.504896] Domain Name: silkroadtours.com.
+[2025-10-28 20:46:42.504959] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:42.580621] Received response from 8.8.8.8
+[2025-10-28 20:46:42.581209] RTT to forwarder: 67.35 ms
+[2025-10-28 20:46:42.581579] Total Time (Recursive): 68.29 ms
+[2025-10-28 20:46:42.581643] --- Query End (Recursive) ---
+[2025-10-28 20:46:42.696437] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:42.696947] Timestamp: 2025-10-28 20:46:42.696929
+[2025-10-28 20:46:42.697014] Domain Name: sipflash.com.
+[2025-10-28 20:46:42.697054] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:43.086214] Received response from 8.8.8.8
+[2025-10-28 20:46:43.086565] RTT to forwarder: 389.12 ms
+[2025-10-28 20:46:43.086688] Total Time (Recursive): 389.60 ms
+[2025-10-28 20:46:43.086732] --- Query End (Recursive) ---
+[2025-10-28 20:46:43.255435] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:43.255792] Timestamp: 2025-10-28 20:46:43.255772
+[2025-10-28 20:46:43.255858] Domain Name: sitiweb.us.
+[2025-10-28 20:46:43.255897] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:43.308364] Received response from 8.8.8.8
+[2025-10-28 20:46:43.308717] RTT to forwarder: 52.42 ms
+[2025-10-28 20:46:43.308797] Total Time (Recursive): 52.86 ms
+[2025-10-28 20:46:43.308833] --- Query End (Recursive) ---
+[2025-10-28 20:46:43.405326] --- New Query (Recursive Request) ---
+[2025-10-28 20:46:43.405739] Timestamp: 2025-10-28 20:46:43.405660
+[2025-10-28 20:46:43.405816] Domain Name: skplus.kr.
+[2025-10-28 20:46:43.405856] Resolution Mode: Recursive (Forwarding to 8.8.8.8)
+[2025-10-28 20:46:43.618556] Received response from 8.8.8.8
+[2025-10-28 20:46:43.618928] RTT to forwarder: 212.55 ms
+[2025-10-28 20:46:43.619010] Total Time (Recursive): 213.02 ms
+[2025-10-28 20:46:43.619048] --- Query End (Recursive) ---
