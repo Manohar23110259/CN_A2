@@ -2,12 +2,12 @@
 # CS331: Computer Networks Assignment 2 - DNS Query Resolution
 
 
-## [cite_start]Task A: Network Simulation and Connectivity (20 Points) [cite: 11]
+## Task A: Network Simulation and Connectivity (20 Points) 
 
 **Objective:** Simulate the provided network topology in Mininet and verify connectivity among all nodes.
 
 **Implementation:**
-* [cite_start]A Python script (`topology.py`) was created using the Mininet API to define hosts (H1-H4, DNS Resolver `10.0.0.5`) [cite: 12-22, 31][cite_start], switches (S1-S4) [cite: 23, 25, 27, 29][cite_start], and links with specified bandwidths and delays (e.g., 100Mbps, 1ms-10ms) [cite: 16, 17, 19, 22, 24, 26, 28, 30] using `TCLink`.
+* A Python script (`topology.py`) was created using the Mininet API to define hosts (H1-H4, DNS Resolver `10.0.0.5`) [cite: 12-22, 31], switches (S1-S4) [cite: 23, 25, 27, 29], and links with specified bandwidths and delays (e.g., 100Mbps, 1ms-10ms) [cite: 16, 17, 19, 22, 24, 26, 28, 30] using `TCLink`.
 * A NAT node was added to `topology.py` to provide internet access for later tasks.
 
 **Verification:**
@@ -20,7 +20,7 @@
 
 ---
 
-## [cite_start]Task B: Baseline DNS Performance (Default Resolver) (10 Points) [cite: 33]
+## Task B: Baseline DNS Performance (Default Resolver) (10 Points) 
 
 **Objective:** Measure baseline DNS performance (latency, throughput, success/fail counts) using the default system resolver (simulated by querying `8.8.8.8`).
 
@@ -42,7 +42,7 @@
 
 ---
 
-## [cite_start]Task C: Configure Custom DNS Resolver (10 Points) [cite: 35]
+## Task C: Configure Custom DNS Resolver (10 Points) 
 
 **Objective:** Modify host configurations to use a custom DNS resolver (`10.0.0.5`) instead of the default.
 
@@ -62,15 +62,15 @@
 
 ---
 
-## [cite_start]Task D: Custom Resolver Performance and Analysis (60 Points) [cite: 37]
+## Task D: Custom Resolver Performance and Analysis (60 Points) 
 
-[cite_start]**Objective:** Measure the performance of the custom iterative resolver, log detailed steps [cite: 38-49][cite_start], compare with Task B, and visualize results for H1[cite: 50].
+**Objective:** Measure the performance of the custom iterative resolver, log detailed steps [cite: 38-49], compare with Task B, and visualize results for H1[cite: 50].
 
 **Implementation:**
 * Using the setup from Task C (Mininet running, custom iterative server running on `dns`, hosts configured), the `dig` loops were re-run for H1-H4.
 * This time, `dig $domain` (without `@8.8.8.8`) automatically queried `10.0.0.5`.
 * Results were saved to `h*_custom_results.txt`.
-* [cite_start]The server automatically logged detailed steps (Timestamp, Domain, Mode, Server IP, Step, RTT, Total Time, Cache Status) to `iterative_resolver.log` (or `custom_resolver.log`) [cite: 39-49].
+* The server automatically logged detailed steps (Timestamp, Domain, Mode, Server IP, Step, RTT, Total Time, Cache Status) to `iterative_resolver.log` (or `custom_resolver.log`) [cite: 39-49].
 * After exiting, `grep`/`awk` were used on `h*_custom_results.txt` for statistics.
 * A Python script (`extract_plot_data_clean.py`) parsed `iterative_resolver.log` to get data for the first 10 H1 URLs.
 * Another Python script (`create_plots.py`) generated the plots using `matplotlib`.
@@ -103,7 +103,7 @@
 
 ---
 
-## [cite_start]Bonus Task E: Recursive Resolution (2.5 Points) [cite: 53]
+## Bonus Task E: Recursive Resolution (2.5 Points)
 
 **Objective:** Implement and test a recursive resolution mode in the custom resolver by forwarding queries.
 
@@ -124,7 +124,7 @@
 
 ---
 
-## [cite_start]Bonus Task F: Caching Implementation (2.5 Points) [cite: 58]
+## Bonus Task F: Caching Implementation (2.5 Points)
 
 **Objective:** Implement caching in the custom iterative resolver to improve performance.
 
